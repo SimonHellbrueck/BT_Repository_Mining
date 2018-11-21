@@ -1,0 +1,21 @@
+#!/bin/bash
+csv_file=kotlin_code_smells.csv
+rm $csv_file
+rep_names="kotlin_repository_names"
+echo Project, LC, LM, LPL, TMM >> $csv_file
+while read -r line; do
+	rep_name="$line"
+	rep_name="Logs_Kotlin_Smells/${rep_name##*/}"
+
+	largeClassCount=0
+	longMethodCount=0
+	longParameterListCount=0
+	tooManyFunctionsCount=0
+
+	largeClassCount=$(grep -c "LargeClass" $rep_name)
+	longMethodCount=$(grep -c "LongMethod" $rep_name)
+	longParameterListCount=$(grep -c "LongParameterList" $rep_name)
+	tooManyFunctionsCount=$(grep -c "TooManyFunctions" $rep_name)
+	echo ${rep_name##*/}, $largeClassCount, $longMethodCount, $longParameterListCount, $tooManyFunctionsCount  >> $csv_file
+done < "$rep_names"  
+

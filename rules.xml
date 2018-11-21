@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ruleset name="PMD.rul" xmlns="http://pmd.sourceforge.net/ruleset/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+
+  <description>This ruleset was created from PMD.rul</description>
+
+  <rule ref="category/java/design.xml/TooManyMethods">
+    <properties>
+        <property name="maxmethods" value="1" />
+    </properties>
+  </rule>
+
+  <rule ref="category/java/design.xml/ExcessiveClassLength">
+    <properties>
+        <property name="minimum" value="1" />
+    </properties>
+  </rule>
+
+  <rule ref="category/java/design.xml/ExcessiveParameterList">
+    <properties>
+        <property name="minimum" value="1" />
+    </properties>
+  </rule>
+
+  <rule ref="category/java/design.xml/ExcessiveMethodLength">
+    <properties>
+        <property name="minimum" value="5" />
+    </properties>
+  </rule>
+ 
+</ruleset>

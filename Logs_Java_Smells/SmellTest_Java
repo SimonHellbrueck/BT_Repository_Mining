@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.9.0" timestamp="2018-11-21T15:34:58.289">
+<file name="/home/simon/MEGA/HS/WF, 8. Semester/Bachelor Thesis/Code/Repository Mining/Repos_Java/SmellTest_Java/out/production/Main.java">
+<violation beginline="1" endline="11" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="1" endline="11" begincolumn="19" endcolumn="1" rule="TooManyMethods" ruleset="Design" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="2" endline="2" begincolumn="28" endcolumn="42" rule="ExcessiveParameterList" ruleset="Design" class="Main" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="6" endline="6" begincolumn="36" endcolumn="56" rule="ExcessiveParameterList" ruleset="Design" class="Main" method="produceSmell" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/simon/MEGA/HS/WF, 8. Semester/Bachelor Thesis/Code/Repository Mining/Repos_Java/SmellTest_Java/src/Car.java">
+<violation beginline="1" endline="28" begincolumn="1" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="5" endline="5" begincolumn="15" endcolumn="65" rule="ExcessiveParameterList" ruleset="Design" class="Car" method="Car" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="13" endline="13" begincolumn="25" endcolumn="38" rule="ExcessiveParameterList" ruleset="Design" class="Car" method="setColor" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="19" endline="19" begincolumn="32" endcolumn="52" rule="ExcessiveParameterList" ruleset="Design" class="Car" method="setManufacturer" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="25" endline="25" begincolumn="30" endcolumn="45" rule="ExcessiveParameterList" ruleset="Design" class="Car" method="setHorsePower" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/simon/MEGA/HS/WF, 8. Semester/Bachelor Thesis/Code/Repository Mining/Repos_Java/SmellTest_Java/src/Main.java">
+<violation beginline="1" endline="11" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="1" endline="11" begincolumn="19" endcolumn="1" rule="TooManyMethods" ruleset="Design" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="2" endline="2" begincolumn="28" endcolumn="42" rule="ExcessiveParameterList" ruleset="Design" class="Main" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="6" endline="6" begincolumn="36" endcolumn="56" rule="ExcessiveParameterList" ruleset="Design" class="Main" method="produceSmell" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+</file>
+<file name="/home/simon/MEGA/HS/WF, 8. Semester/Bachelor Thesis/Code/Repository Mining/Repos_Java/SmellTest_Java/src/Test.java">
+<violation beginline="1" endline="12" begincolumn="8" endcolumn="1" rule="ExcessiveClassLength" ruleset="Design" class="Test" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveclasslength" priority="3">
+Avoid really long classes.
+</violation>
+<violation beginline="1" endline="12" begincolumn="19" endcolumn="1" rule="TooManyMethods" ruleset="Design" class="Test" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#toomanymethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="2" endline="2" begincolumn="28" endcolumn="42" rule="ExcessiveParameterList" ruleset="Design" class="Test" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="6" endline="6" begincolumn="36" endcolumn="56" rule="ExcessiveParameterList" ruleset="Design" class="Test" method="produceSmell" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessiveparameterlist" priority="3">
+Avoid long parameter lists.
+</violation>
+<violation beginline="6" endline="11" begincolumn="19" endcolumn="5" rule="ExcessiveMethodLength" ruleset="Design" class="Test" method="produceSmell" externalInfoUrl="https://pmd.github.io/pmd-6.9.0/pmd_rules_java_design.html#excessivemethodlength" priority="3">
+Avoid really long methods.
+</violation>
+</file>
+</pmd>

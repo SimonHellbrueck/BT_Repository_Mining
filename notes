@@ -1,0 +1,4 @@
+change default values for rules in detekt in this file: default-detekt-config.yml
+detekt project has to be rebuilt so the changes in the yml file take effect
+
+sometimes in kotlin no classes are needed ...

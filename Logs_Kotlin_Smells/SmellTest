@@ -1,0 +1,42 @@
+..
+
+2 kotlin files were analyzed.
+
+Ruleset: comments
+Ruleset: complexity - 1h debt
+	LargeClass - 1/1 - [Car] at /home/simon/MEGA/HS/WF, 8. Semester/Bachelor Thesis/Code/Repository Mining/Repos_Kotlin/SmellTest/src/Car.kt:1:1
+	LongMethod - 3/1 - [main] at /home/simon/MEGA/HS/WF, 8. Semester/Bachelor Thesis/Code/Repository Mining/Repos_Kotlin/SmellTest/src/Main.kt:1:1
+	LongMethod - 6/1 - [produceSmell] at /home/simon/MEGA/HS/WF, 8. Semester/Bachelor Thesis/Code/Repository Mining/Repos_Kotlin/SmellTest/src/Main.kt:7:1
+Ruleset: exceptions
+Ruleset: naming
+Ruleset: performance
+Ruleset: potential-bugs
+Ruleset: style - 45min debt
+	NewLineAtEndOfFile - [Car.kt] at /home/simon/MEGA/HS/WF, 8. Semester/Bachelor Thesis/Code/Repository Mining/Repos_Kotlin/SmellTest/src/Car.kt:1:79
+	MagicNumber - [beetle] at /home/simon/MEGA/HS/WF, 8. Semester/Bachelor Thesis/Code/Repository Mining/Repos_Kotlin/SmellTest/src/Main.kt:2:35
+	MagicNumber - [number1] at /home/simon/MEGA/HS/WF, 8. Semester/Bachelor Thesis/Code/Repository Mining/Repos_Kotlin/SmellTest/src/Main.kt:10:19
+	MagicNumber - [number2] at /home/simon/MEGA/HS/WF, 8. Semester/Bachelor Thesis/Code/Repository Mining/Repos_Kotlin/SmellTest/src/Main.kt:11:19
+	MagicNumber - [number8] at /home/simon/MEGA/HS/WF, 8. Semester/Bachelor Thesis/Code/Repository Mining/Repos_Kotlin/SmellTest/src/Main.kt:12:19
+
+Overall debt: 1h 45min
+
+Complexity Report:
+	- 22 lines of code (loc)
+	- 14 source lines of code (sloc)
+	- 12 logical lines of code (lloc)
+	- 0 comment lines of code (cloc)
+	- 2 McCabe complexity (mcc)
+	- 8 number of total code smells
+	- 0 % comment source ratio
+	- 166 mcc per 1000 lloc
+	- 666 code smells per 1000 lloc
+
+Project Statistics:
+	- number of properties: 6
+	- number of functions: 2
+	- number of classes: 1
+	- number of packages: 1
+	- number of kt files: 2
+
+
+detekt finished in 784 ms.
