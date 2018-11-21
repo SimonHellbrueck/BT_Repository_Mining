@@ -2,7 +2,8 @@
 /Repos_Kotlin/*
 /detekt/*
 /pmd-bin-6.9.0/*
-detekt
-detekt-cli/src/main/resources/default-detekt-config.yml
+java_code_smells.csv
+kotlin_code_smells.csv
+notes
 java_repository_names
 kotlin_repository_names
