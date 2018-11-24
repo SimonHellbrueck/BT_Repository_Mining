@@ -10,6 +10,8 @@ filename="../java_repository_names"
 while read -r line; do
     complete_line="$line"
     rep_name="$( cut -d ',' -f 1 <<< "$complete_line" )" 
+    echo +-------------------------------------------------+
+    echo Checking $rep_name ...
+    echo +-------------------------------------------------+
     ../pmd-bin-6.9.0/bin/run.sh pmd -d ../Repos_Java/${rep_name##*/}/ -no-cache -f xml -R ../rules.xml >> ../Logs_Java_Smells/${rep_name##*/}
-    #echo ${rep_name##*/} # only the part after the last slash character
 done < "$filename"

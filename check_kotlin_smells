@@ -9,7 +9,9 @@ find -type f -name '*.kt' -exec sed -i '/^\s*$/d' {} + # deletes all empty lines
 filename="../kotlin_repository_names"
 while read -r line; do
     complete_line="$line"
-    rep_name="$( cut -d ',' -f 1 <<< "$complete_line" )" 
+    rep_name="$( cut -d ',' -f 1 <<< "$complete_line" )"
+    echo +-------------------------------------------------+
+    echo Checking $rep_name
+    echo +-------------------------------------------------+ 
     java -jar ../detekt/detekt-cli/build/libs/detekt-cli-1.0.0-RC11-all.jar --input ../Repos_Kotlin/${rep_name##*/} >> ../Logs_Kotlin_Smells/${rep_name##*/}
-    #echo ${rep_name##*/} # only the part after the last slash character
 done < "$filename"
