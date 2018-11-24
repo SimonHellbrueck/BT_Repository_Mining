@@ -59,13 +59,12 @@ for page_number in range(number_of_pages):
     input_java_repo.append(json.loads(r_java.text))
     input_kotlin_repo.append(json.loads(r_kotlin.text))
 
-
 with open('java_repository_names', 'a') as text_file:
     for page_number in range(len(input_java_repo)):
         for repo in input_java_repo[page_number]['items']:
             date_repo = repo['created_at'][:-10]            
             lifespan = getLifespanInDays(getDateFormat(date_repo))         
-            text_file.write(repo['full_name']+', '+str(lifespan)+', '+str(repo['open_issues']))
+            text_file.write(repo['full_name']+', '+str(lifespan)+', '+str(repo['open_issues'])+', '+str(repo['stargazers_count']))
             text_file.write('\n')
 
 with open('kotlin_repository_names', 'a') as text_file:
@@ -73,5 +72,5 @@ with open('kotlin_repository_names', 'a') as text_file:
         for repo in input_kotlin_repo[page_number]['items']:            
             date_repo = repo['created_at'][:-10]
             lifespan = getLifespanInDays(getDateFormat(date_repo)) 
-            text_file.write(repo['full_name']+', '+str(lifespan))
+            text_file.write(repo['full_name']+', '+str(lifespan)+', '+str(repo['open_issues'])+', '+str(repo['stargazers_count']))
             text_file.write('\n')
