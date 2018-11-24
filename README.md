@@ -1,6 +1,6 @@
 ### Overview
-* Run all scripts and the python program by using the run_repository_analysis script: ```bash run_repository_analysis```
-* By giving an argument to the python program load_repository_names.py the size of the sample can be customized: 
+* Run all scripts and the Python program by using the run_repository_analysis script: ```bash run_repository_analysis```
+* By giving an argument to the Python program load_repository_names.py the size of the sample can be customized: 
 ```
 python3 load_repository_analysis.py 100
 python3 load_repository_analysis.py 200
