@@ -2,18 +2,27 @@
 csv_file=java_code_smells.csv
 rm $csv_file
 rep_names="java_repository_names"
-echo Project, LC, LM, LPL, TMM >> $csv_file
+echo Project, LC, LM, LPL, TMM, Total, Lifespan, Issues, LOC, Commits, Contributors >> $csv_file
 while read -r line; do
-	rep_name="$line"
-	rep_name="Logs_Java_Smells/${rep_name##*/}"
+	complete_line="$line"
+	rep_name="$( cut -d ',' -f 1 <<< "$complete_line" )"
+	lifespan="$( cut -d ',' -f 2 <<< "$complete_line" )"
+	issues="$( cut -d ',' -f 3 <<< "$complete_line" )"
+	log_file="Logs_Java_Smells/${rep_name##*/}"
+	cd Repos_Java/${rep_name##*/}	
+	contributors=$(git log --all --pretty="%an" | sort | uniq | wc -l)
+	commits=$(git rev-list --all --count)
+	loc=$(find . -type f -name '*.java' -exec cat {} \; | sed '/^\s*#/d;/^\s*$/d;/^\s*\/\//d' | wc -l)
+	cd ..
+	cd ..
 	excessiveClassLengthSmellCount=0
 	excessiveMethodLengthSmellCount=0
 	excessiveParameterListSmellCount=0
 	tooManyMethodsSmellCount=0
-	excessiveClassLengthSmellCount=$(grep -c "ExcessiveClassLength" $rep_name)
-	excessiveMethodLengthSmellCount=$(grep -c "ExcessiveMethodLength" $rep_name)
-	excessiveParameterListSmellCount=$(grep -c "ExcessiveParameterList" $rep_name)
-	tooManyMethodsSmellCount=$(grep -c "TooManyMethods" $rep_name)
-	echo ${rep_name##*/}, $excessiveClassLengthSmellCount, $excessiveMethodLengthSmellCount, $excessiveParameterListSmellCount, $tooManyMethodsSmellCount  >> $csv_file
+	excessiveClassLengthSmellCount=$(grep -c "ExcessiveClassLength" $log_file)
+	excessiveMethodLengthSmellCount=$(grep -c "ExcessiveMethodLength" $log_file)
+	excessiveParameterListSmellCount=$(grep -c "ExcessiveParameterList" $log_file)
+	tooManyMethodsSmellCount=$(grep -c "TooManyMethods" $log_file)
+	total=$(($excessiveClassLengthSmellCount+$excessiveMethodLengthSmellCount+$excessiveParameterListSmellCount+$tooManyMethodsSmellCount))
+	echo ${rep_name##*/}, $excessiveClassLengthSmellCount, $excessiveMethodLengthSmellCount, $excessiveParameterListSmellCount, $tooManyMethodsSmellCount, $total, $lifespan, $issues, $loc, $commits, $contributors  >> $csv_file
 done < "$rep_names"  
-

@@ -1,7 +1,9 @@
 #!/usr/bin/bash
 #rm java_repository_names kotlin_repository_names
 #python3 load_repository_names.py # loads repo names via github api and saves them in files
-#bash load_rep # clones repositories by reading the files
-#bash check_smells # uses pmd and detekt to analyse the repositories and saves the logs
-#bash count_smells # checks the logs and sums up the code smells
-bash count_java_smells & bash count_kotlin_smells
+#bash load_java_repos # cloning repositories by reading the files
+#bash load_kotlin_repos 
+#bash check_java_smells # uses pmd to analyse the java repositories and saves the logs
+#bash check_kotlin_smells # uses detekt to analyse the kotlin repositories and saves the logs
+bash count_java_smells # checks the logs and sums up the code smells
+

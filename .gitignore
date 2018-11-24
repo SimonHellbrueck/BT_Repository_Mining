@@ -2,3 +2,7 @@
 /pmd-bin-6.9.0/*
 /Logs_Java_Smells/*
 /Logs_Kotlin_Smells/*
+/Repos_Java/*
+/Repos_Kotlin/*
+java_repository_names
+kotlin_repository_names
