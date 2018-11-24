@@ -1,7 +1,11 @@
 #!/usr/bin/bash
 
 #rm java_repository_names kotlin_repository_names # removes the existing repositories
-#python3 load_repository_names.py # loads repo names via github api and saves them in files
+# the following loads reposoitory names via github api and saves them in files
+# use arguments to indicate the sample size you prefer: 100, 200, 300, 400, 500
+# example(1): #python3 load_repository_names.py 300
+# when no argument is provided, the default (5) will be used
+#python3 load_repository_names.py 
 
 # by using the following commands kotlin projects will be downloaded and analysed
 
