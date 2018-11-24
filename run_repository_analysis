@@ -6,4 +6,5 @@
 #bash check_java_smells # uses pmd to analyse the java repositories and saves the logs
 #bash check_kotlin_smells # uses detekt to analyse the kotlin repositories and saves the logs
 bash count_java_smells # checks the logs and sums up the code smells
+bash count_kotlin_smells # checks the logs and sums up the code smells
 
