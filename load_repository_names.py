@@ -4,14 +4,8 @@ import json
 import datetime
 from datetime import date
 
-number_of_pages = 1
-per_page = 5
-input_java_repo = []
-input_kotlin_repo = []
-
-def test_case():
-    number_of_pages = 1
-    per_page = 5
+per_page = 0
+number_of_pages = 0
 
 def user_spec_sample(sample_size):
     if(sample_size == 100):
@@ -33,10 +27,18 @@ def user_spec_sample(sample_size):
         print("Please use 100, 200, 300, 400 or 500 as a sample size. Test case (sample size = 5) will be executed now.")
         test_case()
 
+def test_case():
+    number_of_pages = 1
+    per_page = 5
+
 try:
     user_spec_sample(sys.argv[1])    
 except IndexError:
+    print("Please use 100, 200, 300, 400 or 500 as an argument for the sample size. Test case (sample size = 5) will be executed now.")
     test_case()
+
+input_java_repo = []
+input_kotlin_repo = []
 
 def getLifespanInDays(givenDate):
     datetime_now = getDateFormat(datetime.datetime.today().strftime('%Y-%m-%d'))    
@@ -70,5 +72,9 @@ with open('kotlin_repository_names', 'a') as text_file:
         for repo in input_kotlin_repo[pageNumber]['items']:            
             date_repo = repo['created_at'][:-10]
             lifespan = getLifespanInDays(getDateFormat(date_repo)) 
-            text_file.write(repo['full_name']+', '+str(lifespan)+', '+str(repo['open_issues']))
+            text_file.write(repo['full_name']+', '+str(lifespan))
             text_file.write('\n')
+
+
+
+
