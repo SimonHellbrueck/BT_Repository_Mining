@@ -13,7 +13,7 @@ python3 load_repository_analysis.py 500
 
 #### Example Output
 
-* After executing all the scripts, a CSV file will be created containing an output like the following
+* After executing all the scripts, CSV files will be created containing an output like the following
 * t represents the threshold for the respective smell
 
 Project | LC (t=400) | LM(t=20) | LPL(t=3) | TMM(t=20) | Total | Lifespan | Issues | LOC | Commits | Contributors | Stargazers
