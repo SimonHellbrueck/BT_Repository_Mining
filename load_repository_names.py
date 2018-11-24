@@ -1,3 +1,4 @@
+import sys
 import requests
 import json
 import datetime
@@ -7,6 +8,35 @@ number_of_pages = 1
 per_page = 5
 input_java_repo = []
 input_kotlin_repo = []
+
+def test_case():
+    number_of_pages = 1
+    per_page = 5
+
+def user_spec_sample(sample_size):
+    if(sample_size == 100):
+        per_page = sample_size
+        number_of_pages = 1
+    if(sample_size == 200):
+        per_page = sample_size
+        number_of_pages = 2
+    if(sample_size == 300):    
+        per_page = sample_size
+        number_of_pages = 3
+    if(sample_size == 400):
+        per_page = sample_size
+        number_of_pages = 4
+    if(sample_size == 500):    
+        per_page = sample_size
+        number_of_pages = 5   
+    else:
+        print("Please use 100, 200, 300, 400 or 500 as a sample size. Test case (sample size = 5) will be executed now.")
+        test_case()
+
+try:
+    user_spec_sample(sys.argv[1])    
+except IndexError:
+    test_case()
 
 def getLifespanInDays(givenDate):
     datetime_now = getDateFormat(datetime.datetime.today().strftime('%Y-%m-%d'))    
