@@ -2,7 +2,7 @@
 csv_file=kotlin_code_smells.csv
 rm $csv_file
 rep_names="kotlin_repository_names"
-echo Project, LC '(t=100)', LM'(t=20)', LPL'(t=3)', TMM'(t=6)', Total, Lifespan, Issues, LOC, Commits, Contributors, Stargazers >> $csv_file
+echo Project, LC '(t=400)', LM'(t=20)', LPL'(t=2)', TMM'(t=5)', Total, Lifespan, Issues, LOC, Commits, Contributors, Stargazers >> $csv_file
 while read -r line; do
 	complete_line="$line"
 	rep_name="$( cut -d ',' -f 1 <<< "$complete_line" )"
@@ -13,7 +13,7 @@ while read -r line; do
 	log_file="Logs_Kotlin_Smells/${rep_name##*/}"
 	cd Repos_Kotlin/${rep_name##*/}	
 	contributors=$(git log --all --pretty="%an" | sort | uniq | wc -l)
-	commits=$(git rev-list --all --count)
+        commits=$(git rev-list --all --count)
 	loc=$(find . -type f -name '*.kt' -exec cat {} \; | sed '/^\s*#/d;/^\s*$/d;/^\s*\/\//d' | wc -l)
 	cd ..
 	cd ..
