@@ -53,7 +53,7 @@ except IndexError:
     number_of_pages = sample_size_and_pages[0]
     per_page = sample_size_and_pages[1]
        
-for page_number in range(1):
+for page_number in range(number_of_pages):
     url_java_repos = 'https://api.github.com/search/repositories?q=stars%3A%3E%3D10+language%3Ajava&sort=stars&order=desc&page='+str(page_number+1)+'&per_page='+str(per_page)
     url_kotlin_repos = 'https://api.github.com/search/repositories?q=stars%3A%3E%3D10+language%3Akotlin&sort=stars&order=desc&page='+str(page_number+1)+'&per_page='+str(per_page)
     r_java = requests.get(url_java_repos)
