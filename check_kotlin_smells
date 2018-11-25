@@ -4,6 +4,7 @@ mkdir Logs_Kotlin_Smells
 
 cd Repos_Kotlin
 
+echo Deleting empty lines in .kt files ...
 find -type f -name '*.kt' -exec sed -i '/^\s*$/d' {} + # deletes all empty lines in all java files in the subdirs
 
 filename="../kotlin_repository_names"

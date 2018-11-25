@@ -15,6 +15,6 @@
 
 # by using the following commands java projects will be downloaded and analysed
 
-bash load_java_repos # clones repositories by reading the files
+#bash load_java_repos # clones repositories by reading the files
 bash check_java_smells # uses pmd to analyse the java repositories and saves the logs
 bash read_write_java_data # checks the logs and sums up the code smells
