@@ -23,7 +23,7 @@
 
   <rule ref="category/java/design.xml/ExcessiveMethodLength">
     <properties>
-        <property name="minimum" value="21" />#Clean Code handbook
+        <property name="minimum" value="20" />#Clean Code handbook
     </properties>
   </rule>
  
