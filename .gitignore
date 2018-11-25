@@ -1,3 +1,4 @@
+/.ipynb_checkpoints/*
 /detekt/*
 /pmd-bin-6.9.0/*
 /Logs_Java_Smells/*
