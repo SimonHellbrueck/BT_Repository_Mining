@@ -16,10 +16,6 @@ while read -r line; do
 	loc=$(find . -type f -name '*.java' -exec cat {} \; | sed '/^\s*#/d;/^\s*$/d;/^\s*\/\//d' | wc -l)
 	cd ..
 	cd ..
-	excessiveClassLengthSmellCount=0
-	excessiveMethodLengthSmellCount=0
-	excessiveParameterListSmellCount=0
-	tooManyMethodsSmellCount=0
 	excessiveClassLengthSmellCount=$(grep -c "ExcessiveClassLength" $log_file)
 	excessiveMethodLengthSmellCount=$(grep -c "ExcessiveMethodLength" $log_file)
 	excessiveParameterListSmellCount=$(grep -c "ExcessiveParameterList" $log_file)
