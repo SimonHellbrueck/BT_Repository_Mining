@@ -21,9 +21,9 @@ def user_spec_sample(sample_size):
     elif(sample_size == 400):
         return sample_size, 4
     elif(sample_size == 500):    
-        return sample_size, 4
+        return sample_size, 5
     elif(sample_size == 1000):    
-        return sample_size, 9
+        return sample_size, 10
     else:
         print("Please use 100, 200, 300, 400, 500 or 1000 as a sample size. Test case (sample size = 5) will be executed now.")
         return test_case()
