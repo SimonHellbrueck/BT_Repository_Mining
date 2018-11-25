@@ -2,7 +2,7 @@
 csv_file=java_code_smells.csv
 rm $csv_file
 rep_names="java_repository_names"
-echo Project, LC '(t=400)', LM'(t=20)', LPL'(t=3)', TMM'(t=20)', Total, Lifespan, Issues, LOC, Commits, Contributors, Stargazers >> $csv_file
+echo Project, LC '(t=100)', LM'(t=20)', LPL'(t=3)', TMM'(t=6)', Total, Lifespan, Issues, LOC, Commits, Contributors, Stargazers >> $csv_file
 while read -r line; do
 	complete_line="$line"
 	rep_name="$( cut -d ',' -f 1 <<< "$complete_line" )"

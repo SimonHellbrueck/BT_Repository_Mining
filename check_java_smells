@@ -4,13 +4,12 @@ mkdir Logs_Java_Smells
 
 cd Repos_Java
 
-echo Deleting curly brackets ...
-find . -type f -name '*.java' -exec sh -c '
-  for f do
-    bash ../delete_lines_with_curly_brackets $f
-  done' sh {} +
+#echo Deleting curly brackets ...
+#find . -type f -name '*.java' -exec sh -c '
+#  for f do
+#    bash ../delete_lines_with_curly_brackets $f
+#  done' sh {} +
 
-echo Deleting empty lines in .java files ...
 find -type f -name '*.java' -exec sed -i '/^\s*$/d' {} + # deletes all empty lines in all java files in the subdirs
 
 filename="../java_repository_names"
