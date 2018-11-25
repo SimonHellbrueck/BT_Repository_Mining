@@ -7,5 +7,7 @@ while read -r line; do
     complete_line="$line"
     rep_name="$( cut -d ',' -f 1 <<< "$complete_line" )"
     git clone https://github.com/$rep_name.git
+    echo +-------------------------------------------------+
     echo "cloned $rep_name"
+    echo +-------------------------------------------------+
 done < "$filename"
