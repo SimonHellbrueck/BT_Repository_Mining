@@ -1,12 +1,12 @@
 ### Overview
 * Run all scripts and the Python program by using the run_repository_analysis script: ```bash run_repository_analysis```
-* By giving an argument to the Python program load_repository_names.py the size of the sample can be customized: 
+* By giving an argument to the Python program load_repository_names.py the size of the sample can be customized. However, ```load_repository_nams.py``` should be executed carefully since no exception handling for sending too many requests to GitHub has been implemented so far.
 ```
-python3 load_repository_analysis.py 100
-python3 load_repository_analysis.py 200
-python3 load_repository_analysis.py 300
-python3 load_repository_analysis.py 400
-python3 load_repository_analysis.py 500
+python3 load_repository_names.py 100
+python3 load_repository_names.py 200
+python3 load_repository_names.py 300
+python3 load_repository_names.py 400
+python3 load_repository_names.py 500
 ```
 
 * When no argument is given the default value (n=5) will be used
