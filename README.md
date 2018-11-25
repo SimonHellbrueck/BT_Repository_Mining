@@ -7,6 +7,7 @@ python3 load_repository_names.py 200
 python3 load_repository_names.py 300
 python3 load_repository_names.py 400
 python3 load_repository_names.py 500
+python3 load_repository_names.py 500
 ```
 
 * When no argument is given the default value (n=5) will be used
