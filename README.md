@@ -15,7 +15,7 @@ python3 load_repository_names.py 1000
 
 #### Example Output
 
-* After executing all the scripts, CSV files will be created containing an output like the following.
+* After executing all the scripts, CSV files will be created containing an output like the following (in this case, for Java projects).
 * t represents the threshold for the respective smell.
 
 Project | LC (t=100) | LM(t=20) | LPL(t=3) | TMM(t=5) | Total | Lifespan | Issues | LOC | Commits | Contributors | Stargazers
