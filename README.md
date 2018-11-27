@@ -1,5 +1,6 @@
 ### Overview
-* Run all scripts and the Python program by using the run_repository_analysis script: ```bash run_repository_analysis```
+* All scripts and the Python program can be executed at once by using the run_repository_analysis script: ```bash run_repository_analysis```
+* The current versions of [PMD](https://github.com/pmd) and [Detekt](https://github.com/arturbosch/detekt) are used to analyse the repositories.
 * By giving an argument to the Python program ```load_repository_names.py``` the size of the sample can be customized. However, ```load_repository_nams.py``` should be executed carefully since no exception handling for sending too many requests to GitHub has been implemented so far.
 ```
 python3 load_repository_names.py 100
@@ -10,14 +11,14 @@ python3 load_repository_names.py 500
 python3 load_repository_names.py 1000
 ```
 
-* When no argument is given the default value (n=5) will be used
+* When no argument is given the default value (n=5) will be used.
 
 #### Example Output
 
-* After executing all the scripts, CSV files will be created containing an output like the following
-* t represents the threshold for the respective smell
+* After executing all the scripts, CSV files will be created containing an output like the following.
+* t represents the threshold for the respective smell.
 
-Project | LC (t=400) | LM(t=20) | LPL(t=3) | TMM(t=20) | Total | Lifespan | Issues | LOC | Commits | Contributors | Stargazers
+Project | LC (t=100) | LM(t=20) | LPL(t=3) | TMM(t=5) | Total | Lifespan | Issues | LOC | Commits | Contributors | Stargazers
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 java-design-patterns | 0 | 56 | 65 | 0 | 121 | 1568 | 180 | 45044 | 2741 | 195 | 41658
 RxJava | 161 | 2560 | 1130 | 167 | 4018 | 2146 | 29 | 343496 | 6524 | 324 | 36443
