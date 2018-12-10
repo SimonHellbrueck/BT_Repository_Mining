@@ -1,0 +1,8 @@
+#! /bin/bash
+inputfile='linenumbers'
+outputfile='tweaked_linenumbers'
+rm $outputfile
+while read -r line; do
+        result=$(("$line"-1))
+        echo $result  >> $outputfile
+done < "$inputfile"

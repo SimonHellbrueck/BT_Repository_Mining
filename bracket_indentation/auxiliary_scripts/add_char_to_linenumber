@@ -1,0 +1,7 @@
+#! /bin/bash
+inputfile='tweaked_linenumbers'
+outputfile='linenumbers_and_character'
+rm $outputfile
+c=$1
+sed "s#\$# s/\$/$c/#" $inputfile >$outputfile
+

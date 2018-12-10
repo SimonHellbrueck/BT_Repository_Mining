@@ -1,0 +1,6 @@
+#! /bin/bash
+outputfile="linenumbers"
+rm $outputfile
+character=$2
+grep -n '^\s*'$character'\s*$' "$1" | grep -Eo '^[^:]+' > $outputfile
+

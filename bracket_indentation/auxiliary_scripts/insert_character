@@ -1,0 +1,4 @@
+#! /bin/bash
+
+sed -i "$(<linenumbers_and_character)" $1
+
