@@ -18,11 +18,11 @@ python3 load_repository_names.py 1000
 * After executing all the scripts, CSV files will be created containing an output like the following (in this case for Java projects).
 * t represents the threshold for the respective smell.
 
-Project | LC (t=100) | LM(t=20) | LPL(t=3) | TMM(t=5) | Total | Lifespan | Issues | LOC | Commits | Contributors | Stargazers
+Project | LC (t=100) | LM(t=20) | LPL(t=2) | TMM(t=5) | Total | Lifespan | Issues | LOC | Commits | Contributors | Stargazers
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-java-design-patterns | 0 | 56 | 65 | 0 | 121 | 1568 | 180 | 45044 | 2741 | 195 | 41658
-RxJava | 161 | 2560 | 1130 | 167 | 4018 | 2146 | 29 | 343496 | 6524 | 324 | 36443
-elasticsearch | 577 | 11543 | 10585 | 462 | 23167 | 3211 | 1824 | 1561731 | 73016 | 1404 | 36263
-spring-boot | 55 | 451 | 1119 | 75 | 1700 | 2227 | 389 | 382812 | 19876 | 611 | 31319
-retrofit | 9 | 161 | 139 | 5 | 314 | 3001 | 73 | 25133 | 1757 | 153 | 30420
+java-design-patterns |36 |93 |97 |30 |256 |1569 |180 |64318 |2743 |196 |41682
+RxJava |959 |3948 |1130 |670 |6707 |2147 |29 |343496 |6524 |324 |36456
+elasticsearch |3589 |12329 |10577 |3068 |29563 |3212 |1829 |1490246 |73023 |1404 |36282
+spring-boot |654 |539 |1119 |580 |2892 |2228 |389 |382812 |19876 |611 |31331
+retrofit |56 |217 |139 |42 |454 |3002 |70 |25133 |1759 |154 |30429
 
