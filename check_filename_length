@@ -2,12 +2,12 @@
 
 IFS=$'\n'; set -f
 counter=0
-for filename in $(find $1 -name '*.java'); do
+for filename in $(find $1 -name '*.kt'); do
 
 filename_with_extension=$(echo "${filename}" | sed 's:.*/::')
 filename_without_extension="$( cut -d '.' -f 1 <<< "$filename_with_extension" )" 
 
-if (( ${#filename_without_extension} > 25 )); then
+if (( ${#filename_without_extension} > 30 )); then
 	((counter++))
 fi
 

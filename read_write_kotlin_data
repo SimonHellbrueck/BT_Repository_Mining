@@ -2,7 +2,7 @@
 csv_file=kotlin_code_smells.csv
 rm $csv_file
 rep_names="kotlin_repository_names"
-echo Project, LC '(t=100)', LM'(t=20)', LPL'(t=2)', TMM'(t=5)', Total, Lifespan, Issues, LOC, Commits, Contributors, Stargazers >> $csv_file
+echo Project, LF '(t=30)', LC '(t=100)', LM'(t=20)', LPL'(t=2)', TMM'(t=5)', Total, Lifespan, Issues, LOC, Commits, Contributors, Stargazers >> $csv_file
 while read -r line; do
 	complete_line="$line"
 	rep_name="$( cut -d ',' -f 1 <<< "$complete_line" )"
@@ -21,8 +21,23 @@ while read -r line; do
 	excessiveMethodLengthSmellCount=$(grep -c "LongMethod" $log_file)
 	excessiveParameterListSmellCount=$(grep -c "LongParameterList" $log_file)
 	tooManyMethodsSmellCount=$(grep -c "TooManyFunctions" $log_file)
+
+	IFS=$'\n'; set -f
+	filename_length_counter=0
+	for filename in $(find Repos_Kotlin/${rep_name##*/} -name '*.kt'); do
+
+	filename_with_extension=$(echo "${filename}" | sed 's:.*/::')
+	filename_without_extension="$( cut -d '.' -f 1 <<< "$filename_with_extension" )" 
+
+	if (( ${#filename_without_extension} > 30 )); then
+	((filename_length_counter++))
+	fi
+
+	done
+	unset IFS; set +f
+
 	total=$(($excessiveClassLengthSmellCount+$excessiveMethodLengthSmellCount+$excessiveParameterListSmellCount+$tooManyMethodsSmellCount))
-	echo ${rep_name##*/}, $excessiveClassLengthSmellCount, $excessiveMethodLengthSmellCount, $excessiveParameterListSmellCount, $tooManyMethodsSmellCount, $total, $lifespan, $issues, $loc, $commits, $contributors, $stargazers_count  >> $csv_file
+	echo $rep_name, $filename_length_counter, $excessiveClassLengthSmellCount, $excessiveMethodLengthSmellCount, $excessiveParameterListSmellCount, $tooManyMethodsSmellCount, $total, $lifespan, $issues, $loc, $commits, $contributors, $stargazers_count  >> $csv_file
 done < "$rep_names"    
 
 
