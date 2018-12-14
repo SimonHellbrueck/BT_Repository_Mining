@@ -20,8 +20,7 @@ while read -r line; do
 	excessiveMethodLengthSmellCount=$(grep -c "ExcessiveMethodLength" $log_file)
 	excessiveParameterListSmellCount=$(grep -c "ExcessiveParameterList" $log_file)
 	tooManyMethodsSmellCount=$(grep -c "TooManyMethods" $log_file)
-	total=$(($excessiveClassLengthSmellCount+$excessiveMethodLengthSmellCount+$excessiveParameterListSmellCount+$tooManyMethodsSmellCount))
-	
+		
 	IFS=$'\n'; set -f
 	filename_length_counter=0
 	for filename in $(find Repos_Java/${rep_name##*/} -name '*.java'); do
@@ -35,6 +34,7 @@ while read -r line; do
 
 	done
 	unset IFS; set +f
-
+	
+	total=$(($filename_length_counter+$excessiveClassLengthSmellCount+$excessiveMethodLengthSmellCount+$excessiveParameterListSmellCount+$tooManyMethodsSmellCount))
 	echo $rep_name, $filename_length_counter, $excessiveClassLengthSmellCount, $excessiveMethodLengthSmellCount, $excessiveParameterListSmellCount, $tooManyMethodsSmellCount, $total, $lifespan, $issues, $loc, $commits, $contributors, $stargazers_count  >> $csv_file
 done < "$rep_names"  

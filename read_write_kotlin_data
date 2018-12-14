@@ -36,7 +36,7 @@ while read -r line; do
 	done
 	unset IFS; set +f
 
-	total=$(($excessiveClassLengthSmellCount+$excessiveMethodLengthSmellCount+$excessiveParameterListSmellCount+$tooManyMethodsSmellCount))
+	total=$(($filename_length_counter+$excessiveClassLengthSmellCount+$excessiveMethodLengthSmellCount+$excessiveParameterListSmellCount+$tooManyMethodsSmellCount))
 	echo $rep_name, $filename_length_counter, $excessiveClassLengthSmellCount, $excessiveMethodLengthSmellCount, $excessiveParameterListSmellCount, $tooManyMethodsSmellCount, $total, $lifespan, $issues, $loc, $commits, $contributors, $stargazers_count  >> $csv_file
 done < "$rep_names"    
 
