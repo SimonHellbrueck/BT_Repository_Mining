@@ -17,8 +17,6 @@ while read -r line; do
 	loc=$(find . -type f -name '*.kt' -exec cat {} \; | sed '/^\s*#/d;/^\s*$/d;/^\s*\/\//d' | wc -l)
 	cd ..
 	cd ..
-	excessiveClassLengthSmellCount=$(grep -c "LargeClass" $log_file)
-	excessiveMethodLengthSmellCount=$(grep -c "LongMethod" $log_file)
 	excessiveParameterListSmellCount=$(grep -c "LongParameterList" $log_file)
 	tooManyMethodsSmellCount=$(grep -c "TooManyFunctions" $log_file)
 
@@ -36,8 +34,8 @@ while read -r line; do
 	done
 	unset IFS; set +f
 
-	total=$(($filename_length_counter+$excessiveClassLengthSmellCount+$excessiveMethodLengthSmellCount+$excessiveParameterListSmellCount+$tooManyMethodsSmellCount))
-	echo $rep_name, $filename_length_counter, $excessiveClassLengthSmellCount, $excessiveMethodLengthSmellCount, $excessiveParameterListSmellCount, $tooManyMethodsSmellCount, $total, $lifespan, $issues, $loc, $commits, $contributors, $stargazers_count  >> $csv_file
+	total=$(($filename_length_counter+$excessiveParameterListSmellCount+$tooManyMethodsSmellCount))
+	echo $rep_name, $filename_length_counter, $excessiveParameterListSmellCount, $tooManyMethodsSmellCount, $total, $lifespan, $issues, $loc, $commits, $contributors, $stargazers_count  >> $csv_file
 done < "$rep_names"    
 
 

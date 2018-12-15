@@ -1,995 +1,995 @@
-Project, LF (t=30), LC (t=100), LM(t=20), LPL(t=2), TMM(t=5), Total, Lifespan, Issues, LOC, Commits, Contributors, Stargazers
-JetBrains/kotlin, 4746, 854, 954, 11202, 2896, 20652, 2477, 96, 1030909, 81451, 370, 25332
-shadowsocks/shadowsocks-android, 5, 10, 2, 10, 20, 47, 2170, 10, 7815, 2614, 44, 19057
-tipsy/profile-summary-for-github, 0, 0, 0, 0, 0, 0, 350, 11, 361, 198, 10, 18323
-google/iosched, 29, 10, 0, 45, 30, 114, 1699, 22, 25634, 2348, 67, 17697
-afollestad/material-dialogs, 0, 4, 2, 30, 12, 48, 1483, 2, 5219, 1724, 90, 14675
-Kotlin/anko, 5, 3, 2, 937, 222, 1169, 1529, 206, 51278, 1089, 76, 12883
-google/flexbox-layout, 3, 5, 32, 4, 4, 48, 935, 41, 9066, 570, 23, 12866
-alibaba/p3c, 17, 2, 0, 38, 21, 78, 520, 13, 7033, 210, 27, 12293
-googlesamples/android-architecture-components, 1, 3, 5, 7, 9, 25, 565, 205, 10084, 230, 40, 10849
-googlesamples/android-UniversalMusicPlayer, 0, 1, 0, 0, 4, 5, 1356, 18, 2739, 268, 26, 10428
-JakeWharton/RxBinding, 51, 0, 0, 0, 0, 51, 1342, 33, 4691, 555, 46, 8171
-KotlinBy/awesome-kotlin, 0, 0, 0, 2, 0, 2, 1196, 59, 1472, 905, 160, 6059
-square/okio, 0, 9, 2, 45, 19, 75, 1714, 26, 10067, 809, 47, 5710
-JetBrains/kotlin-native, 13, 77, 72, 727, 201, 1090, 923, 137, 101833, 4933, 89, 5164
-ReactiveX/RxKotlin, 0, 4, 0, 65, 0, 69, 1559, 10, 2513, 307, 49, 5012
-googlesamples/android-topeka, 0, 4, 0, 16, 11, 31, 1297, 8, 5976, 241, 22, 4993
-googlesamples/android-sunflower, 2, 0, 0, 0, 1, 3, 186, 45, 1971, 260, 14, 4979
-agrosner/DBFlow, 1, 11, 0, 78, 78, 168, 1530, 39, 22484, 2876, 66, 4411
-ktorio/ktor, 11, 44, 4, 272, 80, 411, 1210, 207, 56695, 2685, 68, 4113
-Tapadoo/Alerter, 0, 2, 0, 2, 3, 7, 660, 16, 1578, 303, 24, 4048
-romannurik/muzei, 6, 16, 3, 24, 27, 76, 1753, 25, 17338, 1870, 24, 3753
-Kotlin/kotlinx.coroutines, 26, 48, 3, 102, 56, 235, 886, 152, 43927, 1518, 94, 3669
-sourcerer-io/sourcerer-app, 0, 8, 0, 30, 13, 51, 506, 119, 8926, 307, 18, 3429
-ssseasonnn/RxDownload, 0, 2, 0, 15, 21, 38, 758, 94, 2709, 463, 8, 3407
-RedApparat/Fotoapparat, 2, 1, 0, 7, 9, 19, 612, 38, 7045, 615, 29, 3033
-enbandari/Kotlin-Tutorials, 1, 0, 0, 2, 1, 4, 777, 1, 730, 120, 3, 2898
-bufferapp/android-clean-architecture-boilerplate, 0, 0, 0, 2, 6, 8, 473, 25, 2468, 65, 10, 2574
-worker8/TourGuide, 1, 2, 0, 2, 4, 9, 1332, 77, 1954, 242, 15, 2550
-KeepSafe/dexcount-gradle-plugin, 0, 2, 0, 9, 4, 15, 1270, 9, 1526, 314, 25, 2544
-corda/corda, 68, 131, 59, 750, 252, 1260, 780, 91, 154528, 8392, 143, 2525
-InsertKoinIO/koin, 1, 4, 6, 66, 17, 94, 537, 47, 14464, 1047, 30, 2512
-dbacinski/Design-Patterns-In-Kotlin, 0, 0, 0, 1, 1, 2, 790, 3, 465, 112, 14, 2412
-Triple-T/gradle-play-publisher, 0, 1, 0, 4, 2, 7, 1571, 14, 1871, 569, 40, 2379
-kittinunf/Fuel, 1, 15, 0, 20, 11, 47, 1270, 29, 12384, 764, 55, 2356
-inorichi/tachiyomi, 1, 33, 3, 65, 106, 208, 1145, 287, 32846, 1514, 55, 2277
-Kotlin/kotlin-koans, 5, 0, 0, 13, 0, 18, 1711, 31, 1802, 218, 50, 2237
-arrow-kt/arrow, 2, 11, 0, 553, 137, 703, 611, 179, 38679, 4254, 130, 2133
-TonicArtos/SuperSLiM, 0, 10, 8, 51, 33, 102, 1438, 30, 4796, 752, 5, 2124
-JakeWharton/kotterknife, 0, 0, 0, 0, 0, 0, 1497, 17, 251, 82, 14, 2121
-tipsy/javalin, 0, 4, 0, 12, 6, 22, 602, 15, 5887, 750, 45, 2116
-airbnb/MvRx, 0, 4, 0, 44, 8, 56, 146, 26, 5170, 186, 16, 2110
-gradle/kotlin-dsl, 57, 10, 0, 125, 28, 220, 942, 171, 27036, 3470, 30, 2103
-JetBrains/kotlin-examples, 0, 0, 0, 1, 2, 3, 2078, 32, 1948, 220, 26, 2079
-intellij-rust/intellij-rust, 105, 19, 0, 326, 82, 532, 1166, 362, 83653, 6502, 124, 2066
-JetBrains/Exposed, 0, 11, 0, 51, 26, 88, 1944, 98, 9238, 1106, 56, 2032
-edvin/tornadofx, 0, 17, 1, 294, 42, 354, 1054, 57, 23515, 2686, 81, 2009
-garretyoder/Colorful, 0, 0, 0, 3, 2, 5, 782, 5, 259, 121, 7, 1968
-antoniolg/Kotlin-for-Android-Developers, 0, 0, 0, 3, 0, 3, 1237, 4, 658, 131, 2, 1964
-git-xuhao/KotlinMvp, 0, 4, 0, 22, 20, 46, 373, 2, 6113, 107, 4, 1921
-YiiGuxing/TranslationPlugin, 1, 7, 0, 32, 15, 55, 907, 3, 6894, 776, 2, 1862
-square/sqldelight, 10, 3, 0, 20, 21, 54, 1131, 52, 13743, 1125, 34, 1861
-JetBrains/kotlinconf-app, 1, 3, 1, 5, 8, 18, 395, 6, 2414, 182, 18, 1850
-afollestad/aesthetic, 0, 3, 0, 14, 2, 19, 563, 4, 5388, 296, 8, 1838
-izhangzhihao/intellij-rainbow-brackets, 3, 2, 0, 10, 5, 20, 417, 11, 2548, 393, 6, 1824
-TwidereProject/Twidere-Android, 55, 77, 36, 476, 188, 832, 1606, 233, 81742, 3102, 29, 1780
-shyiko/ktlint, 6, 2, 1, 22, 0, 31, 851, 62, 7186, 624, 33, 1764
-dev-labs-bg/transitioner, 0, 0, 0, 1, 0, 1, 352, 0, 163, 34, 1, 1743
-chrisbanes/tivi, 7, 1, 1, 43, 35, 87, 465, 18, 14745, 1107, 13, 1706
-DroidNinja/Android-FilePicker, 0, 4, 1, 6, 11, 22, 847, 40, 2725, 91, 12, 1684
-antoniolg/Bandhook-Kotlin, 2, 0, 0, 5, 8, 15, 1345, 12, 4530, 108, 12, 1655
-byoutline/kickmaterial, 1, 1, 0, 16, 11, 29, 1151, 0, 3349, 194, 8, 1573
-arturbosch/detekt, 59, 8, 2, 14, 28, 111, 763, 118, 29776, 2281, 88, 1557
-square/kotlinpoet, 0, 11, 1, 34, 9, 55, 634, 26, 13290, 1272, 105, 1520
-nhaarman/mockito-kotlin, 0, 2, 0, 3, 0, 5, 1042, 27, 2851, 331, 26, 1512
-JakeWharton/SdkSearch, 0, 0, 0, 4, 2, 6, 346, 42, 2879, 745, 15, 1505
-spekframework/spek, 6, 0, 0, 18, 18, 42, 2211, 58, 3081, 1022, 59, 1488
-nekocode/create-android-kotlin-app, 0, 0, 0, 0, 1, 1, 1184, 1, 554, 28, 1, 1468
-Kodein-Framework/Kodein-DI, 0, 5, 4, 61, 16, 86, 1319, 4, 11361, 417, 27, 1454
-afollestad/drag-select-recyclerview, 0, 1, 0, 2, 3, 6, 1128, 1, 658, 97, 5, 1434
-SimpleMobileTools/Simple-Calendar, 1, 15, 2, 50, 31, 99, 1034, 99, 8931, 3017, 77, 1423
-ingbyr/VDM, 0, 4, 0, 4, 4, 12, 928, 20, 2257, 299, 5, 1413
-alibaba/transmittable-thread-local, 9, 3, 2, 0, 0, 14, 1869, 15, 2412, 636, 16, 1389
-klinker24/Android-TextView-LinkBuilder, 0, 1, 0, 3, 2, 6, 1250, 5, 971, 112, 15, 1374
-githubwing/GankClient-Kotlin, 0, 0, 0, 3, 1, 4, 733, 11, 979, 46, 4, 1364
-Yalantis/SearchFilter, 0, 3, 1, 5, 5, 14, 759, 10, 1435, 23, 6, 1363
-LRH1993/Eyepetizer-in-Kotlin, 0, 1, 1, 13, 8, 23, 513, 11, 3109, 55, 2, 1315
-Yalantis/JellyToolbar, 0, 0, 0, 1, 2, 3, 607, 11, 445, 22, 2, 1315
-aritraroy/Flashbar, 0, 4, 0, 1, 9, 14, 339, 19, 2654, 73, 2, 1309
-anthonycr/Lightning-Browser, 3, 10, 4, 36, 34, 87, 2123, 302, 12086, 1893, 94, 1289
-SumiMakito/AwesomeQRCode, 0, 1, 1, 5, 0, 7, 577, 7, 729, 83, 3, 1276
-fossasia/susi_android, 0, 10, 3, 22, 37, 72, 795, 102, 7709, 1022, 136, 1270
-Yalantis/Multi-Selection, 0, 2, 1, 4, 7, 14, 768, 3, 1091, 11, 2, 1256
-DanielMartinus/Konfetti, 1, 0, 0, 8, 6, 15, 610, 12, 1632, 244, 7, 1253
-kotlintest/kotlintest, 15, 12, 0, 167, 12, 206, 1092, 37, 22066, 1225, 78, 1241
-heimashi/kotlin_tips, 0, 0, 0, 4, 1, 5, 345, 0, 904, 59, 5, 1226
-Tinder/Scarlet, 10, 3, 2, 7, 14, 36, 180, 13, 7956, 205, 10, 1216
-faruktoptas/FancyShowCaseView, 0, 2, 1, 4, 5, 12, 627, 12, 2347, 142, 25, 1185
-mockk/mockk, 4, 11, 1, 170, 33, 219, 404, 42, 16887, 1159, 21, 1175
-android10/Android-CleanArchitecture-Kotlin, 0, 1, 0, 5, 5, 11, 548, 43, 2420, 217, 6, 1148
-JakeWharton/retrofit2-kotlin-coroutines-adapter, 0, 0, 0, 0, 0, 0, 333, 5, 335, 26, 6, 1144
-loopeer/shadow, 0, 2, 2, 6, 1, 11, 433, 13, 881, 52, 4, 1097
-ajermakovics/jvm-mon, 0, 0, 0, 1, 1, 2, 657, 12, 134, 41, 5, 1091
-TonnyL/PaperPlane, 15, 2, 4, 19, 18, 58, 982, 3, 8617, 246, 9, 1083
-DroidKaigi/conference-app-2018, 2, 1, 0, 20, 26, 49, 337, 30, 12045, 1803, 153, 1078
-googlesamples/android-ConstraintLayoutExamples, 0, 0, 1, 0, 0, 1, 633, 22, 907, 33, 7, 1073
-igalata/Bubble-Picker, 0, 2, 0, 4, 3, 9, 626, 37, 835, 41, 7, 1041
-saket/InboxRecyclerView, 1, 2, 0, 5, 10, 18, 98, 3, 2319, 162, 2, 1039
-PaulWoitaschek/Voice, 1, 10, 4, 31, 43, 89, 1576, 102, 13372, 3660, 27, 1016
-nickbutcher/AdaptiveIconPlayground, 0, 1, 0, 4, 1, 6, 507, 11, 571, 26, 1, 1016
-Gh0u1L5/WechatMagician, 0, 0, 0, 14, 3, 17, 437, 46, 3296, 757, 7, 992
-hzsweers/CatchUp, 2, 5, 0, 51, 39, 97, 944, 30, 18900, 1268, 8, 987
-Ramotion/fluid-slider-android, 0, 1, 1, 3, 1, 6, 376, 13, 532, 113, 9, 975
-mwolfson/android-historian, 0, 2, 1, 6, 2, 11, 1193, 0, 1673, 133, 4, 965
-Kotlin/kotlinx.serialization, 1, 7, 0, 70, 58, 136, 493, 113, 11541, 388, 19, 964
-JetradarMobile/android-snowfall, 0, 0, 0, 1, 1, 2, 703, 8, 335, 41, 7, 957
-Kotlin/kotlin-fullstack-sample, 0, 0, 0, 13, 8, 21, 711, 20, 2020, 54, 10, 937
-cbeust/klaxon, 0, 5, 0, 11, 8, 24, 2043, 28, 4499, 651, 35, 936
-wuapnjie/PoiShuhui-Kotlin, 0, 0, 0, 1, 4, 5, 990, 7, 1180, 17, 4, 935
-rbro112/Android-Indefinite-Pager-Indicator, 1, 1, 0, 0, 2, 4, 387, 6, 909, 78, 4, 932
-wuseal/JsonToKotlinClass, 24, 4, 5, 11, 9, 53, 453, 3, 6472, 238, 8, 913
-PaperAirplane-Dev-Team/BlackLight, 0, 0, 0, 0, 0, 0, 1562, 1162, 0, 1459, 18, 911
-airbnb/paris, 20, 5, 1, 28, 12, 66, 342, 24, 9824, 406, 12, 893
-sephiroth74/android-target-tooltip, 0, 2, 1, 7, 5, 15, 1641, 64, 1508, 229, 9, 878
-afollestad/material-cab, 0, 0, 0, 2, 3, 5, 1301, 0, 626, 133, 5, 866
-vektah/CodeGlance, 0, 2, 0, 8, 5, 15, 1981, 37, 1732, 149, 9, 859
-bufferapp/clean-architecture-components-boilerplate, 0, 0, 0, 1, 3, 4, 429, 8, 2677, 78, 9, 854
-8enet/Charles-Crack, 0, 0, 0, 5, 0, 5, 245, 1, 343, 12, 2, 846
-blackbbc/Tucao, 2, 9, 2, 38, 48, 99, 680, 4, 13331, 543, 3, 844
-fossasia/open-event-android, 0, 6, 3, 11, 28, 48, 1305, 55, 6426, 315, 31, 832
-ncapdevi/FragNav, 5, 1, 0, 3, 3, 12, 974, 25, 2119, 428, 20, 826
-Kotlin/dokka, 17, 15, 1, 77, 47, 157, 1597, 132, 12784, 1445, 36, 822
-armcha/Ribble, 0, 4, 0, 30, 29, 63, 484, 8, 5405, 106, 4, 809
-kiruto/debug-bottle, 0, 12, 0, 27, 31, 70, 828, 5, 10335, 522, 2, 802
-loopeer/code-reader, 1, 7, 3, 25, 30, 66, 844, 7, 8589, 409, 9, 797
-pawegio/KAndroid, 0, 0, 0, 20, 4, 24, 1340, 3, 1206, 227, 6, 785
-kizitonwose/Time, 0, 0, 0, 8, 1, 9, 395, 2, 233, 40, 4, 785
-TradeMe/MapMe, 0, 1, 0, 11, 5, 17, 488, 5, 1388, 56, 4, 766
-MarioAriasC/funKTionale, 0, 2, 0, 275, 9, 286, 2067, 11, 5429, 146, 14, 762
-shellljx/TagViewGroup, 0, 1, 0, 5, 4, 10, 703, 1, 828, 57, 2, 761
-perwendel/spark-kotlin, 1, 1, 0, 46, 3, 51, 550, 18, 1187, 49, 3, 747
-RedMadRobot/input-mask-android, 0, 5, 0, 7, 2, 14, 760, 4, 3181, 103, 11, 727
-ingokegel/jclasslib, 27, 9, 1, 44, 36, 117, 2566, 4, 14553, 991, 6, 727
-2dust/v2rayNG, 0, 6, 0, 26, 11, 43, 440, 64, 4598, 37, 4, 722
-spring-projects/spring-fu, 0, 0, 0, 31, 29, 60, 185, 23, 6137, 423, 15, 717
-duanhong169/DrawableToolbox, 0, 2, 1, 7, 5, 15, 116, 0, 1717, 59, 1, 701
-holgerbrandl/kscript, 0, 0, 1, 6, 2, 9, 986, 20, 1040, 470, 19, 695
-juanchosaravia/KedditBySteps, 0, 0, 0, 0, 2, 2, 1032, 0, 780, 86, 11, 674
-nitrico/LastAdapter, 0, 1, 0, 2, 2, 5, 884, 13, 605, 164, 3, 671
-http4k/http4k, 13, 7, 6, 107, 29, 162, 612, 7, 22403, 2812, 38, 670
-Ccixyj/JBusDriver, 1, 5, 0, 8, 18, 32, 595, 10, 7929, 469, 5, 660
-SchibstedSpain/Barista, 2, 0, 0, 20, 0, 22, 674, 28, 2212, 281, 25, 651
-dlew/android-architecture-counter-sample, 0, 0, 0, 0, 3, 3, 557, 2, 440, 3, 2, 650
-agoda-com/Kakao, 0, 0, 0, 3, 14, 17, 425, 4, 4471, 240, 24, 643
-bufferapp/android-clean-architecture-mvi-boilerplate, 0, 1, 0, 0, 3, 4, 342, 4, 2865, 82, 9, 642
-duckduckgo/Android, 12, 10, 0, 38, 39, 99, 681, 39, 20610, 606, 12, 633
-permissions-dispatcher/permissions-dispatcher-plugin, 1, 0, 0, 0, 4, 5, 944, 10, 846, 236, 5, 630
-MicroUtils/kotlin-logging, 1, 1, 0, 15, 6, 23, 877, 1, 1543, 311, 10, 619
-mplatvoet/kovenant, 0, 2, 7, 65, 13, 87, 1435, 8, 9099, 710, 7, 615
-SimpleMobileTools/Simple-Gallery, 0, 15, 4, 27, 25, 71, 1013, 139, 10427, 4197, 107, 615
-TonnyL/Mango, 1, 0, 0, 3, 29, 33, 510, 1, 8229, 48, 9, 613
-Gh0u1L5/WechatSpellbook, 0, 0, 0, 29, 4, 33, 264, 17, 3617, 103, 3, 592
-jabbink/PokemonGoBot, 0, 5, 2, 38, 6, 51, 858, 102, 4247, 464, 60, 586
-SalomonBrys/Kotson, 0, 1, 0, 3, 1, 5, 1379, 12, 1108, 56, 7, 584
-kbiakov/CodeView-android, 0, 1, 0, 7, 5, 13, 825, 8, 1590, 138, 5, 583
-blokadaorg/blokada, 0, 9, 3, 58, 30, 100, 736, 90, 13123, 290, 6, 580
-burhanrashid52/YoutubeUX, 0, 1, 0, 3, 4, 8, 241, 0, 2238, 88, 1, 574
-ansman/kotshi, 0, 1, 1, 20, 2, 24, 515, 13, 3039, 114, 7, 574
-RocketChat/Rocket.Chat.Android, 18, 22, 2, 84, 89, 215, 1074, 144, 24992, 4683, 79, 569
-acejump/AceJump, 0, 2, 0, 5, 2, 9, 2301, 51, 1948, 678, 15, 566
-vanniktech/gradle-dependency-graph-generator-plugin, 5, 1, 0, 3, 0, 9, 268, 1, 1225, 55, 6, 563
-patloew/countries, 8, 0, 0, 14, 7, 29, 974, 2, 3356, 106, 6, 558
-tommybuonomo/morph-bottom-navigation, 1, 0, 0, 0, 1, 2, 168, 3, 349, 15, 3, 557
-FredJul/Flym, 0, 4, 0, 3, 7, 14, 2042, 56, 4115, 1317, 56, 553
-hussien89aa/KotlinUdemy, 0, 1, 0, 6, 11, 18, 555, 6, 4016, 41, 4, 550
-gildor/kotlin-coroutines-retrofit, 0, 1, 0, 0, 0, 1, 644, 2, 651, 65, 10, 549
-xiprox/ErrorView, 0, 1, 1, 1, 1, 4, 1490, 2, 347, 111, 4, 544
-Kotlin/kotlinx.html, 0, 4, 0, 114, 10, 128, 1333, 32, 8606, 606, 16, 543
-mrsegev/MovieNight, 0, 1, 3, 8, 13, 25, 275, 2, 3757, 14, 1, 543
-JesusM/FingerprintManager, 7, 0, 0, 8, 8, 23, 600, 5, 1655, 26, 2, 541
-qingmei2/RxImagePicker, 4, 12, 2, 32, 46, 96, 321, 4, 6282, 182, 4, 539
-JakeWharton/dex-member-list, 0, 0, 0, 0, 0, 0, 1063, 6, 1208, 122, 5, 539
-qiuxiang/react-native-amap3d, 0, 1, 0, 1, 8, 10, 548, 39, 1234, 382, 6, 537
-TonnyL/Spark, 0, 0, 0, 0, 0, 0, 456, 0, 156, 5, 2, 535
-Bakumon/MoneyKeeper, 0, 10, 4, 43, 41, 98, 167, 4, 14628, 345, 5, 534
-GwonHyeok/StickySwitch, 0, 1, 1, 2, 1, 5, 622, 7, 486, 79, 7, 534
-iceCola7/WanAndroid, 0, 21, 0, 132, 114, 267, 219, 4, 10618, 282, 4, 534
-scana/ok-gradle, 0, 0, 0, 0, 4, 4, 405, 7, 1542, 18, 4, 528
-damianpetla/kotlin-dagger-example, 0, 0, 0, 0, 0, 0, 1442, 5, 109, 34, 2, 527
-wangzailfm/WanAndroidClient, 0, 6, 0, 15, 21, 42, 347, 4, 4721, 85, 1, 525
-yjfnypeu/EasyAndroid, 0, 5, 0, 18, 30, 53, 204, 0, 4846, 181, 3, 519
-androidstarters/kotlin-android-starter, 0, 0, 0, 1, 5, 6, 850, 11, 1944, 144, 10, 512
-FasterXML/jackson-module-kotlin, 0, 0, 0, 3, 2, 5, 1551, 47, 2406, 629, 23, 511
-intellij-solidity/intellij-solidity, 7, 2, 0, 21, 15, 45, 642, 29, 7751, 355, 15, 509
-HabitRPG/habitica-android, 15, 40, 13, 74, 131, 273, 1374, 102, 29606, 2501, 73, 502
-googlesamples/android-databinding, 0, 1, 0, 6, 2, 9, 277, 7, 1706, 31, 2, 499
-wasabifx/wasabi, 6, 3, 1, 19, 5, 34, 2071, 21, 3639, 651, 27, 494
-mozilla-mobile/android-components, 8, 35, 58, 74, 54, 229, 249, 281, 46709, 1068, 65, 493
-rarnu/root-tools, 0, 5, 9, 26, 9, 49, 2617, 6, 5291, 905, 11, 486
-TinyMission/kara, 0, 1, 1, 46, 18, 66, 2166, 4, 6895, 675, 24, 483
-JoaoMotondon/RxJavaDemoApp, 16, 10, 2, 4, 25, 57, 233, 5, 6156, 8, 2, 483
-TonnyL/Light, 0, 0, 0, 33, 1, 34, 569, 2, 548, 28, 8, 483
-Ramotion/navigation-toolbar-android, 0, 2, 0, 10, 12, 24, 331, 4, 2333, 218, 6, 482
-tommybuonomo/creative-viewpager, 0, 0, 0, 2, 2, 4, 206, 0, 546, 20, 3, 482
-JetBrains/kotlinconf-spinner, 0, 2, 0, 30, 9, 41, 439, 5, 3701, 200, 15, 480
-aweconf/awesome-conferences-database, 0, 0, 0, 0, 0, 0, 429, 0, 434, 623, 15, 476
-Kotlin/kotlin-frontend-plugin, 0, 2, 2, 10, 9, 23, 738, 63, 3885, 313, 17, 470
-JetBrains/kotlin-workshop, 1, 0, 1, 28, 0, 30, 724, 3, 4186, 89, 9, 467
-libktx/ktx, 0, 23, 4, 167, 12, 206, 877, 13, 19708, 433, 14, 464
-ruzhan123/awaker, 1, 2, 0, 4, 6, 13, 507, 0, 2563, 300, 1, 464
-Zackratos/UltimateBar, 0, 1, 0, 8, 1, 10, 730, 10, 695, 80, 4, 462
-adisonhuang/awesome-kotlin-android, 0, 0, 0, 0, 0, 0, 273, 0, 0, 20, 2, 462
-gojuno/composer, 0, 1, 0, 6, 0, 7, 598, 46, 2683, 71, 18, 461
-Cuieney/RxPay, 0, 1, 0, 1, 2, 4, 436, 4, 644, 117, 3, 460
-nekocode/Murmur, 0, 0, 0, 7, 5, 12, 1170, 0, 1914, 62, 2, 458
-mcxiaoke/kotlin-koi, 0, 0, 0, 36, 6, 42, 1034, 4, 3452, 69, 6, 455
-skedgo/DateTimeRangePicker, 2, 0, 0, 2, 0, 4, 705, 8, 447, 17, 3, 448
-bassaer/ChatMessageView, 0, 3, 0, 0, 4, 7, 839, 21, 1829, 349, 15, 446
-bgard6977/depends, 0, 0, 0, 0, 0, 0, 26, 0, 273, 26, 2, 446
-grote/Transportr, 1, 5, 0, 14, 20, 40, 1906, 62, 6749, 1175, 46, 444
-Mobcase/McImage, 0, 0, 0, 5, 0, 5, 603, 0, 398, 86, 8, 441
-recruit-mp/LightCalendarView, 0, 1, 0, 2, 6, 9, 734, 21, 1625, 66, 6, 441
-MarkusAmshove/Kluent, 16, 10, 0, 5, 2, 33, 1021, 7, 10379, 445, 25, 437
-sdeleuze/spring-boot-kotlin-demo, 0, 0, 0, 0, 0, 0, 1029, 2, 82, 61, 5, 432
-Werb/PickPhotoSample, 0, 0, 0, 1, 5, 6, 694, 8, 1127, 206, 3, 430
-kotcity/kotcity, 0, 6, 4, 53, 27, 90, 265, 0, 7759, 638, 8, 430
-ffgiraldez/rx-mvvm-android, 0, 0, 0, 5, 0, 5, 1098, 4, 845, 19, 6, 429
-dkandalov/kotlin-99, 0, 0, 0, 18, 0, 18, 811, 7, 5074, 261, 5, 428
-pro100svitlo/FingerprintAuthHelper, 0, 2, 0, 1, 3, 6, 780, 2, 844, 67, 4, 423
-simonpercic/OkLog, 0, 2, 1, 8, 3, 14, 1148, 1, 2084, 272, 2, 419
-karntrehan/Posts, 0, 0, 0, 6, 3, 9, 539, 0, 1949, 65, 5, 419
-vicpinm/Kotlin-Realm-Extensions, 0, 3, 0, 19, 5, 27, 692, 4, 2199, 150, 15, 409
-thomasnield/kotlin-statistics, 0, 1, 0, 47, 2, 50, 627, 8, 1618, 160, 5, 409
-brianegan/bansa, 2, 0, 1, 1, 1, 5, 1083, 3, 2315, 115, 4, 409
-andremion/Theatre, 1, 0, 0, 6, 2, 9, 275, 4, 4409, 50, 1, 409
-550609334/Twobbble, 0, 6, 0, 56, 26, 88, 643, 1, 5800, 22, 1, 409
-mixitconf/mixit, 0, 3, 0, 22, 14, 39, 715, 8, 3634, 1163, 18, 407
-amanjeetsingh150/kotlin-android-examples, 0, 0, 0, 3, 9, 12, 377, 2, 6472, 78, 5, 407
-konifar/material-cat, 1, 0, 0, 12, 4, 17, 1210, 12, 1537, 115, 4, 401
-ligi/PassAndroid, 3, 3, 1, 22, 22, 51, 2132, 84, 5961, 1671, 10, 401
-florent37/KotlinPleaseAnimate, 20, 2, 0, 22, 4, 48, 257, 3, 2373, 27, 4, 399
-Yalantis/OfficialFoldingTabBar.Android, 0, 1, 0, 0, 1, 2, 710, 6, 458, 10, 4, 399
-BennyWang/KBinding, 1, 0, 0, 46, 6, 53, 1109, 0, 3317, 163, 5, 396
-armcha/ElasticView, 0, 0, 0, 0, 1, 1, 31, 1, 373, 24, 2, 396
-romainguy/kotlin-math, 0, 1, 1, 63, 9, 74, 337, 3, 1960, 47, 5, 395
-metalabdesign/AsyncAwait, 0, 1, 0, 1, 3, 5, 828, 9, 989, 111, 6, 390
-TonnyL/Charles, 0, 1, 2, 2, 7, 12, 290, 4, 1737, 8, 2, 390
-QuickPermissions/QuickPermissions, 0, 0, 0, 0, 1, 1, 285, 2, 179, 40, 2, 388
-cortinico/slidetoact, 0, 1, 0, 1, 1, 3, 930, 6, 601, 84, 7, 388
-saket/FluidKeyboardResize, 0, 0, 0, 0, 0, 0, 56, 2, 283, 39, 1, 387
-DanielMartinus/Stepper-Touch, 0, 1, 0, 1, 3, 5, 616, 14, 300, 47, 2, 386
-okdroid/checkable-chip-view, 0, 1, 0, 2, 1, 4, 103, 5, 436, 19, 2, 386
-aykuttasil/CallRecorder, 0, 1, 0, 14, 4, 19, 767, 25, 528, 70, 3, 383
-andretietz/retroauth, 2, 0, 0, 8, 10, 20, 1266, 2, 2099, 351, 5, 382
-SchibstedSpain/Leku, 0, 1, 0, 8, 6, 15, 851, 11, 2305, 433, 20, 382
-moove-it/fakeit, 0, 1, 0, 4, 11, 16, 674, 17, 1161, 111, 15, 376
-francoiscampbell/CircleLayout, 0, 0, 0, 2, 1, 3, 1047, 1, 276, 51, 2, 374
-lyft/domic, 0, 0, 0, 1, 6, 7, 201, 6, 2485, 34, 4, 374
-mistamek/Android-drawable-preview-plugin, 0, 1, 0, 2, 1, 4, 195, 0, 1378, 87, 3, 373
-develar/settings-repository, 0, 2, 1, 33, 9, 45, 1910, 0, 3824, 317, 4, 372
-MindorksOpenSource/android-kotlin-mvp-architecture, 0, 0, 0, 4, 14, 18, 336, 14, 2316, 49, 4, 371
-square/AssistedInject, 1, 3, 0, 0, 3, 7, 531, 9, 3657, 145, 4, 371
-wajahatkarim3/MediumClap-Android, 0, 2, 0, 3, 3, 8, 298, 2, 947, 111, 4, 370
-saulmm/From-design-to-Android-part2, 0, 0, 0, 0, 0, 0, 431, 0, 95, 12, 2, 370
-gurleensethi/LiteUtilities, 0, 0, 1, 5, 3, 9, 462, 2, 775, 44, 2, 370
-qhutch/BottomSheetLayout, 0, 1, 0, 3, 1, 5, 383, 7, 260, 44, 1, 369
-Tinder/StateMachine, 0, 0, 0, 0, 3, 3, 177, 3, 709, 21, 2, 368
-ligi/SurvivalManual, 1, 1, 0, 1, 4, 7, 800, 30, 1136, 331, 5, 367
-zsmb13/MaterialDrawerKt, 0, 2, 0, 26, 2, 30, 600, 1, 5898, 285, 4, 367
-Microsoft/thrifty, 0, 18, 4, 28, 18, 68, 1007, 18, 14761, 442, 12, 366
-VladimirWrites/Lemniscate, 4, 2, 1, 6, 5, 18, 676, 0, 2955, 72, 2, 366
-alexstyl/RadiusTransition, 0, 0, 0, 0, 0, 0, 240, 0, 136, 8, 1, 366
-Arasthel/SpannedGridLayoutManager, 0, 1, 0, 4, 1, 6, 538, 9, 867, 44, 4, 362
-cbeust/kobalt, 2, 15, 3, 180, 41, 241, 1147, 65, 16485, 3388, 27, 361
-kittinunf/Result, 0, 2, 0, 0, 4, 6, 1124, 2, 793, 107, 8, 360
-JakeWharton/Reagent, 1, 0, 0, 0, 0, 1, 745, 0, 3206, 139, 2, 355
-V2Ray-Android/Actinium, 0, 3, 0, 16, 5, 24, 825, 33, 1784, 115, 4, 354
-LibreShift/red-moon, 0, 0, 0, 2, 9, 11, 984, 43, 3371, 1000, 109, 353
-freeletics/RxRedux, 2, 0, 0, 10, 6, 18, 152, 4, 1791, 149, 11, 351
-michaelxs/Android-CommonShapeButton, 0, 1, 0, 0, 1, 2, 150, 1, 284, 71, 4, 350
-ssseasonnn/Yaksa, 0, 0, 0, 12, 6, 18, 174, 4, 1529, 47, 1, 343
-fabianonline/telegram_backup, 1, 6, 2, 21, 7, 37, 876, 49, 3815, 353, 9, 339
-Talentica/AndroidWithKotlin, 0, 2, 0, 13, 18, 33, 544, 1, 2664, 83, 3, 339
-stfalcon-studio/MultiImageView, 0, 0, 0, 1, 1, 2, 703, 2, 148, 10, 4, 338
-hypeapps/MaterialTimelineView, 1, 0, 0, 3, 2, 6, 412, 1, 384, 27, 1, 338
-android/android-studio-poet, 18, 2, 0, 27, 8, 55, 415, 8, 6122, 552, 11, 336
-sangcomz/StickyTimeLine, 0, 1, 0, 2, 1, 4, 370, 4, 539, 71, 5, 335
-Jire/Charlatano, 0, 1, 0, 27, 1, 29, 825, 405, 3965, 445, 13, 335
-JorgeCastilloPrz/ArrowAndroidSamples, 0, 0, 0, 7, 9, 16, 632, 6, 1536, 206, 5, 334
-chibatching/Kotpref, 3, 2, 1, 30, 3, 39, 1211, 5, 2705, 424, 14, 333
-moshbit/Kotlift, 0, 1, 2, 3, 0, 6, 1019, 6, 1413, 68, 3, 332
-CleverPumpkin/CrunchyCalendar, 0, 1, 0, 3, 7, 11, 184, 4, 2247, 232, 3, 331
-graphql-java-kickstart/graphql-java-tools, 2, 2, 0, 22, 10, 36, 654, 16, 2531, 414, 37, 329
-MarcinMoskala/ActivityStarter, 4, 0, 1, 21, 7, 33, 660, 4, 3091, 353, 5, 329
-stepstone-tech/android-material-app-rating, 0, 2, 0, 9, 6, 17, 684, 5, 1616, 45, 6, 328
-MarcinMoskala/ArcSeekBar, 0, 1, 0, 2, 1, 4, 472, 2, 240, 54, 3, 326
-sanogueralorenzo/Android-Kotlin-Clean-Architecture, 0, 0, 0, 1, 1, 2, 334, 0, 1678, 69, 2, 323
-JorgeCastilloPrz/hiroaki, 1, 2, 0, 11, 3, 17, 261, 3, 2968, 179, 2, 321
-dbacinski/Android-Testing-With-Kotlin, 0, 0, 0, 0, 2, 2, 755, 4, 395, 147, 6, 318
-Daio-io/dresscode, 0, 0, 0, 0, 1, 1, 89, 0, 262, 30, 2, 317
-skydoves/AndroidVeil, 0, 2, 0, 1, 2, 5, 25, 0, 763, 17, 2, 316
-TonnyL/WhatsNew, 0, 0, 0, 0, 0, 0, 359, 1, 519, 6, 4, 315
-LouisCAD/Splitties, 4, 0, 0, 149, 6, 159, 835, 32, 9360, 1001, 4, 315
-mpcjanssen/simpletask-android, 2, 15, 5, 40, 22, 84, 1780, 211, 8901, 3352, 72, 314
-vanniktech/RxRiddles, 0, 0, 0, 0, 0, 0, 183, 0, 1668, 15, 7, 314
-xenomachina/kotlin-argparser, 0, 2, 0, 20, 2, 24, 687, 25, 2388, 250, 5, 310
-walleth/walleth, 8, 6, 2, 15, 25, 56, 573, 117, 8102, 1027, 12, 308
-Shopify/livedata-ktx, 0, 1, 0, 3, 0, 4, 218, 7, 530, 76, 3, 305
-minecraft-dev/MinecraftDev, 40, 6, 1, 117, 52, 216, 1171, 123, 26400, 1242, 28, 305
-bernaferrari/EmojiSlider, 0, 3, 1, 14, 12, 30, 121, 0, 2593, 69, 1, 304
-LiushuiXiaoxia/AndroidModular, 0, 0, 0, 0, 3, 3, 560, 0, 399, 12, 2, 304
-wordpress-mobile/AztecEditor-Android, 5, 26, 12, 110, 37, 190, 866, 76, 22097, 3194, 24, 303
-Commit451/ModalBottomSheetDialogFragment, 0, 0, 0, 0, 1, 1, 282, 0, 368, 19, 4, 303
-jerryOkafor/TimeLineView, 0, 0, 0, 1, 1, 2, 403, 0, 308, 33, 5, 303
-quiph/RecyclerView-FastScroller, 0, 1, 0, 0, 2, 3, 151, 0, 999, 21, 4, 302
-tingyik90/snackprogressbar, 0, 3, 0, 7, 4, 14, 550, 0, 1466, 66, 2, 300
-vpaliy/Movies, 0, 1, 0, 8, 27, 36, 605, 2, 4636, 420, 4, 300
-Yalantis/kotlin-mvp-example, 0, 0, 0, 0, 3, 3, 755, 1, 482, 7, 6, 299
-elpassion/crweather, 1, 0, 0, 8, 1, 10, 534, 5, 758, 81, 1, 298
-nirukk52/SnapTabLayout, 0, 1, 1, 1, 1, 4, 105, 1, 595, 56, 3, 295
-lsxiao/Apollo, 0, 1, 0, 4, 1, 6, 839, 3, 1134, 221, 4, 295
-Mygod/VPNHotspot, 2, 1, 0, 12, 12, 27, 326, 7, 4454, 442, 3, 293
-SeunAdelekan/Kanary, 0, 1, 1, 29, 10, 41, 550, 2, 2998, 169, 3, 291
-zawadz88/MaterialPopupMenu, 1, 4, 1, 3, 5, 14, 496, 2, 1722, 25, 5, 287
-JetBrains/kotlin-wrappers, 0, 4, 0, 101, 6, 111, 540, 21, 4481, 306, 22, 286
-fython/PackageTracker, 0, 7, 3, 14, 22, 46, 887, 23, 7253, 260, 13, 284
-kaikaixue/Eyepetizer, 0, 4, 2, 2, 36, 44, 459, 3, 3763, 25, 2, 284
-thoughtbot/stencil, 0, 0, 0, 0, 1, 1, 779, 2, 163, 5, 1, 284
-blackbbc/Evil-Hide, 0, 0, 0, 0, 1, 1, 993, 3, 425, 51, 3, 283
-Yelp/kotlin-android-workshop, 1, 0, 0, 0, 0, 1, 79, 0, 621, 32, 2, 283
-AkshayChordiya/android-arch-news-sample, 0, 0, 0, 0, 2, 2, 551, 4, 860, 27, 3, 281
-KucherenkoIhor/Android-Architecture-Components, 0, 0, 0, 0, 1, 1, 556, 2, 362, 23, 4, 281
-cretz/asmble, 0, 12, 2, 127, 23, 164, 633, 10, 8802, 130, 2, 280
-santalu/mask-edittext, 0, 0, 0, 0, 1, 1, 473, 1, 156, 42, 5, 279
-uber/stylist, 0, 0, 0, 4, 0, 4, 103, 3, 641, 17, 2, 279
-msesma/Karchitec, 0, 0, 0, 2, 6, 8, 541, 1, 1507, 47, 3, 279
-klinker24/Android-FloatingTutorialActivity, 1, 0, 0, 1, 4, 6, 443, 1, 1393, 21, 1, 279
-badoo/MVICore, 0, 0, 0, 13, 9, 22, 258, 3, 2570, 157, 9, 278
-infinum/Android-GoldenEye, 0, 4, 0, 21, 8, 33, 975, 1, 4549, 42, 6, 276
-CarGuo/GSYGithubAppKotlin, 0, 6, 3, 162, 39, 210, 17, 2, 12511, 221, 2, 275
-andyb129/31DaysOfKotlin, 0, 0, 0, 0, 0, 0, 234, 0, 42, 10, 1, 274
-googlesamples/android-text, 0, 0, 1, 4, 0, 5, 303, 0, 1266, 51, 5, 274
-jonnyzzz/TeamCity.Node, 1, 0, 0, 7, 15, 23, 2143, 49, 2532, 336, 20, 274
-fython/MaterialStatusBarCompat, 0, 0, 0, 2, 3, 5, 1230, 0, 262, 6, 2, 273
-RubyLichtenstein/RxTest, 0, 1, 0, 1, 0, 2, 393, 1, 784, 312, 4, 271
-revely-inc/co.revely.gradient, 0, 0, 0, 1, 3, 4, 432, 3, 525, 16, 1, 271
-ravidsrk/kotlinextensions.com, 0, 0, 0, 0, 0, 0, 452, 0, 169, 46, 11, 269
-Karn/notify, 0, 0, 2, 1, 3, 6, 219, 2, 1790, 52, 1, 269
-bernaferrari/ChangeDetection, 1, 6, 2, 26, 18, 53, 182, 3, 6732, 195, 6, 269
-SimpleMobileTools/Simple-File-Manager, 0, 4, 0, 13, 9, 26, 866, 53, 2289, 1066, 49, 267
-jaredsburrows/android-gif-example, 0, 0, 0, 1, 3, 4, 888, 3, 1227, 468, 2, 267
-mannodermaus/android-junit5, 0, 2, 0, 13, 8, 23, 786, 6, 3754, 245, 5, 267
-pakoito/FunctionalAndroidReference, 3, 0, 2, 16, 2, 23, 795, 0, 4241, 280, 2, 267
-qhutch/ElevationImageView, 0, 0, 0, 0, 1, 1, 254, 4, 193, 31, 3, 265
-mattbdean/JRAW, 2, 5, 0, 23, 25, 55, 1656, 14, 10740, 1216, 27, 264
-erikcaffrey/Android-Architecture-Components-Kotlin, 0, 1, 1, 1, 3, 6, 525, 1, 1003, 50, 4, 264
-nordprojects/lantern, 1, 1, 0, 4, 17, 23, 307, 0, 4823, 270, 6, 264
-mpv-android/mpv-android, 0, 2, 2, 3, 5, 12, 949, 35, 1512, 454, 13, 264
-ssseasonnn/RxRouter, 0, 0, 0, 4, 3, 7, 230, 1, 1148, 29, 1, 263
-husaynhakeem/android-face-detector, 0, 0, 0, 5, 2, 7, 156, 0, 325, 27, 2, 263
-djuarez/Kotlin-CleanArchitecture, 0, 0, 0, 1, 2, 3, 892, 1, 881, 15, 2, 262
-satorufujiwara/kotlin-architecture-components, 0, 0, 0, 0, 0, 0, 535, 1, 479, 63, 4, 262
-arturbosch/sonar-kotlin, 0, 0, 0, 11, 2, 13, 507, 14, 1808, 84, 12, 262
-general-mobile/kotlin-android-mvp-starter, 0, 0, 0, 0, 0, 0, 552, 2, 266, 7, 2, 261
-hotchemi/khronos, 0, 1, 0, 2, 0, 3, 980, 9, 532, 32, 3, 261
-Kotlin/anko-example, 0, 0, 0, 1, 0, 1, 1333, 9, 199, 12, 2, 260
-skydoves/ElasticViews, 0, 0, 0, 1, 6, 7, 673, 0, 617, 54, 2, 260
-mazurio/bodyweight-fitness-android, 0, 5, 0, 9, 19, 33, 1348, 29, 5636, 370, 5, 259
-SimpleMobileTools/Simple-Camera, 0, 3, 0, 2, 5, 10, 957, 36, 2093, 986, 47, 259
-Kotlin-lang-CN/Kotlin-CN, 0, 4, 0, 33, 5, 42, 879, 0, 6874, 239, 5, 259
-sekwiatkowski/komputation, 10, 1, 9, 165, 9, 194, 534, 5, 11341, 192, 1, 257
-irontec/android-kotlin-samples, 0, 0, 0, 0, 0, 0, 1313, 0, 639, 56, 3, 256
-Frederikam/FredBoat, 1, 9, 2, 44, 32, 88, 996, 79, 13482, 2605, 38, 256
-Kotlin/ts2kt, 6, 14, 27, 935, 220, 1202, 1748, 65, 24117, 412, 12, 255
-arunkumar9t2/transition-x, 1, 0, 1, 2, 4, 8, 122, 0, 3168, 138, 1, 254
-neo4j-graphql/neo4j-graphql, 0, 8, 1, 40, 10, 59, 762, 67, 4382, 202, 7, 254
-zalando/zally, 27, 1, 0, 38, 12, 78, 706, 35, 12577, 2195, 49, 253
-faob-dev/MotionLayoutCarousel, 0, 0, 0, 0, 0, 0, 40, 0, 128, 12, 1, 253
-dev-labs-bg/fast-list, 0, 0, 0, 2, 1, 3, 149, 0, 156, 25, 2, 253
-jkcclemens/khttp, 0, 6, 0, 16, 2, 24, 1133, 26, 3572, 180, 7, 252
-Plastix/Kotlin-Android-Boilerplate, 0, 0, 0, 6, 3, 9, 835, 3, 1091, 40, 3, 251
-AllenCoder/BRVAH_kotlin, 0, 1, 2, 2, 2, 7, 521, 7, 2656, 21, 2, 250
-gojuno/koptional, 0, 1, 0, 0, 0, 1, 543, 1, 588, 25, 10, 249
-iammert/AnimatedTabLayout, 0, 1, 0, 1, 3, 5, 210, 5, 483, 8, 2, 249
-ollide/intellij-java2smali, 0, 0, 0, 0, 0, 0, 1768, 4, 139, 67, 4, 248
-squanchy-dev/squanchy-android, 6, 1, 0, 52, 45, 104, 750, 33, 10287, 3651, 25, 248
-SimpleMobileTools/Simple-Music-Player, 0, 4, 1, 7, 11, 23, 1050, 27, 3128, 946, 40, 248
-icela/FriceEngine, 0, 2, 0, 18, 14, 34, 834, 0, 3827, 749, 8, 247
-iglaweb/Ferris-Wheel, 0, 1, 0, 11, 4, 16, 317, 0, 1126, 62, 2, 246
-YvesCheung/RollingText, 0, 2, 0, 11, 11, 24, 270, 2, 1250, 55, 3, 246
-jahirfiquitiva/Frames, 0, 0, 0, 0, 0, 0, 504, 3, 111, 630, 3, 242
-santalu/diagonal-imageview, 0, 1, 0, 0, 1, 2, 473, 0, 411, 44, 3, 241
-Hexworks/zircon, 10, 5, 5, 30, 85, 135, 531, 39, 24819, 640, 12, 240
-CypherpunkArmory/UserLAnd, 0, 6, 2, 26, 17, 51, 250, 69, 4671, 892, 9, 240
-ScaleChain/scalechain, 10, 15, 2, 131, 29, 187, 1120, 11, 37610, 699, 6, 239
-JcMinarro/Philology, 3, 0, 0, 2, 0, 5, 148, 3, 802, 30, 1, 238
-wuapnjie/LayoutMaster, 0, 1, 1, 14, 3, 19, 225, 2, 1300, 14, 2, 236
-angryziber/kotlin-puzzlers, 0, 0, 0, 0, 0, 0, 896, 8, 67, 362, 15, 235
-gazolla/Kotlin-Algorithm, 0, 0, 2, 3, 6, 11, 966, 3, 954, 73, 10, 235
-iPoli/iPoli-android, 97, 66, 15, 213, 183, 574, 1262, 0, 86457, 7479, 7, 234
-saket/Flick, 1, 0, 0, 1, 2, 4, 115, 1, 583, 64, 2, 234
-patrickyin/clean-architecture-android-kotlin, 0, 0, 0, 1, 0, 1, 252, 2, 560, 32, 1, 233
-imablanco/Parallax, 0, 0, 0, 1, 1, 2, 496, 0, 301, 5, 2, 233
-npryce/hamkrest, 0, 0, 0, 10, 0, 10, 1110, 12, 1456, 157, 10, 233
-JakeWharton/retrofit2-kotlinx-serialization-converter, 3, 0, 0, 1, 0, 4, 321, 0, 204, 19, 1, 232
-pardom-zz/redux-kotlin, 0, 0, 0, 1, 0, 1, 865, 2, 510, 84, 2, 232
-jnizet/gradle-kotlin-dsl-migration-guide, 0, 0, 0, 0, 0, 0, 196, 0, 0, 21, 2, 231
-armcha/ColoredShadowImageView, 0, 0, 0, 2, 1, 3, 272, 3, 317, 36, 3, 230
-rubygarage/emotion-rating-view, 0, 0, 0, 0, 1, 1, 170, 1, 359, 10, 4, 228
-bmaslakov/kotlin-algorithm-club, 0, 3, 7, 17, 7, 34, 636, 0, 5171, 103, 3, 227
-reddit/IndicatorFastScroll, 0, 1, 0, 3, 1, 5, 249, 2, 1296, 12, 2, 227
-armcha/PlayTabLayout, 0, 3, 0, 9, 4, 16, 410, 4, 1800, 24, 2, 226
-rock3r/deep-clean, 0, 0, 1, 0, 0, 1, 172, 2, 0, 36, 1, 226
-styled-components/webstorm-styled-components, 1, 0, 0, 0, 0, 1, 452, 13, 380, 65, 6, 225
-satorufujiwara/kotlin-android-flux, 0, 0, 0, 4, 1, 5, 1256, 1, 890, 97, 3, 225
-AiYinZiLeGong/PUBG-Radar, 2, 6, 2, 17, 3, 30, 299, 47, 3485, 33, 1, 224
-CesarValiente/KUnidirectional, 0, 0, 0, 2, 7, 9, 592, 1, 3736, 51, 2, 224
-paphonb/AndroidP-ify, 2, 5, 4, 11, 6, 28, 254, 30, 4119, 150, 14, 224
-UCodeUStory/Relax, 0, 0, 0, 20, 4, 24, 90, 1, 2801, 53, 2, 221
-awslabs/serverless-photo-recognition, 0, 0, 0, 0, 1, 1, 689, 1, 375, 75, 4, 221
-kennycason/bayesian_sentiment_analysis, 8, 2, 1, 3, 3, 17, 846, 0, 1810, 16, 1, 220
-Commit451/LabCoat, 5, 7, 3, 89, 67, 171, 1217, 5, 17291, 913, 31, 220
-dvoiss/literallytoast, 0, 0, 0, 3, 0, 3, 413, 5, 160, 23, 3, 218
-blockchain/My-Wallet-V3-Android, 37, 63, 51, 151, 137, 439, 1482, 2, 51915, 5565, 22, 218
-jeffreystoke/openct-android, 0, 0, 0, 0, 1, 1, 722, 31, 398, 149, 2, 217
-kohesive/injekt, 0, 1, 1, 5, 4, 11, 1211, 13, 801, 252, 6, 217
-isuPatches/WiseFy, 5, 5, 0, 20, 40, 70, 943, 1, 9976, 276, 4, 216
-SchibstedSpain/Protein, 0, 1, 0, 1, 1, 3, 54, 1, 751, 40, 2, 216
-iielse/behavior-learn, 0, 1, 0, 5, 4, 10, 170, 2, 1195, 2, 1, 214
-foolchen/AndroidTracker, 0, 1, 0, 9, 5, 15, 386, 0, 2241, 127, 1, 213
-andrefrsousa/SuperBottomSheet, 0, 1, 0, 1, 2, 4, 40, 0, 669, 46, 2, 213
-Ruin0x11/intellij-lsp-server, 17, 2, 1, 72, 12, 104, 281, 21, 7057, 285, 7, 213
-dmytrodanylyk/coroutine-recipes, 0, 0, 0, 0, 9, 9, 412, 0, 686, 29, 4, 213
-googlecodelabs/android-navigation, 0, 0, 0, 0, 1, 1, 201, 8, 300, 10, 5, 211
-TonnyL/FanfouHandpick, 0, 0, 0, 1, 1, 2, 870, 0, 382, 18, 2, 211
-discordapp/SimpleAST, 0, 1, 0, 6, 0, 7, 254, 2, 963, 31, 6, 210
-nsk-mironov/smuggler, 0, 3, 6, 29, 9, 47, 1009, 6, 3364, 467, 2, 208
-ztc1997/Fingerprint2Sleep, 0, 2, 0, 6, 9, 17, 796, 27, 2196, 253, 14, 207
-NewsCatchr/NewsCatchr, 0, 4, 0, 8, 10, 22, 815, 8, 3887, 373, 3, 206
-alxrm/audiowave-progressbar, 0, 1, 0, 2, 1, 4, 763, 6, 392, 50, 6, 206
-atsky/haskell-idea-plugin, 6, 10, 1, 42, 68, 127, 1899, 46, 15241, 990, 16, 205
-afollestad/assent, 0, 0, 0, 5, 1, 6, 1092, 0, 610, 85, 2, 204
-MixinNetwork/android-app, 6, 45, 10, 193, 124, 378, 212, 2, 41891, 1048, 8, 204
-ligi/IPFSDroid, 0, 0, 0, 1, 4, 5, 942, 18, 645, 211, 3, 204
-zhudyos/duic, 3, 7, 0, 18, 15, 43, 364, 2, 7942, 479, 4, 203
-netguru/videochatguru-android, 1, 2, 0, 3, 7, 13, 488, 1, 2227, 186, 4, 203
-dkrivoruchko/ScreenStream, 0, 3, 1, 6, 6, 16, 860, 5, 3008, 164, 7, 202
-temyco/security-workshop-sample, 0, 0, 0, 24, 23, 47, 461, 2, 3017, 95, 8, 201
-kirtan403/K4Kotlin, 0, 1, 0, 4, 1, 6, 519, 2, 1336, 105, 5, 201
-substratum/template, 0, 1, 1, 0, 1, 3, 851, 0, 495, 263, 35, 200
-Kerr1Gan/Flesh, 0, 3, 1, 15, 13, 32, 444, 2, 2782, 279, 3, 199
-alxrm/animated-clock-icon, 0, 0, 0, 1, 3, 4, 744, 1, 493, 19, 3, 199
-TradeMe/Covert, 0, 1, 0, 9, 1, 11, 80, 0, 996, 4, 1, 199
-XiaoQiWen/KRefreshLayout, 0, 1, 0, 2, 4, 7, 523, 2, 1324, 65, 4, 199
-pgutkowski/KGraphQL, 1, 6, 1, 35, 15, 58, 545, 8, 7418, 149, 9, 199
-joaquim-verges/Helium, 0, 0, 0, 1, 2, 3, 247, 5, 1773, 53, 2, 199
-StevenDXC/DxLoadingButton, 0, 1, 0, 0, 1, 2, 773, 2, 601, 76, 5, 195
-limuyang2/LDialog, 0, 1, 0, 4, 4, 9, 145, 2, 990, 40, 2, 195
-konrad-kaminski/spring-kotlin-coroutine, 37, 0, 0, 100, 27, 164, 585, 18, 7683, 62, 2, 193
-wanglu1209/WPopup, 0, 2, 1, 2, 4, 9, 88, 1, 1379, 34, 2, 192
-zhoujunjiang/DoubanMovie, 0, 0, 0, 4, 10, 14, 548, 0, 2490, 21, 2, 192
-tslamic/AndroidDeviceNames, 0, 0, 0, 0, 0, 0, 1201, 0, 305, 37, 3, 192
-MindorksOpenSource/EditDrawableText, 0, 1, 0, 0, 0, 1, 144, 1, 209, 27, 5, 190
-cheptsov/kotlin-nosql, 3, 2, 1, 20, 7, 33, 1964, 11, 2620, 214, 2, 190
-inorichi/tachiyomi-extensions, 0, 37, 2, 9, 63, 111, 673, 107, 14972, 490, 43, 189
-gothinkster/kotlin-spring-realworld-example-app, 0, 1, 1, 4, 4, 10, 558, 5, 1074, 68, 4, 189
-ianhanniballake/LocalStorage, 1, 2, 0, 0, 2, 5, 1842, 0, 639, 103, 2, 188
-bufferapp/clean-architecture-koin-boilerplate, 0, 0, 0, 0, 4, 4, 75, 7, 1687, 83, 9, 187
-esoxjem/MovieGuide-Kotlin, 0, 0, 0, 1, 1, 2, 677, 2, 422, 30, 2, 186
-divyanshub024/AndroidDraw, 0, 2, 0, 0, 3, 5, 192, 2, 637, 45, 3, 186
-xurxodev/Movies-Kotlin-Kata, 0, 0, 0, 0, 6, 6, 597, 3, 778, 57, 3, 185
-kizitonwose/android-disposebag, 0, 0, 0, 0, 1, 1, 354, 0, 205, 22, 1, 185
-Turbo87/intellij-emberjs, 7, 1, 0, 13, 11, 32, 1104, 45, 3802, 583, 12, 185
-ajalt/clikt, 0, 5, 1, 38, 2, 46, 229, 5, 5668, 288, 7, 185
-alexstyl/Memento-Calendar, 22, 6, 6, 38, 53, 125, 820, 6, 14549, 1670, 8, 185
-sellmair/kompass, 8, 3, 1, 9, 9, 30, 354, 17, 4803, 157, 2, 184
-ahmedrizwan/RxRecyclerAdapter, 0, 0, 1, 1, 4, 6, 1082, 2, 458, 61, 5, 182
-mopsalarm/Pr0, 4, 21, 3, 110, 92, 230, 1380, 5, 26991, 3341, 21, 182
-StylingAndroid/Prefekt, 0, 0, 0, 31, 3, 34, 292, 0, 1565, 13, 2, 181
-CodeXiaoMai/AndroidGeek, 1, 3, 0, 8, 16, 28, 611, 1, 3184, 229, 3, 180
-vitorhugods/AvatarView, 0, 1, 1, 0, 1, 3, 65, 1, 679, 18, 2, 179
-JoaquimLey/transport-eta, 5, 4, 0, 18, 10, 37, 536, 38, 4412, 184, 1, 179
-touchlab/DroidconKotlin, 0, 2, 0, 7, 9, 18, 135, 8, 3441, 105, 4, 178
-borisf/classyshark-bytecode-viewer, 0, 0, 0, 1, 4, 5, 525, 1, 789, 89, 4, 178
-StephaneBg/SimpleNumberPicker, 0, 2, 2, 3, 2, 9, 627, 0, 647, 28, 5, 178
-mvarnagiris/expensius, 2, 7, 10, 46, 41, 106, 1278, 16, 13802, 713, 5, 178
-Kotlin/kotlinx.collections.immutable, 0, 2, 0, 4, 13, 19, 913, 15, 1456, 68, 3, 177
-kyonifer/koma, 0, 14, 5, 106, 30, 155, 1005, 34, 14187, 696, 10, 176
-andrewoma/kwery, 2, 6, 1, 40, 16, 65, 1373, 10, 9405, 284, 8, 176
-florent37/Shrine-MaterialDesign2, 0, 0, 0, 0, 0, 0, 193, 0, 57, 8, 2, 175
-fabioCollini/ArchitectureComponentsDemo, 1, 0, 0, 7, 6, 14, 530, 1, 2483, 229, 3, 175
-biezhihua/DYTT, 0, 0, 0, 8, 10, 18, 987, 0, 2568, 305, 5, 175
-coder-pig/CPWechatXposed, 0, 0, 0, 0, 0, 0, 236, 3, 417, 15, 5, 174
-riggaroo/ConstraintLayoutDemo, 1, 0, 0, 0, 0, 1, 472, 0, 248, 24, 1, 174
-pwittchen/RxBiometric, 0, 0, 0, 0, 1, 1, 102, 3, 499, 59, 1, 173
-Kotlin/kotlin-in-action, 0, 0, 0, 8, 0, 8, 543, 1, 2557, 3, 1, 172
-Archinamon/android-gradle-aspectj, 0, 1, 1, 4, 3, 9, 1264, 12, 1139, 380, 13, 172
-sdeleuze/geospatial-messenger, 0, 0, 0, 3, 3, 6, 987, 1, 482, 75, 5, 172
-ftomassetti/LangSandbox, 0, 0, 0, 2, 0, 2, 870, 3, 708, 69, 4, 172
-sdeleuze/spring-kotlin-functional, 0, 0, 0, 0, 1, 1, 486, 0, 430, 86, 3, 171
-ernestoyaquello/DragDropSwipeRecyclerview, 0, 3, 0, 28, 10, 41, 40, 0, 2629, 58, 1, 171
-rakshakhegde/LastPagerAdapter, 0, 0, 0, 1, 1, 2, 662, 2, 247, 85, 2, 171
-MrBIMC/SELinuxModeChanger, 0, 0, 0, 0, 1, 1, 1308, 3, 329, 16, 4, 170
-Kotlin/kotlinx-io, 3, 20, 0, 336, 36, 395, 417, 13, 19823, 447, 6, 169
-bufferapp/CounterView, 0, 0, 0, 0, 1, 1, 223, 0, 156, 26, 2, 169
-maannajjar/lattekit, 0, 7, 0, 26, 14, 47, 972, 12, 5004, 495, 1, 169
-xuehuayous/DelegationAdapter, 0, 0, 0, 8, 5, 13, 222, 0, 1034, 120, 3, 168
-uber/artist, 1, 0, 1, 9, 2, 13, 382, 2, 1763, 57, 5, 168
-nsk-mironov/kotlin-jetpack, 0, 0, 1, 6, 0, 7, 1154, 6, 823, 114, 1, 168
-ditclear/PaoNet, 0, 1, 0, 15, 26, 42, 449, 0, 4238, 57, 2, 168
-willowtreeapps/assertk, 0, 4, 0, 11, 1, 16, 591, 20, 4792, 221, 18, 167
-JLLeitschuh/ktlint-gradle, 0, 2, 0, 5, 2, 9, 629, 17, 1624, 382, 17, 167
-BijoySingh/Scarlet-Notes, 6, 6, 7, 24, 51, 94, 935, 45, 11659, 422, 8, 166
-wajahatkarim3/EasyValidation, 1, 1, 0, 269, 1, 272, 209, 3, 11097, 110, 6, 166
-0xFireball/Enlightened, 2, 2, 0, 2, 10, 16, 804, 21, 1391, 100, 3, 166
-yoavst/androidKotlin, 0, 0, 0, 3, 0, 3, 1362, 0, 912, 23, 3, 166
-Beepiz/BleGattCoroutines, 0, 2, 0, 0, 2, 4, 334, 11, 1031, 136, 1, 165
-ligi/gobandroid, 0, 7, 1, 12, 25, 45, 3264, 59, 8419, 2108, 16, 164
-tungdx/android-media-picker, 0, 5, 0, 7, 9, 21, 1267, 17, 2841, 27, 3, 164
-holgerbrandl/krangl, 0, 1, 3, 43, 6, 53, 923, 12, 4624, 333, 8, 163
-rarnu/wechat_no_revoke, 0, 0, 0, 4, 1, 5, 683, 6, 314, 10, 1, 163
-marlonlom/timeago, 0, 2, 0, 14, 0, 16, 736, 5, 1176, 91, 11, 163
-skateboard1991/NumberRain, 0, 0, 0, 0, 1, 1, 216, 1, 239, 8, 4, 162
-r21nomi/GLRippleView, 0, 1, 0, 4, 3, 8, 549, 2, 462, 25, 2, 162
-openrndr/openrndr, 0, 22, 8, 229, 55, 314, 278, 3, 17789, 458, 13, 162
-zhangzhao4444/Maxim, 0, 1, 0, 3, 1, 5, 319, 12, 751, 54, 3, 161
-gojuno/swarmer, 0, 0, 0, 4, 0, 4, 599, 6, 788, 26, 5, 161
-yusufcakmak/ExoPlayerSample, 0, 1, 0, 0, 1, 2, 745, 8, 251, 58, 5, 161
-data2viz/data2viz, 1, 43, 49, 157, 60, 310, 579, 46, 35700, 1424, 7, 161
-mozilla-mobile/fenix, 0, 0, 0, 0, 2, 2, 248, 34, 406, 78, 4, 161
-SimpleMobileTools/Simple-Notes, 0, 4, 0, 5, 7, 16, 1016, 20, 2192, 867, 42, 160
-Werb/MoreType, 0, 2, 2, 8, 7, 19, 511, 0, 2501, 189, 3, 160
-denofevil/import-cost, 0, 0, 0, 3, 1, 4, 458, 10, 200, 33, 6, 160
-hzsweers/palettehelper, 0, 2, 0, 6, 3, 11, 1379, 1, 1297, 145, 2, 158
-Will-Ls/WeiYueKotlin, 0, 2, 1, 25, 25, 53, 340, 2, 6315, 9, 3, 158
-CoinbaseWallet/toshi-android-client, 1, 22, 1, 78, 112, 214, 724, 12, 24715, 2804, 15, 158
-Fondesa/RecyclerViewDivider, 0, 1, 1, 2, 1, 5, 957, 1, 1152, 188, 3, 158
-MichaelRocks/paranoid, 1, 0, 0, 7, 3, 11, 905, 1, 59966, 138, 1, 157
-googlesamples/android-dynamic-features, 0, 1, 0, 0, 1, 2, 203, 7, 380, 16, 5, 157
-hhariri/oreilly-kotlin-course, 0, 0, 0, 4, 0, 4, 780, 1, 1000, 17, 4, 157
-nex3z/NotificationBadge, 0, 0, 0, 0, 0, 0, 718, 0, 127, 37, 3, 157
-kymjs/KotlinPrimer, 0, 0, 0, 0, 0, 0, 173, 2, 1844, 9, 2, 155
-felipecsl/ktnes, 0, 6, 2, 13, 11, 32, 86, 5, 4111, 126, 2, 155
-DanluTeam/ColdStart, 0, 0, 0, 0, 0, 0, 205, 0, 106, 7, 2, 155
-vanniktech/gradle-maven-publish-plugin, 1, 0, 0, 1, 0, 2, 184, 2, 483, 34, 6, 155
-jasync-sql/jasync-sql, 39, 15, 2, 27, 17, 100, 94, 2, 12737, 777, 49, 154
-dodyg/Kotlin101, 0, 0, 0, 1, 0, 1, 2362, 0, 735, 77, 2, 153
-ihsg/PatternLocker, 0, 2, 0, 7, 9, 18, 432, 1, 1487, 37, 2, 152
-wheat7/NationalGeographic, 1, 0, 0, 3, 3, 7, 425, 0, 1391, 15, 3, 152
-ahmedrizwan/SeekBarCompat, 0, 1, 0, 0, 1, 2, 1244, 4, 440, 76, 6, 151
-volodymyrprokopyuk/kotlin-sdp, 0, 0, 0, 6, 0, 6, 424, 0, 1429, 76, 2, 151
-cmelchior/realmfieldnameshelper, 0, 0, 0, 1, 1, 2, 850, 7, 292, 40, 3, 151
-mrmike/DiffUtil-sample, 0, 0, 0, 0, 0, 0, 829, 0, 123, 29, 1, 150
-PicnicSupermarket/FingerPaintView, 0, 1, 0, 0, 2, 3, 310, 1, 306, 10, 4, 150
-skydoves/GithubFollows, 0, 0, 0, 8, 8, 16, 309, 1, 2607, 97, 5, 150
-Bridouille/android-beacon-scanner, 0, 3, 0, 1, 11, 15, 788, 3, 2097, 76, 4, 150
-yhaolpz/Smile, 0, 0, 0, 7, 5, 12, 441, 4, 1482, 13, 2, 149
-fwcd/KotlinLanguageServer, 0, 2, 0, 20, 12, 34, 181, 30, 4857, 382, 10, 149
-Waboodoo/HTTP-Shortcuts, 2, 8, 3, 26, 23, 62, 1311, 29, 9886, 607, 7, 148
-jaychang0917/SimpleApiClient, 2, 0, 0, 7, 1, 10, 421, 6, 973, 106, 3, 148
-juanchosaravia/Keddit, 0, 0, 0, 0, 1, 1, 1038, 1, 680, 33, 4, 148
-jshvarts/ConductorMVP, 0, 0, 0, 1, 7, 8, 377, 1, 1355, 73, 1, 148
-yole/jitwatch-intellij, 0, 2, 0, 11, 9, 22, 869, 6, 1476, 57, 2, 147
-JakeWharton/PxJava, 0, 0, 0, 0, 1, 1, 747, 0, 546, 1, 1, 147
-npryce/konfig, 0, 0, 0, 5, 2, 7, 1090, 7, 1398, 107, 4, 147
-kotlin-graphics/imgui, 0, 39, 42, 304, 29, 414, 916, 13, 21893, 3312, 102, 146
-mythz/kotlin-linq-examples, 0, 2, 1, 0, 6, 9, 1080, 0, 1034, 26, 3, 146
-hugocastelani/waterfall-toolbar, 0, 0, 0, 0, 1, 1, 429, 1, 408, 52, 5, 146
-marukami/RxKotlin-Android-Samples, 2, 0, 0, 1, 9, 12, 1058, 2, 2163, 34, 2, 145
-premnirmal/StockTicker, 1, 6, 4, 21, 25, 57, 1434, 10, 6188, 447, 4, 145
-LRH1993/SuiYue, 0, 1, 1, 6, 9, 17, 289, 0, 3648, 63, 2, 145
-Litote/kmongo, 29, 3, 3, 111, 23, 169, 923, 5, 24472, 452, 7, 144
-mochixuan/AirPurgeView, 0, 2, 1, 2, 3, 8, 381, 1, 715, 7, 2, 144
-ibhavikmakwana/Constraint-Layout-Animations, 0, 0, 0, 2, 0, 2, 270, 1, 556, 32, 2, 144
-x2bool/kuery, 0, 1, 3, 3, 6, 13, 904, 5, 2101, 54, 3, 144
-traversals/kapsule, 0, 0, 0, 2, 1, 3, 620, 0, 1322, 63, 2, 144
-bendikv/simple-range-view, 0, 2, 5, 10, 2, 19, 713, 10, 1193, 22, 2, 144
-Vuksa/RuntimePermissionsExtended, 0, 0, 0, 9, 3, 12, 548, 2, 436, 27, 2, 144
-jahirfiquitiva/Blueprint, 0, 0, 0, 0, 1, 1, 561, 4, 158, 363, 6, 144
-phauer/blog-related, 0, 1, 0, 6, 1, 8, 1063, 1, 3419, 197, 2, 143
-beworker/autoplay, 0, 0, 2, 4, 0, 6, 133, 0, 731, 71, 2, 143
-ehsunshine/colored-time-selector, 0, 2, 1, 6, 11, 20, 328, 1, 1747, 31, 3, 143
-gregsh/Clojure-Kit, 0, 11, 0, 53, 38, 102, 846, 5, 8548, 237, 4, 142
-XhstormR/GetBilibili, 0, 1, 0, 1, 1, 3, 799, 0, 375, 93, 1, 141
-ktorio/ktor-samples, 2, 1, 0, 16, 5, 24, 306, 5, 5898, 201, 12, 141
-winterbe/expekt, 0, 3, 0, 0, 6, 9, 1022, 10, 1946, 57, 4, 141
-orangy/squash, 0, 4, 0, 22, 8, 34, 920, 9, 4487, 154, 5, 141
-ragunathjawahar/kaffeine, 0, 0, 0, 21, 2, 23, 1396, 2, 1459, 92, 2, 141
-m7mdra/HtmlRecycler, 0, 0, 0, 0, 1, 1, 90, 0, 1186, 44, 4, 140
-algolia/voice-overlay-android, 0, 0, 0, 2, 6, 8, 142, 0, 652, 152, 3, 140
-Hexworks/mixite, 5, 2, 8, 8, 9, 32, 1998, 5, 2912, 176, 12, 139
-Takhion/android-extras-delegates, 0, 0, 0, 142, 0, 142, 658, 3, 1652, 23, 2, 139
-fractalwrench/json-2-kotlin, 0, 0, 0, 14, 2, 16, 312, 1, 2157, 143, 2, 139
-bravoborja/SimpleRatingBar, 0, 0, 0, 1, 1, 2, 631, 0, 307, 15, 1, 139
-pixiteapps/billingx, 0, 1, 0, 1, 5, 7, 259, 3, 1324, 27, 4, 139
-MehdiK/Humanizer.jvm, 0, 0, 0, 4, 3, 7, 1684, 3, 2317, 83, 9, 139
-standardnotes/android-classic, 0, 4, 2, 7, 7, 20, 696, 29, 2370, 241, 11, 138
-savvyapps/ToggleButtonLayout, 0, 1, 0, 0, 1, 2, 382, 3, 366, 13, 3, 138
-eddywm/KTFLITE, 0, 0, 1, 1, 2, 4, 204, 0, 225, 15, 2, 138
-bogerchan/Nier-Visualizer, 0, 3, 0, 0, 10, 13, 339, 3, 1815, 47, 2, 138
-omar753sahl/Flopsy, 0, 0, 0, 1, 1, 2, 165, 0, 275, 12, 1, 138
-coder-pig/WechatHelper, 0, 1, 0, 0, 1, 2, 235, 0, 428, 15, 2, 138
-googlesamples/android-media-controller, 0, 1, 2, 7, 3, 13, 521, 0, 2820, 72, 7, 137
-SimpleMobileTools/Simple-Calculator, 0, 3, 2, 4, 5, 14, 1067, 16, 1067, 419, 35, 137
-nitrico/FontBinder, 0, 0, 0, 0, 1, 1, 879, 0, 76, 63, 2, 137
-ligee/kotlin-jupyter, 0, 0, 0, 3, 0, 3, 867, 7, 661, 55, 6, 136
-steelkiwi/Getting-started-with-Kotlin, 0, 0, 0, 0, 1, 1, 740, 1, 399, 22, 1, 135
-githubhaohao/DoubanBook, 0, 2, 1, 14, 8, 25, 519, 1, 2373, 51, 3, 135
-Commit451/Easel, 0, 0, 1, 1, 0, 2, 1216, 2, 493, 46, 5, 135
-goyourfly/MultiSelectAdapter, 0, 1, 0, 2, 10, 13, 535, 0, 1566, 35, 2, 134
-ajalt/timberkt, 0, 1, 1, 0, 0, 2, 879, 1, 301, 44, 2, 134
-sirlantis/rubocop-for-rubymine, 0, 1, 0, 7, 3, 11, 1475, 18, 698, 61, 4, 134
-Kotlin/kotlinx.atomicfu, 0, 3, 1, 12, 18, 34, 475, 15, 3506, 215, 10, 133
-JetBrains/inspection-plugin, 0, 7, 1, 30, 9, 47, 478, 7, 3881, 460, 4, 133
-YvesCheung/TouchEventBus, 0, 1, 0, 4, 4, 9, 243, 4, 1249, 64, 2, 133
-lisawray/physics-playground, 0, 0, 0, 7, 3, 10, 460, 0, 1124, 3, 1, 133
-Mr-XiaoLiang/RecyclerViewBanner, 0, 1, 0, 1, 3, 5, 199, 2, 754, 15, 2, 133
-thomasnield/RxKotlinFX, 0, 0, 0, 0, 0, 0, 1014, 2, 784, 147, 1, 133
-antoxa2584x/PinCodeView, 0, 1, 0, 0, 2, 3, 536, 3, 458, 20, 5, 132
-transferwise/sequence-layout, 0, 1, 0, 0, 3, 4, 251, 5, 555, 30, 1, 132
-TheKhaeng/material-design-guideline, 0, 1, 2, 2, 1, 6, 599, 0, 2272, 55, 3, 132
-consoleau/kotlin-jpa-specification-dsl, 0, 1, 0, 0, 0, 1, 801, 5, 375, 32, 6, 132
-JetBrains/kotlin-eclipse, 64, 7, 4, 126, 55, 256, 2093, 3, 21636, 2904, 31, 132
-steelkiwi/SlidingSquareLoaderView, 0, 1, 0, 5, 4, 10, 528, 1, 546, 6, 1, 131
-MycroftAI/Mycroft-Android, 0, 1, 0, 1, 5, 7, 888, 16, 1693, 171, 16, 130
-Hamadakram/AlertView, 0, 0, 0, 0, 0, 0, 256, 5, 319, 23, 2, 130
-anupcowkur/statelin, 0, 0, 0, 0, 0, 0, 302, 0, 93, 27, 3, 130
-mladenrakonjac/ModernAndroidApp, 0, 0, 0, 0, 0, 0, 471, 0, 331, 77, 1, 130
-Streetwalrus/android_usb_msd, 0, 0, 0, 2, 1, 3, 687, 12, 275, 50, 6, 129
-wangzailfm/GenerateFindViewById, 0, 2, 2, 8, 3, 15, 733, 10, 2728, 53, 4, 129
-ImangazalievM/Notelin, 0, 0, 0, 2, 7, 9, 947, 0, 643, 25, 4, 129
-galex/name-that-color-intellij-plugin, 0, 0, 0, 1, 2, 3, 295, 4, 2251, 25, 1, 129
-Blankeer/WechatBotXposed, 0, 0, 0, 0, 0, 0, 200, 9, 213, 2, 1, 129
-burakeregar/KotlinMvpArchitecture, 0, 0, 0, 1, 2, 3, 551, 0, 650, 33, 1, 129
-360Conferences/chicago-roboto, 0, 0, 0, 6, 4, 10, 641, 13, 2292, 130, 10, 128
-measuresforjustice/textricator, 0, 2, 1, 25, 8, 36, 194, 2, 4027, 42, 2, 128
-ttymsd/coordinator-behaviors, 0, 2, 0, 2, 4, 8, 690, 3, 1706, 81, 2, 128
-mannodermaus/RxBonjour, 0, 0, 0, 3, 5, 8, 1298, 7, 1585, 120, 5, 128
-vickychijwani/kotlin-koans-android, 0, 2, 2, 10, 7, 21, 534, 2, 2933, 97, 1, 127
-adisonhuang/buildJar, 0, 0, 0, 0, 0, 0, 821, 4, 135, 4, 1, 127
-thesurix/gesture-recycler, 0, 1, 0, 1, 4, 6, 991, 0, 990, 37, 3, 127
-StephenVinouze/AdvancedRecyclerView, 0, 0, 0, 3, 4, 7, 943, 0, 1084, 113, 4, 127
-Ruben-Sten/TeXiFy-IDEA, 27, 3, 0, 27, 26, 83, 877, 36, 13080, 1038, 10, 127
-gurleensethi/kotlin-weather, 0, 0, 1, 1, 1, 3, 513, 2, 570, 17, 2, 126
-binaryroot/AndroidArchitecture, 0, 0, 0, 7, 5, 12, 555, 1, 1394, 37, 2, 126
-sannies/isoviewer, 0, 0, 0, 0, 0, 0, 1770, 3, 424, 187, 8, 126
-Trendyol/medusa, 1, 1, 0, 1, 5, 8, 17, 3, 659, 61, 5, 126
-moyheen/face-detector, 0, 0, 0, 2, 1, 3, 776, 3, 115, 41, 4, 125
-MenosGrante/Rekado, 0, 1, 1, 4, 5, 11, 146, 2, 1509, 88, 7, 125
-Fondesa/KPermissions, 13, 2, 0, 1, 6, 22, 324, 0, 2837, 78, 2, 125
-yodle/android-kotlin-demo, 0, 0, 0, 1, 1, 2, 905, 0, 699, 105, 3, 125
-abhinav272/NewsApp, 0, 0, 0, 6, 1, 7, 391, 0, 932, 89, 1, 125
-MarcinMoskala/PreferenceHolder, 1, 0, 0, 8, 5, 14, 622, 5, 989, 128, 4, 124
-Kotlin/kotlinx.cli, 0, 0, 0, 32, 2, 34, 431, 5, 975, 34, 5, 124
-massivedisaster/ArcToolbarView, 0, 0, 0, 0, 0, 0, 413, 1, 217, 48, 4, 124
-Leeeyou/RsKotlin, 0, 0, 0, 0, 3, 3, 929, 1, 677, 83, 3, 123
-yole/kxdate, 0, 0, 0, 0, 0, 0, 830, 0, 96, 5, 2, 123
-sellmair/disposer, 0, 0, 0, 0, 2, 2, 57, 1, 489, 25, 1, 123
-kunny/RxFirebase, 0, 4, 0, 4, 0, 8, 794, 4, 3774, 234, 3, 123
-infotech-group/android-drawable-dsl, 0, 0, 0, 3, 0, 3, 597, 1, 356, 72, 4, 123
-kotlinsg/modular, 0, 0, 0, 1, 0, 1, 233, 2, 482, 4, 1, 123
-thoughtbot/tropos-android, 0, 2, 0, 7, 11, 20, 684, 3, 3322, 97, 5, 123
-SimpleMobileTools/Simple-Contacts, 0, 11, 5, 11, 20, 47, 350, 41, 7784, 1135, 30, 122
-square/misk, 14, 15, 9, 83, 45, 166, 356, 81, 29721, 1014, 32, 122
-qingmei2/MVVM-Rhine, 0, 0, 0, 18, 5, 23, 407, 1, 2641, 151, 3, 122
-VolodymyrLykhonis/kotlinAndroidLib, 0, 0, 0, 18, 0, 18, 2377, 3, 479, 100, 2, 121
-the-dagger/Pokidex, 0, 1, 0, 1, 2, 4, 116, 0, 722, 51, 2, 120
-JetBrains/kotlin-web-demo, 88, 7, 0, 84, 28, 207, 2459, 1, 15484, 1805, 33, 120
-charbgr/AuthManager, 0, 1, 0, 1, 5, 7, 718, 0, 803, 2, 2, 119
-shalupov/idea-cloudformation, 17, 4, 2, 11, 5, 39, 1791, 34, 4391, 507, 3, 119
-pbyrne84/DynamicReturnTypePlugin, 4, 0, 0, 20, 8, 32, 2012, 21, 2248, 293, 7, 119
-DSteve595/Put.io, 3, 4, 1, 9, 17, 34, 2267, 11, 4711, 397, 13, 119
-feelfreelinux/WykopMobilny, 11, 11, 3, 93, 94, 212, 500, 22, 19072, 538, 22, 118
-AsynkronIT/protoactor-kotlin, 2, 3, 0, 21, 6, 32, 504, 8, 3973, 326, 6, 118
-dmitry-zhuravlev/hotswap-agent-intellij-plugin, 5, 0, 0, 5, 2, 12, 625, 4, 712, 32, 3, 118
-kohesive/kovert, 2, 1, 3, 18, 1, 25, 1191, 8, 3147, 240, 3, 118
-yongjhih/kotlin-extensions, 0, 0, 0, 1, 0, 1, 1093, 3, 822, 60, 5, 117
-heremaps/oss-review-toolkit, 3, 11, 1, 53, 24, 92, 402, 52, 20781, 2581, 14, 117
-tazjin/kubernetes-letsencrypt, 0, 2, 0, 4, 3, 9, 799, 12, 1345, 174, 6, 117
-marcoRS/nested-fragments, 0, 0, 0, 0, 0, 0, 2201, 1, 244, 23, 4, 116
-VladRassokhin/intellij-hcl, 31, 10, 2, 52, 19, 114, 1281, 38, 13620, 972, 5, 115
-LPirro/ConstraintLayoutAnimations, 0, 0, 0, 0, 0, 0, 293, 0, 74, 4, 2, 115
-Polidea/Cockpit, 3, 4, 0, 15, 18, 40, 229, 2, 3993, 295, 9, 115
-PSPDFKit-labs/QuickDemo, 0, 0, 0, 4, 1, 5, 741, 3, 558, 18, 6, 115
-githubwing/DroidSword, 0, 0, 0, 0, 0, 0, 393, 0, 301, 26, 3, 115
-antoniolg/clean-architecture, 1, 0, 0, 0, 0, 1, 57, 0, 168, 5, 1, 115
-SimpleMobileTools/Simple-Draw, 0, 2, 0, 4, 4, 10, 1015, 14, 1241, 526, 37, 115
-rock3r/uplift, 1, 2, 0, 1, 3, 7, 396, 0, 998, 97, 2, 115
-AndroidDeveloperLB/RootHelper, 0, 0, 0, 0, 0, 0, 755, 0, 208, 33, 1, 114
-yole/jkid, 0, 0, 0, 2, 2, 4, 933, 0, 992, 84, 6, 114
-huzenan/EasyPullLayout, 0, 1, 0, 1, 2, 4, 454, 3, 1198, 9, 2, 114
-Camerash/ToggleEditTextView, 0, 1, 0, 0, 2, 3, 213, 0, 270, 31, 2, 114
-jeancsanchez/JcPlayer, 0, 3, 1, 2, 6, 12, 845, 10, 1453, 308, 8, 114
-sergiocasero/votlin-app, 0, 0, 0, 1, 10, 11, 45, 0, 1573, 184, 4, 114
-shiweibsw/EasyHttp, 0, 0, 0, 6, 1, 7, 579, 0, 403, 20, 2, 113
-MojRoid/memes, 1, 0, 0, 3, 3, 7, 330, 1, 1212, 25, 4, 113
-vanita5/twittnuker, 56, 77, 36, 467, 184, 820, 1814, 16, 83474, 3092, 9, 113
-kohesive/klutter, 0, 9, 4, 180, 26, 219, 1207, 1, 9416, 308, 4, 113
-hitherejoe/GithubTrending, 0, 0, 0, 0, 0, 0, 330, 7, 300, 59, 1, 113
-Nimrodda/dagger-androidinjector, 0, 0, 0, 0, 0, 0, 609, 1, 409, 38, 1, 112
-VerbalExpressions/KotlinVerbalExpressions, 0, 1, 0, 1, 1, 3, 544, 0, 721, 33, 3, 112
-markormesher/android-fab, 0, 2, 0, 3, 4, 9, 976, 5, 959, 346, 3, 112
-Yubico/yubioath-android, 0, 4, 0, 11, 8, 23, 1909, 9, 3137, 358, 9, 112
-SpazeDog/rootfw, 0, 2, 0, 14, 6, 22, 2137, 0, 2160, 251, 2, 111
-VerachadW/kraph, 1, 1, 0, 6, 3, 11, 794, 5, 1187, 44, 5, 111
-QuickPermissions/QuickPermissions-Kotlin, 0, 0, 0, 4, 1, 5, 147, 2, 482, 26, 4, 111
-clwater/BezierCurve, 0, 0, 0, 1, 2, 3, 312, 1, 427, 11, 2, 110
-springboot-angular2-tutorial/boot-app, 1, 0, 0, 5, 8, 14, 1109, 2, 3102, 238, 3, 110
-cdimascio/kotlin-swagger-spring-functional-template, 0, 0, 0, 0, 0, 0, 360, 0, 174, 132, 3, 110
-geminiwen/tudounotepad, 0, 0, 0, 0, 1, 1, 1243, 0, 427, 52, 3, 110
-gahfy/MVVMPosts, 0, 0, 0, 0, 1, 1, 154, 4, 376, 15, 3, 110
-ovy9086/android-mvvm-rx, 0, 0, 0, 0, 0, 0, 479, 0, 269, 10, 2, 109
-spring-petclinic/spring-petclinic-kotlin, 0, 0, 0, 4, 2, 6, 450, 3, 1822, 653, 44, 109
-korlibs/korio, 1, 15, 4, 187, 63, 270, 700, 3, 18825, 601, 3, 109
-Zellius/RxLocationManager, 0, 0, 0, 6, 3, 9, 1016, 5, 1264, 172, 4, 109
-yoyiyi/bilisoleil-kotlin, 1, 1, 1, 6, 56, 65, 500, 2, 14659, 132, 1, 108
-bazelbuild/rules_kotlin, 2, 1, 0, 10, 5, 18, 298, 35, 3004, 165, 12, 108
-googlesamples/android-RuntimePermissionsBasic, 0, 0, 0, 2, 0, 2, 1277, 3, 359, 15, 1, 108
-dmdevgo/RxPM, 5, 2, 0, 4, 16, 27, 492, 4, 3987, 267, 4, 108
-sreich/ore-infinium, 1, 12, 9, 60, 23, 105, 1427, 14, 13534, 1067, 4, 108
-zzhoujay/WallpaperStore, 0, 0, 0, 3, 4, 7, 1001, 1, 1052, 20, 1, 108
-abdularis/ParallaxImageView, 2, 0, 0, 3, 0, 5, 231, 0, 291, 18, 2, 108
-czyzby/gdx-setup, 0, 1, 1, 8, 13, 23, 935, 4, 8744, 194, 5, 107
-Yalantis/Koloda-Android, 0, 2, 0, 13, 5, 20, 276, 5, 945, 17, 5, 107
-ticketmaster/actions-on-google-kotlin, 0, 2, 0, 3, 11, 16, 505, 6, 9576, 279, 4, 107
-googlesamples/android-SliceViewer, 0, 0, 0, 1, 0, 1, 201, 3, 764, 22, 7, 107
-edvin/tornadofx-samples, 0, 0, 0, 1, 1, 2, 941, 2, 1139, 86, 9, 107
-kittinunf/Fuse, 0, 1, 0, 14, 1, 16, 944, 4, 775, 31, 2, 107
-ivnvrmn/CryptoMoon, 0, 1, 0, 16, 35, 52, 482, 2, 4107, 154, 6, 107
-pavelpoley/AdvancedRecycleView, 0, 0, 0, 0, 0, 0, 148, 0, 178, 14, 2, 107
-vert-x3/vertx-lang-kotlin, 0, 4, 2, 338, 5, 349, 755, 24, 28873, 263, 15, 107
-xmartlabs/fountain, 32, 0, 0, 13, 7, 52, 178, 0, 4457, 51, 2, 106
-ohmerhe/Kolley, 0, 2, 0, 259, 4, 265, 958, 7, 2958, 42, 3, 106
-sriharshaarangi/BatteryChargeLimit, 0, 2, 2, 2, 4, 10, 617, 36, 1421, 219, 17, 106
-sembozdemir/PermissionsKt, 0, 0, 0, 1, 1, 2, 265, 2, 251, 6, 1, 106
-sagar-viradiya/AndroidPhysicsAnimation, 0, 0, 0, 0, 0, 0, 477, 0, 308, 22, 2, 106
-MarcinMoskala/KotlinAndroidViewBindings, 0, 0, 0, 1, 1, 2, 584, 0, 801, 41, 5, 106
-hexagonkt/hexagon, 0, 3, 5, 54, 12, 74, 956, 22, 6141, 1715, 9, 106
-artem-zinnatullin/droidcon-nyc-2017-puzzlers, 0, 0, 0, 0, 0, 0, 426, 0, 263, 6, 2, 106
-arawn/kotlin-spring-example, 0, 0, 0, 5, 2, 7, 1005, 0, 489, 7, 2, 106
-spring-guides/tut-spring-boot-kotlin, 0, 0, 0, 0, 0, 0, 212, 4, 307, 33, 7, 106
-omjoonkim/SkeletonLoadingView, 0, 1, 0, 0, 0, 1, 529, 0, 224, 18, 4, 105
-minibugdev/DrawableBadge, 0, 0, 1, 0, 1, 2, 408, 4, 287, 55, 7, 105
-leon2017/GankJetpack, 0, 0, 1, 2, 5, 8, 174, 2, 1110, 12, 3, 105
-unbroken-dome/gradle-testsets-plugin, 1, 0, 0, 3, 4, 8, 1369, 5, 1177, 110, 15, 104
-fkorotkov/k8s-kotlin-dsl, 1, 0, 0, 4, 0, 5, 621, 0, 7319, 99, 5, 104
-yinjinyj/SuperCalendar, 0, 1, 0, 15, 1, 17, 298, 0, 1826, 62, 3, 104
-howshea/GeekNews, 0, 2, 0, 8, 8, 18, 20, 0, 3453, 132, 1, 104
-klazuka/intellij-elm, 13, 4, 0, 49, 19, 85, 428, 27, 15235, 243, 3, 104
-general-mobile/kotlin-architecture-components-notes-demo, 0, 0, 0, 0, 2, 2, 549, 0, 306, 15, 3, 103
-konform-kt/konform, 0, 2, 0, 1, 2, 5, 263, 3, 948, 32, 1, 103
-WeRockStar/Dagger2, 0, 0, 0, 0, 2, 2, 890, 0, 920, 387, 2, 103
-q876625596/GenjiDialogV2, 0, 3, 0, 7, 5, 15, 132, 1, 1868, 37, 3, 102
-Commit451/YouTubeExtractor, 0, 0, 0, 1, 1, 2, 979, 2, 517, 52, 5, 102
-general-mobile/kotlin-android-mvvm-starter, 0, 0, 0, 0, 3, 3, 158, 0, 514, 73, 10, 102
-yuvraj24/LiveSmashBar, 0, 2, 0, 0, 6, 8, 203, 0, 1832, 57, 1, 102
-yiyuanliu/Currency, 0, 2, 0, 1, 3, 6, 778, 0, 823, 18, 2, 102
-s4kibs4mi/BelleORM, 0, 2, 0, 7, 4, 13, 781, 8, 1568, 157, 4, 101
-JetBrains/ruby-type-inference, 4, 1, 1, 13, 8, 27, 619, 10, 3763, 533, 9, 101
-JcMinarro/RoundKornerLayouts, 0, 0, 0, 2, 0, 2, 523, 6, 336, 26, 3, 101
-codestation/henkaku-android, 0, 0, 0, 0, 1, 1, 838, 0, 189, 15, 1, 100
-hakobast/DropdownTextView, 0, 1, 0, 3, 2, 6, 287, 1, 492, 16, 2, 100
-whalemare/sheetmenu, 0, 0, 0, 1, 3, 4, 545, 5, 333, 52, 2, 100
-hummatli/AndroidAppUpdater, 0, 0, 1, 6, 2, 9, 866, 8, 805, 237, 6, 100
-Zhuinden/espresso-helper, 0, 0, 0, 1, 0, 1, 210, 6, 1238, 11, 3, 100
-ashdavies/data-binding, 0, 0, 0, 2, 0, 2, 1273, 0, 346, 51, 3, 99
-nhaarman/AsyncAwait-Android, 0, 1, 0, 5, 2, 8, 764, 1, 847, 27, 1, 99
-Kyash/rx-keyboard-detector, 0, 0, 0, 0, 0, 0, 234, 1, 103, 8, 2, 99
-dpreussler/kotlin-testrunner, 3, 0, 0, 0, 1, 4, 875, 10, 396, 41, 5, 99
-lice-lang/lice, 0, 5, 5, 13, 11, 34, 646, 0, 3123, 466, 5, 98
-SimpleMobileTools/Simple-Flashlight, 0, 2, 0, 1, 5, 8, 1054, 10, 892, 350, 29, 98
-OpenConference/OpenConference-android, 20, 1, 4, 8, 24, 57, 914, 11, 6056, 72, 3, 98
-florent37/Motion-ShapeOfView, 0, 0, 0, 0, 0, 0, 6, 0, 46, 17, 2, 97
-fede87/StatusBarAlert, 0, 0, 1, 3, 2, 6, 191, 1, 441, 31, 2, 97
-vicboma1/Kotlin-Koans, 2, 0, 0, 12, 1, 15, 1115, 0, 2183, 61, 2, 97
-adibfara/Lives, 0, 2, 1, 1, 0, 4, 234, 3, 1308, 49, 3, 96
-yshrsmz/monotweety, 1, 2, 0, 6, 15, 24, 792, 6, 5375, 643, 4, 96
-WindSekirun/RichUtilsKt, 0, 2, 3, 57, 12, 74, 544, 4, 7159, 451, 6, 95
-cdimascio/java-dotenv, 0, 0, 0, 0, 0, 0, 365, 1, 420, 242, 3, 95
-sdeleuze/spring-kotlin-fullstack, 0, 0, 0, 0, 0, 0, 410, 0, 51, 12, 3, 95
-russhwolf/multiplatform-settings, 0, 1, 1, 0, 4, 6, 200, 5, 1458, 63, 1, 95
-heimashi/debug_view_kotlin, 0, 0, 0, 0, 7, 7, 337, 1, 1076, 17, 2, 94
-bufferapp/ReactivePlayBilling, 0, 0, 0, 1, 1, 2, 324, 2, 274, 21, 3, 94
-bjzhou/Coolapk-kotlin, 0, 0, 0, 2, 5, 7, 1560, 1, 2459, 46, 3, 94
-hypeapps/episodie, 8, 5, 0, 20, 54, 87, 820, 6, 11151, 535, 4, 94
-Yalantis/ColorMatchTabsAndroid, 1, 1, 0, 4, 4, 10, 500, 1, 1127, 58, 4, 94
-mtcn/MotionLayoutExamples, 0, 0, 0, 1, 0, 1, 80, 0, 291, 20, 1, 93
-BenoitDuffez/AndroidCupsPrint, 3, 6, 2, 38, 10, 59, 1269, 17, 5487, 276, 13, 93
-YeungKC/Gank.io-for-Kotlin-Android, 0, 1, 0, 12, 13, 26, 999, 0, 2737, 58, 1, 93
-googlesamples/android-VideoPlayer, 0, 0, 0, 0, 3, 3, 242, 0, 397, 4, 2, 93
-LateNightProductions/CardKeeper, 0, 0, 0, 0, 3, 3, 820, 0, 1021, 61, 2, 93
-hendraanggrian/socialview, 0, 0, 0, 5, 3, 8, 720, 20, 1367, 144, 2, 92
-line/clay, 0, 3, 0, 12, 4, 19, 437, 3, 2753, 15, 1, 92
-seratch/kotliquery, 1, 3, 0, 3, 2, 9, 1094, 6, 1255, 72, 12, 91
-AllanWang/KAU, 0, 5, 0, 72, 24, 101, 533, 9, 9756, 340, 3, 91
-msink/kotlin-libui, 0, 0, 0, 39, 7, 46, 197, 5, 4507, 374, 5, 91
-kropp/intellij-makefile, 10, 0, 0, 0, 10, 20, 714, 15, 1249, 225, 3, 91
-jitsi/jibri, 0, 0, 1, 14, 5, 20, 1019, 20, 5764, 523, 16, 91
-fccaikai/Gan_Kotlin, 0, 0, 0, 2, 6, 8, 543, 0, 1051, 21, 3, 91
-elpassion/mainframer-intellij-plugin, 14, 0, 0, 13, 3, 30, 672, 11, 2841, 929, 14, 91
-hidroh/tldroid, 0, 0, 0, 9, 5, 14, 1062, 1, 1421, 154, 1, 91
-MarcinMoskala/KotlinDiscreteMathToolkit, 0, 0, 0, 0, 0, 0, 599, 1, 632, 150, 5, 91
-Petrulak/android-kotlin-mvp-clean-architecture, 0, 0, 0, 9, 12, 21, 427, 0, 2129, 50, 1, 91
-youxin11544/NumberPicker, 0, 0, 0, 0, 0, 0, 423, 0, 223, 16, 2, 90
-MichaelJokAr/ZhihuDaily, 1, 1, 1, 9, 22, 34, 529, 4, 6117, 62, 1, 90
-denisidoro/krouter, 0, 0, 0, 1, 2, 3, 798, 1, 570, 24, 2, 90
-MaiJiantian/blockchain-kotlin, 0, 0, 0, 6, 3, 9, 112, 0, 1548, 1, 1, 89
-ice1000/julia-intellij, 0, 1, 4, 24, 17, 46, 306, 24, 6617, 1281, 10, 89
-kohesive/solr-undertow, 1, 3, 4, 0, 3, 11, 1534, 7, 1472, 330, 6, 89
-EzraLopez/nearbychat, 0, 0, 0, 1, 2, 3, 205, 6, 613, 20, 1, 89
-edsilfer/sticky-index, 0, 0, 0, 5, 6, 11, 1269, 3, 1247, 60, 3, 89
-cloudoptlab/cloudopt-next, 0, 4, 2, 30, 10, 46, 318, 2, 7133, 88, 3, 89
-JesperQv/Listn, 5, 2, 0, 11, 15, 33, 279, 0, 4356, 48, 2, 89
-pandulapeter/campfire-android, 7, 14, 1, 34, 44, 100, 365, 0, 10368, 1201, 2, 89
-mvysny/vaadin-on-kotlin, 0, 3, 0, 24, 15, 42, 956, 7, 8493, 1161, 1, 88
-sephiroth74/AndroidUIGestureRecognizer, 2, 7, 2, 4, 9, 24, 737, 1, 3258, 195, 3, 88
-the-dagger/MLKitAndroid, 0, 0, 0, 0, 2, 2, 196, 0, 697, 52, 3, 88
-RobotPajamas/Blueteeth, 0, 0, 0, 10, 4, 14, 1358, 11, 965, 149, 3, 88
-zsmb13/VillageDSL, 0, 0, 2, 2, 0, 4, 443, 0, 760, 22, 1, 88
-antonicg/cryptodata, 0, 0, 0, 1, 4, 5, 331, 1, 888, 40, 2, 88
-wuseal/Kotlin-Reflect-Tools-For-Android, 0, 1, 0, 6, 0, 7, 375, 0, 661, 21, 2, 87
-kotomisak/security-showcase-android, 1, 1, 0, 20, 10, 32, 684, 2, 2625, 361, 4, 87
-dkandalov/pomodoro-tm, 0, 1, 0, 2, 3, 6, 3103, 8, 1048, 185, 3, 86
-stepango/Archetype, 0, 0, 0, 25, 9, 34, 616, 10, 2374, 36, 5, 86
-MrBIMC/RunInBackgroundPermissionSetter, 0, 0, 0, 1, 2, 3, 497, 6, 264, 42, 6, 86
-michaelkourlas/voipms-sms-client, 8, 11, 2, 32, 19, 72, 1527, 22, 10076, 334, 2, 86
-AndreaCioccarelli/CryptoPrefs, 0, 0, 0, 0, 2, 2, 181, 1, 389, 68, 3, 86
-program-in-chinese/overview, 0, 0, 0, 0, 0, 0, 487, 41, 25, 92, 3, 85
-dvoiss/android-geocities-theme, 0, 0, 0, 1, 4, 5, 357, 0, 574, 32, 1, 85
-JetBrains/ideolog, 6, 2, 3, 12, 11, 34, 537, 18, 2730, 78, 7, 85
-7449/BannerLayout, 0, 1, 2, 6, 6, 15, 761, 0, 2136, 68, 2, 85
-pdvrieze/android-coroutines, 3, 1, 0, 26, 8, 38, 360, 0, 2606, 173, 3, 85
-nosix/vue-kotlin, 0, 0, 0, 8, 1, 9, 485, 2, 1798, 85, 1, 85
-touchlab/knarch.db, 1, 14, 22, 104, 25, 166, 192, 36, 13322, 122, 2, 85
-pszklarska/LiveDataBinding, 0, 0, 0, 0, 0, 0, 335, 2, 54, 11, 3, 85
-zekapp/Android-ProgressViews, 0, 2, 0, 0, 3, 5, 1028, 0, 427, 28, 4, 85
-florent37/EnhancedNavigationView, 0, 0, 0, 0, 1, 1, 118, 0, 138, 10, 2, 85
-pardom-zz/CleanNews, 0, 0, 0, 9, 11, 20, 984, 4, 2401, 150, 3, 84
-pablisco/ramBuild, 0, 0, 0, 0, 0, 0, 1313, 0, 46, 14, 3, 84
-mukeshsolanki/liquidrefreshlayout, 0, 2, 1, 1, 2, 6, 219, 0, 780, 11, 1, 84
-jiangkang/KTools, 0, 1, 0, 4, 11, 16, 446, 0, 3821, 167, 2, 84
-westoncb/HNDesktop, 0, 1, 1, 1, 1, 4, 455, 9, 566, 42, 2, 84
-jkwiecien/Switcher, 0, 1, 0, 0, 2, 3, 1350, 1, 264, 91, 4, 84
-kwebio/core, 0, 3, 0, 18, 8, 29, 686, 19, 3595, 340, 7, 84
-gildor/kotlin-coroutines-okhttp, 0, 0, 0, 0, 0, 0, 559, 2, 88, 4, 1, 84
-Jetictors/KotlinLearn, 0, 0, 11, 3, 0, 14, 452, 0, 2344, 23, 1, 84
-humazed/RoomAsset, 0, 0, 0, 2, 0, 2, 492, 5, 214, 63, 4, 83
-wasabeef/kotlin-mvvm, 0, 0, 0, 2, 2, 4, 251, 0, 1052, 5, 2, 83
-viniciussoares/ribot-android-boilerplate-kotlin, 0, 0, 0, 0, 1, 1, 794, 0, 1069, 59, 1, 83
-Dimezis/RxBus, 0, 0, 0, 0, 0, 0, 981, 2, 113, 41, 4, 83
-itsxtt/pattern-lock, 0, 1, 0, 2, 2, 5, 193, 1, 469, 27, 3, 83
-burakeregar/KotlinRxMvpArchitecture, 0, 0, 0, 2, 4, 6, 362, 0, 894, 14, 1, 83
-xdrop/night-owl-jetbrains, 1, 0, 0, 1, 1, 3, 177, 2, 442, 194, 5, 83
-zhudongya123/WechatChatRoomHelper, 0, 3, 5, 13, 12, 33, 511, 3, 4096, 465, 4, 83
-h0tk3y/kotlin-monads, 0, 0, 0, 0, 0, 0, 725, 2, 337, 27, 2, 83
-Madrapps/Pikolo, 0, 1, 0, 0, 3, 4, 541, 7, 490, 46, 3, 82
-bkase/cyklic, 0, 0, 0, 4, 0, 4, 973, 0, 455, 11, 2, 82
-jraska/Console, 0, 0, 0, 0, 6, 6, 1106, 0, 723, 88, 4, 82
-afollestad/rxkprefs, 0, 0, 0, 2, 4, 6, 84, 0, 615, 32, 1, 82
-ZakTaccardi/deck-of-cards, 0, 0, 0, 4, 7, 11, 614, 0, 2207, 5, 1, 82
-Sefford/kor, 0, 4, 0, 3, 9, 16, 1633, 0, 4187, 160, 2, 82
-ItsPriyesh/chroma, 0, 0, 0, 1, 0, 1, 1020, 3, 342, 70, 2, 81
-SimpleMobileTools/Simple-Clock, 1, 4, 0, 5, 14, 24, 271, 41, 3080, 356, 27, 81
-imaNNeoFighT/StepBarView, 0, 1, 2, 0, 2, 5, 234, 0, 759, 75, 6, 81
-spacecowboy/Feeder, 1, 14, 1, 28, 16, 60, 1550, 7, 9911, 1022, 13, 81
-funkyg/funkytunes, 0, 2, 2, 4, 10, 18, 635, 15, 1826, 55, 7, 81
-walleth/kethereum, 0, 1, 1, 23, 1, 26, 545, 16, 5916, 305, 9, 81
-youxin11544/KPermissions-kotlin, 0, 0, 0, 2, 0, 2, 423, 0, 222, 4, 2, 81
-ftomassetti/kanvas, 0, 0, 0, 6, 0, 6, 875, 0, 888, 102, 2, 80
-ch4vi/FlowLayout, 0, 1, 2, 4, 1, 8, 828, 4, 720, 35, 4, 80
-porokoro/paperboy, 0, 1, 0, 2, 5, 8, 1258, 1, 1242, 105, 2, 80
-hotpodata/redchain, 1, 4, 2, 1, 7, 15, 1097, 1, 2722, 33, 3, 80
-StephenVinouze/KontinuousSpeechRecognizer, 0, 0, 0, 0, 3, 3, 556, 1, 361, 24, 2, 80
-h0tk3y/better-parse, 0, 0, 0, 8, 3, 11, 505, 9, 2015, 54, 1, 79
-AllanWang/Frost-for-Facebook, 0, 6, 2, 19, 28, 55, 545, 46, 9890, 424, 1, 79
-sockeqwe/Model-View-Intent-Android, 0, 0, 0, 0, 1, 1, 996, 2, 239, 3, 1, 79
-TheJuki/KFormMaster, 5, 7, 0, 7, 10, 29, 284, 3, 7676, 347, 5, 79
-siosio/GradleDependenciesHelperPlugin, 1, 0, 0, 0, 0, 1, 1921, 7, 223, 44, 2, 79
-JuniperPhoton/FlipperLayout, 0, 0, 0, 0, 1, 1, 686, 0, 263, 47, 3, 79
-SimpleMobileTools/Simple-App-Launcher, 0, 0, 0, 1, 5, 6, 841, 4, 745, 317, 23, 79
-params-ing/StepViewAndroid, 0, 1, 0, 3, 1, 5, 106, 1, 882, 50, 3, 78
-imaNNeoFighT/ArcChartView, 0, 2, 0, 1, 2, 5, 341, 0, 830, 118, 4, 78
-StylingAndroid/WeatherStation, 0, 0, 0, 11, 6, 17, 185, 1, 2169, 34, 1, 78
-aws/aws-toolkit-jetbrains, 25, 3, 2, 54, 26, 110, 558, 76, 16389, 470, 11, 78
-chuross/flinglayout, 0, 0, 0, 1, 1, 2, 398, 0, 94, 11, 1, 78
-MarioAriasC/KotlinPrimavera, 2, 0, 0, 17, 1, 20, 2053, 2, 2186, 26, 3, 78
-JetBrains/kotlin-mpp-example, 0, 0, 0, 0, 0, 0, 181, 2, 121, 35, 6, 78
-TouK/bubble, 4, 0, 0, 1, 2, 7, 1150, 0, 871, 77, 3, 78
-shiraji/databinding-support, 11, 0, 0, 0, 1, 12, 735, 4, 367, 127, 4, 78
-Commit451/ResourcesPoet, 0, 1, 0, 3, 1, 5, 835, 0, 939, 47, 4, 78
-MichaelRocks/lightsaber, 1, 6, 4, 56, 30, 97, 1330, 2, 11694, 1189, 2, 78
-kittinunf/ReactiveAndroid, 4, 2, 9, 12, 9, 36, 1028, 5, 6663, 160, 5, 77
-VictorChow/kotlin-android-lib, 0, 0, 0, 11, 0, 11, 464, 0, 964, 64, 8, 77
-zzhoujay/DailyGank, 0, 0, 0, 1, 4, 5, 986, 0, 1203, 20, 1, 77
-adrianbukros/github-multiplatform-example, 0, 0, 0, 0, 0, 0, 80, 1, 252, 9, 3, 77
-ajalt/mordant, 0, 0, 0, 6, 2, 8, 426, 0, 590, 50, 2, 77
-rs146/NewAndroidArchitecture, 0, 0, 0, 0, 0, 0, 369, 1, 223, 8, 1, 76
-trent-dev/Kamera, 0, 1, 1, 2, 3, 7, 315, 1, 1653, 2, 1, 76
-apptreesoftware/flutter_webview, 0, 0, 0, 0, 2, 2, 433, 10, 243, 31, 5, 76
-IslamBesto/CustomBottoBar, 0, 0, 0, 0, 0, 0, 25, 1, 42, 8, 2, 76
-tomoima525/debot, 1, 0, 0, 2, 0, 3, 1157, 3, 508, 132, 4, 76
-iOSDevLog/JumpJump, 0, 0, 0, 4, 0, 4, 331, 3, 680, 19, 3, 76
-creageek/un-material-tab, 0, 2, 1, 0, 2, 5, 691, 2, 603, 20, 1, 76
-code-helix/slatekit, 0, 23, 17, 431, 110, 581, 958, 9, 44721, 764, 4, 76
-korlibs/klock, 0, 2, 0, 11, 6, 19, 397, 3, 2116, 194, 5, 75
-nomisRev/FasterLayoutsWithAnko, 0, 0, 0, 1, 0, 1, 756, 0, 226, 7, 1, 75
-ahmedrizwan/AndroidKotlinComponents, 0, 0, 0, 0, 5, 5, 442, 1, 2860, 95, 2, 75
-masterwok/simple-vlc-player, 4, 3, 1, 11, 13, 32, 178, 0, 2475, 333, 1, 75
-miquelbeltran/kotlin-node.js, 0, 0, 0, 0, 0, 0, 620, 0, 13, 21, 2, 75
-pakoito/Komprehensions, 0, 0, 0, 96, 0, 96, 818, 0, 3402, 30, 2, 75
-lizixian18/NicePhoto, 0, 3, 1, 7, 8, 19, 509, 0, 2625, 23, 3, 74
-emreeran/LocationLiveData, 0, 0, 0, 1, 0, 1, 85, 0, 450, 56, 1, 74
-dkandalov/scratch, 0, 3, 0, 6, 8, 17, 2993, 4, 2339, 224, 6, 74
-Lesincs/SimpleRead, 0, 3, 2, 15, 12, 32, 227, 0, 3694, 14, 2, 74
-dyguests/FlameBarChart, 0, 1, 1, 9, 1, 12, 178, 0, 1108, 115, 1, 74
-uber/crumb, 0, 3, 3, 21, 6, 33, 522, 3, 2661, 69, 6, 74
-Yumenokanata/FragmentManager, 0, 0, 1, 10, 4, 15, 1048, 0, 1259, 93, 4, 74
-sys1yagi/mastodon4j, 0, 3, 0, 20, 10, 33, 583, 16, 3904, 218, 10, 73
-arturogutierrez/Openticator, 1, 0, 0, 12, 23, 36, 1027, 8, 4644, 203, 3, 73
-mapzen/eraser-map, 1, 10, 2, 13, 22, 48, 1327, 22, 8847, 1291, 18, 73
-project-ubin/ubin-corda, 2, 26, 69, 30, 3, 130, 377, 3, 13851, 2, 1, 73
-robfletcher/strikt, 0, 3, 0, 13, 4, 20, 210, 15, 6230, 626, 8, 73
-florent37/Kanvas, 0, 1, 0, 18, 4, 23, 108, 0, 1754, 15, 2, 73
-brianwernick/PlaylistCore, 2, 2, 0, 11, 10, 25, 1043, 3, 2919, 146, 4, 73
-GavinPacini/daysuntil, 0, 1, 0, 4, 3, 8, 1141, 0, 783, 62, 2, 73
-Kotlin/kotlinx.reflect.lite, 0, 0, 0, 11, 0, 11, 1179, 3, 811, 55, 5, 73
-marcoferrer/kroto-plus, 2, 0, 0, 5, 1, 8, 261, 4, 2324, 133, 2, 73
-MindorksOpenSource/Kotlin-Networking, 0, 5, 1, 5, 8, 19, 574, 1, 3747, 63, 3, 72
-eugenebrusov/android-cards, 0, 0, 0, 0, 0, 0, 447, 1, 161, 88, 2, 72
-shigebeyond/jkmvc, 4, 9, 2, 73, 32, 120, 556, 0, 13976, 811, 2, 72
-hazuki0x0/YuzuBrowser, 9, 26, 8, 114, 107, 264, 626, 62, 33992, 1081, 3, 72
-gahfy/Feed-Me, 0, 0, 0, 0, 1, 1, 280, 1, 436, 14, 2, 72
-arslancharyev31/Anko-ExpandableTextView, 0, 1, 0, 1, 1, 3, 493, 4, 574, 40, 2, 72
-zacharee/SystemUITunerRedesign, 0, 3, 0, 13, 21, 37, 497, 11, 4960, 2238, 6, 72
-koalanlp/koalanlp, 0, 3, 0, 9, 9, 21, 1573, 0, 12113, 461, 6, 72
-Khang-NT/Android-Media-Converter, 0, 2, 1, 16, 22, 41, 327, 13, 5158, 590, 8, 71
-surfstudio/SurfAndroidStandard, 59, 5, 3, 169, 105, 341, 150, 0, 26941, 2284, 51, 71
-developer--/before_after_slider, 0, 0, 0, 0, 1, 1, 854, 2, 251, 70, 2, 71
-hanjoongcho/aaf-easydiary, 0, 8, 4, 18, 13, 43, 465, 12, 6008, 678, 8, 71
-retrograde/retrograde-android, 0, 1, 0, 13, 16, 30, 447, 4, 6808, 140, 4, 71
-mplacona/BurnerPhones, 0, 0, 0, 0, 0, 0, 503, 0, 155, 16, 2, 71
-Takhion/kotlin-metadata, 0, 0, 0, 9, 2, 11, 490, 3, 1083, 29, 3, 71
-juanchosaravia/autodsl, 0, 0, 0, 6, 0, 6, 27, 0, 1361, 40, 4, 71
-sorra/sage-system, 0, 1, 0, 61, 25, 87, 608, 0, 5520, 712, 6, 71
-ECLaboratorio/BubbleShowCase-Android, 0, 3, 0, 5, 5, 13, 74, 5, 1194, 28, 2, 70
-ajalt/flexadapter, 0, 2, 1, 8, 3, 14, 913, 1, 1556, 114, 3, 70
-kingsollyu/AppEnv-Kotlin, 0, 2, 2, 3, 9, 16, 358, 5, 2912, 119, 5, 70
-florent37/KotlinNativeSample, 0, 0, 0, 1, 1, 2, 25, 0, 439, 13, 2, 70
-florent37/KotlinAnim, 0, 0, 0, 3, 0, 3, 261, 0, 183, 8, 2, 70
-ErikHellman/KotlinAsyncWithCoroutines, 0, 0, 0, 0, 0, 0, 315, 0, 137, 4, 1, 70
-CodingDoug/firebase-jetpack, 10, 0, 0, 1, 3, 14, 129, 1, 2586, 30, 1, 70
-jaredsburrows/android-gradle-kotlin-app-template, 0, 0, 0, 0, 0, 0, 993, 0, 14, 38, 1, 70
-SimpleMobileTools/Simple-Commons, 0, 9, 0, 54, 16, 79, 715, 1, 8591, 2966, 74, 70
-whalemare/RxValidator2, 0, 0, 0, 1, 1, 2, 506, 0, 462, 36, 3, 70
-kioko/motion-layout-playground, 0, 1, 1, 0, 1, 3, 81, 0, 423, 71, 1, 70
-DavidEdwards/GDPRConsent, 0, 1, 0, 3, 3, 7, 201, 1, 778, 44, 2, 70
-MarcinMoskala/VideoPlayView, 0, 0, 0, 0, 0, 0, 412, 0, 165, 23, 2, 69
-sockeqwe/CoordinatorsAndroid, 0, 0, 0, 0, 1, 1, 203, 0, 921, 10, 1, 69
-chahine/pageindicator, 0, 1, 1, 0, 2, 4, 297, 6, 658, 16, 3, 69
-afollestad/viewpagerdots, 0, 1, 0, 1, 1, 3, 42, 0, 357, 9, 1, 69
-npryce/snodge, 1, 1, 0, 9, 1, 12, 1711, 0, 3537, 333, 1, 69
-jeremymailen/kotlinter-gradle, 0, 0, 0, 5, 0, 5, 565, 3, 408, 73, 3, 69
-wuseal/Kotlin-Reflect-Tools-For-JVM, 0, 1, 0, 7, 0, 8, 391, 0, 740, 25, 3, 69
-goyourfly/MultiPictureView, 0, 1, 0, 2, 2, 5, 519, 3, 470, 17, 2, 69
-brianmadden/krawler, 0, 2, 0, 5, 1, 8, 762, 2, 2276, 207, 3, 69
-agilie/VolumeControlView, 0, 1, 0, 6, 3, 10, 535, 3, 714, 55, 5, 69
-kitek/android-rv-swipe-delete, 0, 0, 0, 1, 0, 1, 518, 5, 129, 4, 1, 69
-andreabresolin/KotlinCoroutinesExamples, 1, 0, 0, 8, 8, 17, 375, 0, 2619, 53, 1, 68
-fengzhizi715/SAF-Kotlin-log, 0, 1, 0, 0, 0, 1, 686, 1, 836, 169, 2, 68
-JetBrains/teamcity-dotnet-plugin, 20, 1, 2, 49, 7, 79, 1047, 10, 12084, 404, 7, 68
-pedromassango/IBackdrop, 0, 0, 0, 0, 1, 1, 142, 1, 255, 59, 3, 68
-slamdon/kotlin-playground, 0, 0, 1, 0, 6, 7, 371, 0, 4086, 79, 1, 68
-darshanparajuli/LogcatReader, 1, 6, 2, 9, 16, 34, 370, 9, 4945, 557, 5, 68
-concretesolutions/kappuccino, 0, 0, 0, 12, 6, 18, 610, 9, 1818, 280, 7, 68
-panpanini/MokuMokuNotes_Android, 0, 0, 0, 1, 2, 3, 295, 1, 320, 18, 2, 68
-kroegerama/retrofit-kaiteki, 0, 0, 0, 2, 3, 5, 201, 1, 839, 35, 2, 68
-jstuyts/kotlin-multiplatform-recipes, 10, 0, 2, 0, 0, 12, 542, 4, 416, 69, 1, 68
-ankitsharma6466/AndroidKotlinBoilerplate, 0, 0, 0, 0, 1, 1, 318, 3, 410, 21, 1, 67
-divyanshub024/ColorSeekBar, 0, 0, 0, 1, 1, 2, 99, 3, 164, 20, 3, 67
-robstoll/atrium, 376, 9, 0, 839, 21, 1245, 686, 23, 52478, 1332, 5, 67
-bitvale/DroidMotion, 0, 0, 0, 0, 2, 2, 104, 0, 593, 4, 1, 67
-2dxgujun/Kpan, 0, 2, 0, 3, 1, 6, 333, 5, 552, 20, 1, 67
-fengzhizi715/SAF-Kotlin-Utils, 0, 0, 0, 11, 0, 11, 677, 0, 1431, 144, 2, 67
-voyages-sncf-technologies/tock, 71, 24, 23, 334, 50, 502, 625, 9, 63265, 1248, 21, 67
-Cognifide/gradle-aem-plugin, 0, 7, 4, 41, 18, 70, 569, 35, 6591, 1053, 18, 66
-JetBrains/kotlin-netbeans, 31, 4, 1, 75, 29, 140, 1170, 21, 12538, 912, 11, 66
-vanniktech/lint-rules, 34, 0, 0, 7, 1, 42, 699, 1, 6887, 246, 4, 66
-zyyoona7/KExtensions, 0, 0, 0, 45, 0, 45, 458, 0, 3136, 57, 1, 66
-pvasa/EasyCrypt, 0, 2, 0, 23, 4, 29, 513, 0, 3686, 109, 2, 66
-fython/Kotlinyan, 0, 0, 0, 1, 2, 3, 542, 0, 1975, 62, 3, 66
-mayabot/fastText4j, 0, 3, 1, 26, 5, 35, 158, 3, 2694, 36, 3, 66
-cpjit/swagger, 0, 1, 1, 8, 5, 15, 787, 1, 3000, 79, 6, 66
-bigmanLau/CardviewFix, 0, 1, 2, 7, 4, 14, 138, 4, 878, 25, 2, 66
-kevalpatel2106/green-build, 0, 1, 0, 38, 29, 68, 224, 5, 12576, 90, 3, 66
-burntcookie90/KotMeh, 0, 1, 1, 0, 0, 2, 1327, 3, 459, 30, 2, 66
-binaryfoo/emv-bertlv, 13, 0, 0, 40, 5, 58, 1523, 2, 3001, 256, 6, 65
-chrislo27/RhythmHeavenRemixEditor, 0, 21, 15, 50, 51, 137, 764, 1, 22789, 3266, 10, 65
-Jire/Abendigo, 0, 1, 2, 26, 2, 31, 1088, 34, 1828, 289, 6, 65
-wuhenzhizao/kotlin-adapter, 5, 0, 1, 27, 12, 45, 431, 0, 3953, 111, 2, 65
-kotlin-graphics/kotlin-unsigned, 0, 0, 0, 2, 4, 6, 765, 4, 1299, 139, 9, 65
-BlueBoxWare/LibGDXPlugin, 32, 5, 1, 54, 37, 129, 854, 1, 22281, 244, 1, 65
-MlxChange/BestGithub, 0, 0, 0, 1, 4, 5, 82, 0, 874, 31, 2, 65
-dcampogiani/UnderlinePageIndicator, 0, 0, 0, 0, 1, 1, 139, 0, 227, 8, 1, 65
-KonradSzewczuk/WeatherApp, 0, 0, 0, 1, 3, 4, 318, 1, 1181, 26, 3, 65
-cn-ljb/mvp-kotlin, 0, 3, 3, 8, 27, 41, 500, 0, 4506, 75, 4, 64
+Project, LF (t=30), LPL(t=2), TMM(t=5), Total, Lifespan, Issues, LOC, Commits, Contributors, Stargazers
+JetBrains/kotlin,4746,11202,2896,18844,2477,96,1030909,81451,370,25332
+shadowsocks/shadowsocks-android,5,10,20,35,2170,10,7815,2614,44,19057
+tipsy/profile-summary-for-github,0,0,0,0,350,11,361,198,10,18323
+google/iosched,29,45,30,104,1699,22,25634,2348,67,17697
+afollestad/material-dialogs,0,30,12,42,1483,2,5219,1724,90,14675
+Kotlin/anko,5,937,222,1164,1529,206,51278,1089,76,12883
+google/flexbox-layout,3,4,4,11,935,41,9066,570,23,12866
+alibaba/p3c,17,38,21,76,520,13,7033,210,27,12293
+googlesamples/android-architecture-components,1,7,9,17,565,205,10084,230,40,10849
+googlesamples/android-UniversalMusicPlayer,0,0,4,4,1356,18,2739,268,26,10428
+JakeWharton/RxBinding,51,0,0,51,1342,33,4691,555,46,8171
+KotlinBy/awesome-kotlin,0,2,0,2,1196,59,1472,905,160,6059
+square/okio,0,45,19,64,1714,26,10067,809,47,5710
+JetBrains/kotlin-native,13,727,201,941,923,137,101833,4933,89,5164
+ReactiveX/RxKotlin,0,65,0,65,1559,10,2513,307,49,5012
+googlesamples/android-topeka,0,16,11,27,1297,8,5976,241,22,4993
+googlesamples/android-sunflower,2,0,1,3,186,45,1971,260,14,4979
+agrosner/DBFlow,1,78,78,157,1530,39,22484,2876,66,4411
+ktorio/ktor,11,272,80,363,1210,207,56695,2685,68,4113
+Tapadoo/Alerter,0,2,3,5,660,16,1578,303,24,4048
+romannurik/muzei,6,24,27,57,1753,25,17338,1870,24,3753
+Kotlin/kotlinx.coroutines,26,102,56,184,886,152,43927,1518,94,3669
+sourcerer-io/sourcerer-app,0,30,13,43,506,119,8926,307,18,3429
+ssseasonnn/RxDownload,0,15,21,36,758,94,2709,463,8,3407
+RedApparat/Fotoapparat,2,7,9,18,612,38,7045,615,29,3033
+enbandari/Kotlin-Tutorials,1,2,1,4,777,1,730,120,3,2898
+bufferapp/android-clean-architecture-boilerplate,0,2,6,8,473,25,2468,65,10,2574
+worker8/TourGuide,1,2,4,7,1332,77,1954,242,15,2550
+KeepSafe/dexcount-gradle-plugin,0,9,4,13,1270,9,1526,314,25,2544
+corda/corda,68,750,252,1070,780,91,154528,8392,143,2525
+InsertKoinIO/koin,1,66,17,84,537,47,14464,1047,30,2512
+dbacinski/Design-Patterns-In-Kotlin,0,1,1,2,790,3,465,112,14,2412
+Triple-T/gradle-play-publisher,0,4,2,6,1571,14,1871,569,40,2379
+kittinunf/Fuel,1,20,11,32,1270,29,12384,764,55,2356
+inorichi/tachiyomi,1,65,106,172,1145,287,32846,1514,55,2277
+Kotlin/kotlin-koans,5,13,0,18,1711,31,1802,218,50,2237
+arrow-kt/arrow,2,553,137,692,611,179,38679,4254,130,2133
+TonicArtos/SuperSLiM,0,51,33,84,1438,30,4796,752,5,2124
+JakeWharton/kotterknife,0,0,0,0,1497,17,251,82,14,2121
+tipsy/javalin,0,12,6,18,602,15,5887,750,45,2116
+airbnb/MvRx,0,44,8,52,146,26,5170,186,16,2110
+gradle/kotlin-dsl,57,125,28,210,942,171,27036,3470,30,2103
+JetBrains/kotlin-examples,0,1,2,3,2078,32,1948,220,26,2079
+intellij-rust/intellij-rust,105,326,82,513,1166,362,83653,6502,124,2066
+JetBrains/Exposed,0,51,26,77,1944,98,9238,1106,56,2032
+edvin/tornadofx,0,294,42,336,1054,57,23515,2686,81,2009
+garretyoder/Colorful,0,3,2,5,782,5,259,121,7,1968
+antoniolg/Kotlin-for-Android-Developers,0,3,0,3,1237,4,658,131,2,1964
+git-xuhao/KotlinMvp,0,22,20,42,373,2,6113,107,4,1921
+YiiGuxing/TranslationPlugin,1,32,15,48,907,3,6894,776,2,1862
+square/sqldelight,10,20,21,51,1131,52,13743,1125,34,1861
+JetBrains/kotlinconf-app,1,5,8,14,395,6,2414,182,18,1850
+afollestad/aesthetic,0,14,2,16,563,4,5388,296,8,1838
+izhangzhihao/intellij-rainbow-brackets,3,10,5,18,417,11,2548,393,6,1824
+TwidereProject/Twidere-Android,55,476,188,719,1606,233,81742,3102,29,1780
+shyiko/ktlint,6,22,0,28,851,62,7186,624,33,1764
+dev-labs-bg/transitioner,0,1,0,1,352,0,163,34,1,1743
+chrisbanes/tivi,7,43,35,85,465,18,14745,1107,13,1706
+DroidNinja/Android-FilePicker,0,6,11,17,847,40,2725,91,12,1684
+antoniolg/Bandhook-Kotlin,2,5,8,15,1345,12,4530,108,12,1655
+byoutline/kickmaterial,1,16,11,28,1151,0,3349,194,8,1573
+arturbosch/detekt,59,14,28,101,763,118,29776,2281,88,1557
+square/kotlinpoet,0,34,9,43,634,26,13290,1272,105,1520
+nhaarman/mockito-kotlin,0,3,0,3,1042,27,2851,331,26,1512
+JakeWharton/SdkSearch,0,4,2,6,346,42,2879,745,15,1505
+spekframework/spek,6,18,18,42,2211,58,3081,1022,59,1488
+nekocode/create-android-kotlin-app,0,0,1,1,1184,1,554,28,1,1468
+Kodein-Framework/Kodein-DI,0,61,16,77,1319,4,11361,417,27,1454
+afollestad/drag-select-recyclerview,0,2,3,5,1128,1,658,97,5,1434
+SimpleMobileTools/Simple-Calendar,1,50,31,82,1034,99,8931,3017,77,1423
+ingbyr/VDM,0,4,4,8,928,20,2257,299,5,1413
+alibaba/transmittable-thread-local,9,0,0,9,1869,15,2412,636,16,1389
+klinker24/Android-TextView-LinkBuilder,0,3,2,5,1250,5,971,112,15,1374
+githubwing/GankClient-Kotlin,0,3,1,4,733,11,979,46,4,1364
+Yalantis/SearchFilter,0,5,5,10,759,10,1435,23,6,1363
+LRH1993/Eyepetizer-in-Kotlin,0,13,8,21,513,11,3109,55,2,1315
+Yalantis/JellyToolbar,0,1,2,3,607,11,445,22,2,1315
+aritraroy/Flashbar,0,1,9,10,339,19,2654,73,2,1309
+anthonycr/Lightning-Browser,3,36,34,73,2123,302,12086,1893,94,1289
+SumiMakito/AwesomeQRCode,0,5,0,5,577,7,729,83,3,1276
+fossasia/susi_android,0,22,37,59,795,102,7709,1022,136,1270
+Yalantis/Multi-Selection,0,4,7,11,768,3,1091,11,2,1256
+DanielMartinus/Konfetti,1,8,6,15,610,12,1632,244,7,1253
+kotlintest/kotlintest,15,167,12,194,1092,37,22066,1225,78,1241
+heimashi/kotlin_tips,0,4,1,5,345,0,904,59,5,1226
+Tinder/Scarlet,10,7,14,31,180,13,7956,205,10,1216
+faruktoptas/FancyShowCaseView,0,4,5,9,627,12,2347,142,25,1185
+mockk/mockk,4,170,33,207,404,42,16887,1159,21,1175
+android10/Android-CleanArchitecture-Kotlin,0,5,5,10,548,43,2420,217,6,1148
+JakeWharton/retrofit2-kotlin-coroutines-adapter,0,0,0,0,333,5,335,26,6,1144
+loopeer/shadow,0,6,1,7,433,13,881,52,4,1097
+ajermakovics/jvm-mon,0,1,1,2,657,12,134,41,5,1091
+TonnyL/PaperPlane,15,19,18,52,982,3,8617,246,9,1083
+DroidKaigi/conference-app-2018,2,20,26,48,337,30,12045,1803,153,1078
+googlesamples/android-ConstraintLayoutExamples,0,0,0,0,633,22,907,33,7,1073
+igalata/Bubble-Picker,0,4,3,7,626,37,835,41,7,1041
+saket/InboxRecyclerView,1,5,10,16,98,3,2319,162,2,1039
+PaulWoitaschek/Voice,1,31,43,75,1576,102,13372,3660,27,1016
+nickbutcher/AdaptiveIconPlayground,0,4,1,5,507,11,571,26,1,1016
+Gh0u1L5/WechatMagician,0,14,3,17,437,46,3296,757,7,992
+hzsweers/CatchUp,2,51,39,92,944,30,18900,1268,8,987
+Ramotion/fluid-slider-android,0,3,1,4,376,13,532,113,9,975
+mwolfson/android-historian,0,6,2,8,1193,0,1673,133,4,965
+Kotlin/kotlinx.serialization,1,70,58,129,493,113,11541,388,19,964
+JetradarMobile/android-snowfall,0,1,1,2,703,8,335,41,7,957
+Kotlin/kotlin-fullstack-sample,0,13,8,21,711,20,2020,54,10,937
+cbeust/klaxon,0,11,8,19,2043,28,4499,651,35,936
+wuapnjie/PoiShuhui-Kotlin,0,1,4,5,990,7,1180,17,4,935
+rbro112/Android-Indefinite-Pager-Indicator,1,0,2,3,387,6,909,78,4,932
+wuseal/JsonToKotlinClass,24,11,9,44,453,3,6472,238,8,913
+PaperAirplane-Dev-Team/BlackLight,0,0,0,0,1562,1162,0,1459,18,911
+airbnb/paris,20,28,12,60,342,24,9824,406,12,893
+sephiroth74/android-target-tooltip,0,7,5,12,1641,64,1508,229,9,878
+afollestad/material-cab,0,2,3,5,1301,0,626,133,5,866
+vektah/CodeGlance,0,8,5,13,1981,37,1732,149,9,859
+bufferapp/clean-architecture-components-boilerplate,0,1,3,4,429,8,2677,78,9,854
+8enet/Charles-Crack,0,5,0,5,245,1,343,12,2,846
+blackbbc/Tucao,2,38,48,88,680,4,13331,543,3,844
+fossasia/open-event-android,0,11,28,39,1305,55,6426,315,31,832
+ncapdevi/FragNav,5,3,3,11,974,25,2119,428,20,826
+Kotlin/dokka,17,77,47,141,1597,132,12784,1445,36,822
+armcha/Ribble,0,30,29,59,484,8,5405,106,4,809
+kiruto/debug-bottle,0,27,31,58,828,5,10335,522,2,802
+loopeer/code-reader,1,25,30,56,844,7,8589,409,9,797
+pawegio/KAndroid,0,20,4,24,1340,3,1206,227,6,785
+kizitonwose/Time,0,8,1,9,395,2,233,40,4,785
+TradeMe/MapMe,0,11,5,16,488,5,1388,56,4,766
+MarioAriasC/funKTionale,0,275,9,284,2067,11,5429,146,14,762
+shellljx/TagViewGroup,0,5,4,9,703,1,828,57,2,761
+perwendel/spark-kotlin,1,46,3,50,550,18,1187,49,3,747
+RedMadRobot/input-mask-android,0,7,2,9,760,4,3181,103,11,727
+ingokegel/jclasslib,27,44,36,107,2566,4,14553,991,6,727
+2dust/v2rayNG,0,26,11,37,440,64,4598,37,4,722
+spring-projects/spring-fu,0,31,29,60,185,23,6137,423,15,717
+duanhong169/DrawableToolbox,0,7,5,12,116,0,1717,59,1,701
+holgerbrandl/kscript,0,6,2,8,986,20,1040,470,19,695
+juanchosaravia/KedditBySteps,0,0,2,2,1032,0,780,86,11,674
+nitrico/LastAdapter,0,2,2,4,884,13,605,164,3,671
+http4k/http4k,13,107,29,149,612,7,22403,2812,38,670
+Ccixyj/JBusDriver,1,8,18,27,595,10,7929,469,5,660
+SchibstedSpain/Barista,2,20,0,22,674,28,2212,281,25,651
+dlew/android-architecture-counter-sample,0,0,3,3,557,2,440,3,2,650
+agoda-com/Kakao,0,3,14,17,425,4,4471,240,24,643
+bufferapp/android-clean-architecture-mvi-boilerplate,0,0,3,3,342,4,2865,82,9,642
+duckduckgo/Android,12,38,39,89,681,39,20610,606,12,633
+permissions-dispatcher/permissions-dispatcher-plugin,1,0,4,5,944,10,846,236,5,630
+MicroUtils/kotlin-logging,1,15,6,22,877,1,1543,311,10,619
+mplatvoet/kovenant,0,65,13,78,1435,8,9099,710,7,615
+SimpleMobileTools/Simple-Gallery,0,27,25,52,1013,139,10427,4197,107,615
+TonnyL/Mango,1,3,29,33,510,1,8229,48,9,613
+Gh0u1L5/WechatSpellbook,0,29,4,33,264,17,3617,103,3,592
+jabbink/PokemonGoBot,0,38,6,44,858,102,4247,464,60,586
+SalomonBrys/Kotson,0,3,1,4,1379,12,1108,56,7,584
+kbiakov/CodeView-android,0,7,5,12,825,8,1590,138,5,583
+blokadaorg/blokada,0,58,30,88,736,90,13123,290,6,580
+burhanrashid52/YoutubeUX,0,3,4,7,241,0,2238,88,1,574
+ansman/kotshi,0,20,2,22,515,13,3039,114,7,574
+RocketChat/Rocket.Chat.Android,18,84,89,191,1074,144,24992,4683,79,569
+acejump/AceJump,0,5,2,7,2301,51,1948,678,15,566
+vanniktech/gradle-dependency-graph-generator-plugin,5,3,0,8,268,1,1225,55,6,563
+patloew/countries,8,14,7,29,974,2,3356,106,6,558
+tommybuonomo/morph-bottom-navigation,1,0,1,2,168,3,349,15,3,557
+FredJul/Flym,0,3,7,10,2042,56,4115,1317,56,553
+hussien89aa/KotlinUdemy,0,6,11,17,555,6,4016,41,4,550
+gildor/kotlin-coroutines-retrofit,0,0,0,0,644,2,651,65,10,549
+xiprox/ErrorView,0,1,1,2,1490,2,347,111,4,544
+Kotlin/kotlinx.html,0,114,10,124,1333,32,8606,606,16,543
+mrsegev/MovieNight,0,8,13,21,275,2,3757,14,1,543
+JesusM/FingerprintManager,7,8,8,23,600,5,1655,26,2,541
+qingmei2/RxImagePicker,4,32,46,82,321,4,6282,182,4,539
+JakeWharton/dex-member-list,0,0,0,0,1063,6,1208,122,5,539
+qiuxiang/react-native-amap3d,0,1,8,9,548,39,1234,382,6,537
+TonnyL/Spark,0,0,0,0,456,0,156,5,2,535
+Bakumon/MoneyKeeper,0,43,41,84,167,4,14628,345,5,534
+GwonHyeok/StickySwitch,0,2,1,3,622,7,486,79,7,534
+iceCola7/WanAndroid,0,132,114,246,219,4,10618,282,4,534
+scana/ok-gradle,0,0,4,4,405,7,1542,18,4,528
+damianpetla/kotlin-dagger-example,0,0,0,0,1442,5,109,34,2,527
+wangzailfm/WanAndroidClient,0,15,21,36,347,4,4721,85,1,525
+yjfnypeu/EasyAndroid,0,18,30,48,204,0,4846,181,3,519
+androidstarters/kotlin-android-starter,0,1,5,6,850,11,1944,144,10,512
+FasterXML/jackson-module-kotlin,0,3,2,5,1551,47,2406,629,23,511
+intellij-solidity/intellij-solidity,7,21,15,43,642,29,7751,355,15,509
+HabitRPG/habitica-android,15,74,131,220,1374,102,29606,2501,73,502
+googlesamples/android-databinding,0,6,2,8,277,7,1706,31,2,499
+wasabifx/wasabi,6,19,5,30,2071,21,3639,651,27,494
+mozilla-mobile/android-components,8,74,54,136,249,281,46709,1068,65,493
+rarnu/root-tools,0,26,9,35,2617,6,5291,905,11,486
+TinyMission/kara,0,46,18,64,2166,4,6895,675,24,483
+JoaoMotondon/RxJavaDemoApp,16,4,25,45,233,5,6156,8,2,483
+TonnyL/Light,0,33,1,34,569,2,548,28,8,483
+Ramotion/navigation-toolbar-android,0,10,12,22,331,4,2333,218,6,482
+tommybuonomo/creative-viewpager,0,2,2,4,206,0,546,20,3,482
+JetBrains/kotlinconf-spinner,0,30,9,39,439,5,3701,200,15,480
+aweconf/awesome-conferences-database,0,0,0,0,429,0,434,623,15,476
+Kotlin/kotlin-frontend-plugin,0,10,9,19,738,63,3885,313,17,470
+JetBrains/kotlin-workshop,1,28,0,29,724,3,4186,89,9,467
+libktx/ktx,0,167,12,179,877,13,19708,433,14,464
+ruzhan123/awaker,1,4,6,11,507,0,2563,300,1,464
+Zackratos/UltimateBar,0,8,1,9,730,10,695,80,4,462
+adisonhuang/awesome-kotlin-android,0,0,0,0,273,0,0,20,2,462
+gojuno/composer,0,6,0,6,598,46,2683,71,18,461
+Cuieney/RxPay,0,1,2,3,436,4,644,117,3,460
+nekocode/Murmur,0,7,5,12,1170,0,1914,62,2,458
+mcxiaoke/kotlin-koi,0,36,6,42,1034,4,3452,69,6,455
+skedgo/DateTimeRangePicker,2,2,0,4,705,8,447,17,3,448
+bassaer/ChatMessageView,0,0,4,4,839,21,1829,349,15,446
+bgard6977/depends,0,0,0,0,26,0,273,26,2,446
+grote/Transportr,1,14,20,35,1906,62,6749,1175,46,444
+Mobcase/McImage,0,5,0,5,603,0,398,86,8,441
+recruit-mp/LightCalendarView,0,2,6,8,734,21,1625,66,6,441
+MarkusAmshove/Kluent,16,5,2,23,1021,7,10379,445,25,437
+sdeleuze/spring-boot-kotlin-demo,0,0,0,0,1029,2,82,61,5,432
+Werb/PickPhotoSample,0,1,5,6,694,8,1127,206,3,430
+kotcity/kotcity,0,53,27,80,265,0,7759,638,8,430
+ffgiraldez/rx-mvvm-android,0,5,0,5,1098,4,845,19,6,429
+dkandalov/kotlin-99,0,18,0,18,811,7,5074,261,5,428
+pro100svitlo/FingerprintAuthHelper,0,1,3,4,780,2,844,67,4,423
+simonpercic/OkLog,0,8,3,11,1148,1,2084,272,2,419
+karntrehan/Posts,0,6,3,9,539,0,1949,65,5,419
+vicpinm/Kotlin-Realm-Extensions,0,19,5,24,692,4,2199,150,15,409
+thomasnield/kotlin-statistics,0,47,2,49,627,8,1618,160,5,409
+brianegan/bansa,2,1,1,4,1083,3,2315,115,4,409
+andremion/Theatre,1,6,2,9,275,4,4409,50,1,409
+550609334/Twobbble,0,56,26,82,643,1,5800,22,1,409
+mixitconf/mixit,0,22,14,36,715,8,3634,1163,18,407
+amanjeetsingh150/kotlin-android-examples,0,3,9,12,377,2,6472,78,5,407
+konifar/material-cat,1,12,4,17,1210,12,1537,115,4,401
+ligi/PassAndroid,3,22,22,47,2132,84,5961,1671,10,401
+florent37/KotlinPleaseAnimate,20,22,4,46,257,3,2373,27,4,399
+Yalantis/OfficialFoldingTabBar.Android,0,0,1,1,710,6,458,10,4,399
+BennyWang/KBinding,1,46,6,53,1109,0,3317,163,5,396
+armcha/ElasticView,0,0,1,1,31,1,373,24,2,396
+romainguy/kotlin-math,0,63,9,72,337,3,1960,47,5,395
+metalabdesign/AsyncAwait,0,1,3,4,828,9,989,111,6,390
+TonnyL/Charles,0,2,7,9,290,4,1737,8,2,390
+QuickPermissions/QuickPermissions,0,0,1,1,285,2,179,40,2,388
+cortinico/slidetoact,0,1,1,2,930,6,601,84,7,388
+saket/FluidKeyboardResize,0,0,0,0,56,2,283,39,1,387
+DanielMartinus/Stepper-Touch,0,1,3,4,616,14,300,47,2,386
+okdroid/checkable-chip-view,0,2,1,3,103,5,436,19,2,386
+aykuttasil/CallRecorder,0,14,4,18,767,25,528,70,3,383
+andretietz/retroauth,2,8,10,20,1266,2,2099,351,5,382
+SchibstedSpain/Leku,0,8,6,14,851,11,2305,433,20,382
+moove-it/fakeit,0,4,11,15,674,17,1161,111,15,376
+francoiscampbell/CircleLayout,0,2,1,3,1047,1,276,51,2,374
+lyft/domic,0,1,6,7,201,6,2485,34,4,374
+mistamek/Android-drawable-preview-plugin,0,2,1,3,195,0,1378,87,3,373
+develar/settings-repository,0,33,9,42,1910,0,3824,317,4,372
+MindorksOpenSource/android-kotlin-mvp-architecture,0,4,14,18,336,14,2316,49,4,371
+square/AssistedInject,1,0,3,4,531,9,3657,145,4,371
+wajahatkarim3/MediumClap-Android,0,3,3,6,298,2,947,111,4,370
+saulmm/From-design-to-Android-part2,0,0,0,0,431,0,95,12,2,370
+gurleensethi/LiteUtilities,0,5,3,8,462,2,775,44,2,370
+qhutch/BottomSheetLayout,0,3,1,4,383,7,260,44,1,369
+Tinder/StateMachine,0,0,3,3,177,3,709,21,2,368
+ligi/SurvivalManual,1,1,4,6,800,30,1136,331,5,367
+zsmb13/MaterialDrawerKt,0,26,2,28,600,1,5898,285,4,367
+Microsoft/thrifty,0,28,18,46,1007,18,14761,442,12,366
+VladimirWrites/Lemniscate,4,6,5,15,676,0,2955,72,2,366
+alexstyl/RadiusTransition,0,0,0,0,240,0,136,8,1,366
+Arasthel/SpannedGridLayoutManager,0,4,1,5,538,9,867,44,4,362
+cbeust/kobalt,2,180,41,223,1147,65,16485,3388,27,361
+kittinunf/Result,0,0,4,4,1124,2,793,107,8,360
+JakeWharton/Reagent,1,0,0,1,745,0,3206,139,2,355
+V2Ray-Android/Actinium,0,16,5,21,825,33,1784,115,4,354
+LibreShift/red-moon,0,2,9,11,984,43,3371,1000,109,353
+freeletics/RxRedux,2,10,6,18,152,4,1791,149,11,351
+michaelxs/Android-CommonShapeButton,0,0,1,1,150,1,284,71,4,350
+ssseasonnn/Yaksa,0,12,6,18,174,4,1529,47,1,343
+fabianonline/telegram_backup,1,21,7,29,876,49,3815,353,9,339
+Talentica/AndroidWithKotlin,0,13,18,31,544,1,2664,83,3,339
+stfalcon-studio/MultiImageView,0,1,1,2,703,2,148,10,4,338
+hypeapps/MaterialTimelineView,1,3,2,6,412,1,384,27,1,338
+android/android-studio-poet,18,27,8,53,415,8,6122,552,11,336
+sangcomz/StickyTimeLine,0,2,1,3,370,4,539,71,5,335
+Jire/Charlatano,0,27,1,28,825,405,3965,445,13,335
+JorgeCastilloPrz/ArrowAndroidSamples,0,7,9,16,632,6,1536,206,5,334
+chibatching/Kotpref,3,30,3,36,1211,5,2705,424,14,333
+moshbit/Kotlift,0,3,0,3,1019,6,1413,68,3,332
+CleverPumpkin/CrunchyCalendar,0,3,7,10,184,4,2247,232,3,331
+graphql-java-kickstart/graphql-java-tools,2,22,10,34,654,16,2531,414,37,329
+MarcinMoskala/ActivityStarter,4,21,7,32,660,4,3091,353,5,329
+stepstone-tech/android-material-app-rating,0,9,6,15,684,5,1616,45,6,328
+MarcinMoskala/ArcSeekBar,0,2,1,3,472,2,240,54,3,326
+sanogueralorenzo/Android-Kotlin-Clean-Architecture,0,1,1,2,334,0,1678,69,2,323
+JorgeCastilloPrz/hiroaki,1,11,3,15,261,3,2968,179,2,321
+dbacinski/Android-Testing-With-Kotlin,0,0,2,2,755,4,395,147,6,318
+Daio-io/dresscode,0,0,1,1,89,0,262,30,2,317
+skydoves/AndroidVeil,0,1,2,3,25,0,763,17,2,316
+TonnyL/WhatsNew,0,0,0,0,359,1,519,6,4,315
+LouisCAD/Splitties,4,149,6,159,835,32,9360,1001,4,315
+mpcjanssen/simpletask-android,2,40,22,64,1780,211,8901,3352,72,314
+vanniktech/RxRiddles,0,0,0,0,183,0,1668,15,7,314
+xenomachina/kotlin-argparser,0,20,2,22,687,25,2388,250,5,310
+walleth/walleth,8,15,25,48,573,117,8102,1027,12,308
+Shopify/livedata-ktx,0,3,0,3,218,7,530,76,3,305
+minecraft-dev/MinecraftDev,40,117,52,209,1171,123,26400,1242,28,305
+bernaferrari/EmojiSlider,0,14,12,26,121,0,2593,69,1,304
+LiushuiXiaoxia/AndroidModular,0,0,3,3,560,0,399,12,2,304
+wordpress-mobile/AztecEditor-Android,5,110,37,152,866,76,22097,3194,24,303
+Commit451/ModalBottomSheetDialogFragment,0,0,1,1,282,0,368,19,4,303
+jerryOkafor/TimeLineView,0,1,1,2,403,0,308,33,5,303
+quiph/RecyclerView-FastScroller,0,0,2,2,151,0,999,21,4,302
+tingyik90/snackprogressbar,0,7,4,11,550,0,1466,66,2,300
+vpaliy/Movies,0,8,27,35,605,2,4636,420,4,300
+Yalantis/kotlin-mvp-example,0,0,3,3,755,1,482,7,6,299
+elpassion/crweather,1,8,1,10,534,5,758,81,1,298
+nirukk52/SnapTabLayout,0,1,1,2,105,1,595,56,3,295
+lsxiao/Apollo,0,4,1,5,839,3,1134,221,4,295
+Mygod/VPNHotspot,2,12,12,26,326,7,4454,442,3,293
+SeunAdelekan/Kanary,0,29,10,39,550,2,2998,169,3,291
+zawadz88/MaterialPopupMenu,1,3,5,9,496,2,1722,25,5,287
+JetBrains/kotlin-wrappers,0,101,6,107,540,21,4481,306,22,286
+fython/PackageTracker,0,14,22,36,887,23,7253,260,13,284
+kaikaixue/Eyepetizer,0,2,36,38,459,3,3763,25,2,284
+thoughtbot/stencil,0,0,1,1,779,2,163,5,1,284
+blackbbc/Evil-Hide,0,0,1,1,993,3,425,51,3,283
+Yelp/kotlin-android-workshop,1,0,0,1,79,0,621,32,2,283
+AkshayChordiya/android-arch-news-sample,0,0,2,2,551,4,860,27,3,281
+KucherenkoIhor/Android-Architecture-Components,0,0,1,1,556,2,362,23,4,281
+cretz/asmble,0,127,23,150,633,10,8802,130,2,280
+santalu/mask-edittext,0,0,1,1,473,1,156,42,5,279
+uber/stylist,0,4,0,4,103,3,641,17,2,279
+msesma/Karchitec,0,2,6,8,541,1,1507,47,3,279
+klinker24/Android-FloatingTutorialActivity,1,1,4,6,443,1,1393,21,1,279
+badoo/MVICore,0,13,9,22,258,3,2570,157,9,278
+infinum/Android-GoldenEye,0,21,8,29,975,1,4549,42,6,276
+CarGuo/GSYGithubAppKotlin,0,162,39,201,17,2,12511,221,2,275
+andyb129/31DaysOfKotlin,0,0,0,0,234,0,42,10,1,274
+googlesamples/android-text,0,4,0,4,303,0,1266,51,5,274
+jonnyzzz/TeamCity.Node,1,7,15,23,2143,49,2532,336,20,274
+fython/MaterialStatusBarCompat,0,2,3,5,1230,0,262,6,2,273
+RubyLichtenstein/RxTest,0,1,0,1,393,1,784,312,4,271
+revely-inc/co.revely.gradient,0,1,3,4,432,3,525,16,1,271
+ravidsrk/kotlinextensions.com,0,0,0,0,452,0,169,46,11,269
+Karn/notify,0,1,3,4,219,2,1790,52,1,269
+bernaferrari/ChangeDetection,1,26,18,45,182,3,6732,195,6,269
+SimpleMobileTools/Simple-File-Manager,0,13,9,22,866,53,2289,1066,49,267
+jaredsburrows/android-gif-example,0,1,3,4,888,3,1227,468,2,267
+mannodermaus/android-junit5,0,13,8,21,786,6,3754,245,5,267
+pakoito/FunctionalAndroidReference,3,16,2,21,795,0,4241,280,2,267
+qhutch/ElevationImageView,0,0,1,1,254,4,193,31,3,265
+mattbdean/JRAW,2,23,25,50,1656,14,10740,1216,27,264
+erikcaffrey/Android-Architecture-Components-Kotlin,0,1,3,4,525,1,1003,50,4,264
+nordprojects/lantern,1,4,17,22,307,0,4823,270,6,264
+mpv-android/mpv-android,0,3,5,8,949,35,1512,454,13,264
+ssseasonnn/RxRouter,0,4,3,7,230,1,1148,29,1,263
+husaynhakeem/android-face-detector,0,5,2,7,156,0,325,27,2,263
+djuarez/Kotlin-CleanArchitecture,0,1,2,3,892,1,881,15,2,262
+satorufujiwara/kotlin-architecture-components,0,0,0,0,535,1,479,63,4,262
+arturbosch/sonar-kotlin,0,11,2,13,507,14,1808,84,12,262
+general-mobile/kotlin-android-mvp-starter,0,0,0,0,552,2,266,7,2,261
+hotchemi/khronos,0,2,0,2,980,9,532,32,3,261
+Kotlin/anko-example,0,1,0,1,1333,9,199,12,2,260
+skydoves/ElasticViews,0,1,6,7,673,0,617,54,2,260
+mazurio/bodyweight-fitness-android,0,9,19,28,1348,29,5636,370,5,259
+SimpleMobileTools/Simple-Camera,0,2,5,7,957,36,2093,986,47,259
+Kotlin-lang-CN/Kotlin-CN,0,33,5,38,879,0,6874,239,5,259
+sekwiatkowski/komputation,10,165,9,184,534,5,11341,192,1,257
+irontec/android-kotlin-samples,0,0,0,0,1313,0,639,56,3,256
+Frederikam/FredBoat,1,44,32,77,996,79,13482,2605,38,256
+Kotlin/ts2kt,6,935,220,1161,1748,65,24117,412,12,255
+arunkumar9t2/transition-x,1,2,4,7,122,0,3168,138,1,254
+neo4j-graphql/neo4j-graphql,0,40,10,50,762,67,4382,202,7,254
+zalando/zally,27,38,12,77,706,35,12577,2195,49,253
+faob-dev/MotionLayoutCarousel,0,0,0,0,40,0,128,12,1,253
+dev-labs-bg/fast-list,0,2,1,3,149,0,156,25,2,253
+jkcclemens/khttp,0,16,2,18,1133,26,3572,180,7,252
+Plastix/Kotlin-Android-Boilerplate,0,6,3,9,835,3,1091,40,3,251
+AllenCoder/BRVAH_kotlin,0,2,2,4,521,7,2656,21,2,250
+gojuno/koptional,0,0,0,0,543,1,588,25,10,249
+iammert/AnimatedTabLayout,0,1,3,4,210,5,483,8,2,249
+ollide/intellij-java2smali,0,0,0,0,1768,4,139,67,4,248
+squanchy-dev/squanchy-android,6,52,45,103,750,33,10287,3651,25,248
+SimpleMobileTools/Simple-Music-Player,0,7,11,18,1050,27,3128,946,40,248
+icela/FriceEngine,0,18,14,32,834,0,3827,749,8,247
+iglaweb/Ferris-Wheel,0,11,4,15,317,0,1126,62,2,246
+YvesCheung/RollingText,0,11,11,22,270,2,1250,55,3,246
+jahirfiquitiva/Frames,0,0,0,0,504,3,111,630,3,242
+santalu/diagonal-imageview,0,0,1,1,473,0,411,44,3,241
+Hexworks/zircon,10,30,85,125,531,39,24819,640,12,240
+CypherpunkArmory/UserLAnd,0,26,17,43,250,69,4671,892,9,240
+ScaleChain/scalechain,10,131,29,170,1120,11,37610,699,6,239
+JcMinarro/Philology,3,2,0,5,148,3,802,30,1,238
+wuapnjie/LayoutMaster,0,14,3,17,225,2,1300,14,2,236
+angryziber/kotlin-puzzlers,0,0,0,0,896,8,67,362,15,235
+gazolla/Kotlin-Algorithm,0,3,6,9,966,3,954,73,10,235
+iPoli/iPoli-android,97,213,183,493,1262,0,86457,7479,7,234
+saket/Flick,1,1,2,4,115,1,583,64,2,234
+patrickyin/clean-architecture-android-kotlin,0,1,0,1,252,2,560,32,1,233
+imablanco/Parallax,0,1,1,2,496,0,301,5,2,233
+npryce/hamkrest,0,10,0,10,1110,12,1456,157,10,233
+JakeWharton/retrofit2-kotlinx-serialization-converter,3,1,0,4,321,0,204,19,1,232
+pardom-zz/redux-kotlin,0,1,0,1,865,2,510,84,2,232
+jnizet/gradle-kotlin-dsl-migration-guide,0,0,0,0,196,0,0,21,2,231
+armcha/ColoredShadowImageView,0,2,1,3,272,3,317,36,3,230
+rubygarage/emotion-rating-view,0,0,1,1,170,1,359,10,4,228
+bmaslakov/kotlin-algorithm-club,0,17,7,24,636,0,5171,103,3,227
+reddit/IndicatorFastScroll,0,3,1,4,249,2,1296,12,2,227
+armcha/PlayTabLayout,0,9,4,13,410,4,1800,24,2,226
+rock3r/deep-clean,0,0,0,0,172,2,0,36,1,226
+styled-components/webstorm-styled-components,1,0,0,1,452,13,380,65,6,225
+satorufujiwara/kotlin-android-flux,0,4,1,5,1256,1,890,97,3,225
+AiYinZiLeGong/PUBG-Radar,2,17,3,22,299,47,3485,33,1,224
+CesarValiente/KUnidirectional,0,2,7,9,592,1,3736,51,2,224
+paphonb/AndroidP-ify,2,11,6,19,254,30,4119,150,14,224
+UCodeUStory/Relax,0,20,4,24,90,1,2801,53,2,221
+awslabs/serverless-photo-recognition,0,0,1,1,689,1,375,75,4,221
+kennycason/bayesian_sentiment_analysis,8,3,3,14,846,0,1810,16,1,220
+Commit451/LabCoat,5,89,67,161,1217,5,17291,913,31,220
+dvoiss/literallytoast,0,3,0,3,413,5,160,23,3,218
+blockchain/My-Wallet-V3-Android,37,151,137,325,1482,2,51915,5565,22,218
+jeffreystoke/openct-android,0,0,1,1,722,31,398,149,2,217
+kohesive/injekt,0,5,4,9,1211,13,801,252,6,217
+isuPatches/WiseFy,5,20,40,65,943,1,9976,276,4,216
+SchibstedSpain/Protein,0,1,1,2,54,1,751,40,2,216
+iielse/behavior-learn,0,5,4,9,170,2,1195,2,1,214
+foolchen/AndroidTracker,0,9,5,14,386,0,2241,127,1,213
+andrefrsousa/SuperBottomSheet,0,1,2,3,40,0,669,46,2,213
+Ruin0x11/intellij-lsp-server,17,72,12,101,281,21,7057,285,7,213
+dmytrodanylyk/coroutine-recipes,0,0,9,9,412,0,686,29,4,213
+googlecodelabs/android-navigation,0,0,1,1,201,8,300,10,5,211
+TonnyL/FanfouHandpick,0,1,1,2,870,0,382,18,2,211
+discordapp/SimpleAST,0,6,0,6,254,2,963,31,6,210
+nsk-mironov/smuggler,0,29,9,38,1009,6,3364,467,2,208
+ztc1997/Fingerprint2Sleep,0,6,9,15,796,27,2196,253,14,207
+NewsCatchr/NewsCatchr,0,8,10,18,815,8,3887,373,3,206
+alxrm/audiowave-progressbar,0,2,1,3,763,6,392,50,6,206
+atsky/haskell-idea-plugin,6,42,68,116,1899,46,15241,990,16,205
+afollestad/assent,0,5,1,6,1092,0,610,85,2,204
+MixinNetwork/android-app,6,193,124,323,212,2,41891,1048,8,204
+ligi/IPFSDroid,0,1,4,5,942,18,645,211,3,204
+zhudyos/duic,3,18,15,36,364,2,7942,479,4,203
+netguru/videochatguru-android,1,3,7,11,488,1,2227,186,4,203
+dkrivoruchko/ScreenStream,0,6,6,12,860,5,3008,164,7,202
+temyco/security-workshop-sample,0,24,23,47,461,2,3017,95,8,201
+kirtan403/K4Kotlin,0,4,1,5,519,2,1336,105,5,201
+substratum/template,0,0,1,1,851,0,495,263,35,200
+Kerr1Gan/Flesh,0,15,13,28,444,2,2782,279,3,199
+alxrm/animated-clock-icon,0,1,3,4,744,1,493,19,3,199
+TradeMe/Covert,0,9,1,10,80,0,996,4,1,199
+XiaoQiWen/KRefreshLayout,0,2,4,6,523,2,1324,65,4,199
+pgutkowski/KGraphQL,1,35,15,51,545,8,7418,149,9,199
+joaquim-verges/Helium,0,1,2,3,247,5,1773,53,2,199
+StevenDXC/DxLoadingButton,0,0,1,1,773,2,601,76,5,195
+limuyang2/LDialog,0,4,4,8,145,2,990,40,2,195
+konrad-kaminski/spring-kotlin-coroutine,37,100,27,164,585,18,7683,62,2,193
+wanglu1209/WPopup,0,2,4,6,88,1,1379,34,2,192
+zhoujunjiang/DoubanMovie,0,4,10,14,548,0,2490,21,2,192
+tslamic/AndroidDeviceNames,0,0,0,0,1201,0,305,37,3,192
+MindorksOpenSource/EditDrawableText,0,0,0,0,144,1,209,27,5,190
+cheptsov/kotlin-nosql,3,20,7,30,1964,11,2620,214,2,190
+inorichi/tachiyomi-extensions,0,9,63,72,673,107,14972,490,43,189
+gothinkster/kotlin-spring-realworld-example-app,0,4,4,8,558,5,1074,68,4,189
+ianhanniballake/LocalStorage,1,0,2,3,1842,0,639,103,2,188
+bufferapp/clean-architecture-koin-boilerplate,0,0,4,4,75,7,1687,83,9,187
+esoxjem/MovieGuide-Kotlin,0,1,1,2,677,2,422,30,2,186
+divyanshub024/AndroidDraw,0,0,3,3,192,2,637,45,3,186
+xurxodev/Movies-Kotlin-Kata,0,0,6,6,597,3,778,57,3,185
+kizitonwose/android-disposebag,0,0,1,1,354,0,205,22,1,185
+Turbo87/intellij-emberjs,7,13,11,31,1104,45,3802,583,12,185
+ajalt/clikt,0,38,2,40,229,5,5668,288,7,185
+alexstyl/Memento-Calendar,22,38,53,113,820,6,14549,1670,8,185
+sellmair/kompass,8,9,9,26,354,17,4803,157,2,184
+ahmedrizwan/RxRecyclerAdapter,0,1,4,5,1082,2,458,61,5,182
+mopsalarm/Pr0,4,110,92,206,1380,5,26991,3341,21,182
+StylingAndroid/Prefekt,0,31,3,34,292,0,1565,13,2,181
+CodeXiaoMai/AndroidGeek,1,8,16,25,611,1,3184,229,3,180
+vitorhugods/AvatarView,0,0,1,1,65,1,679,18,2,179
+JoaquimLey/transport-eta,5,18,10,33,536,38,4412,184,1,179
+touchlab/DroidconKotlin,0,7,9,16,135,8,3441,105,4,178
+borisf/classyshark-bytecode-viewer,0,1,4,5,525,1,789,89,4,178
+StephaneBg/SimpleNumberPicker,0,3,2,5,627,0,647,28,5,178
+mvarnagiris/expensius,2,46,41,89,1278,16,13802,713,5,178
+Kotlin/kotlinx.collections.immutable,0,4,13,17,913,15,1456,68,3,177
+kyonifer/koma,0,106,30,136,1005,34,14187,696,10,176
+andrewoma/kwery,2,40,16,58,1373,10,9405,284,8,176
+florent37/Shrine-MaterialDesign2,0,0,0,0,193,0,57,8,2,175
+fabioCollini/ArchitectureComponentsDemo,1,7,6,14,530,1,2483,229,3,175
+biezhihua/DYTT,0,8,10,18,987,0,2568,305,5,175
+coder-pig/CPWechatXposed,0,0,0,0,236,3,417,15,5,174
+riggaroo/ConstraintLayoutDemo,1,0,0,1,472,0,248,24,1,174
+pwittchen/RxBiometric,0,0,1,1,102,3,499,59,1,173
+Kotlin/kotlin-in-action,0,8,0,8,543,1,2557,3,1,172
+Archinamon/android-gradle-aspectj,0,4,3,7,1264,12,1139,380,13,172
+sdeleuze/geospatial-messenger,0,3,3,6,987,1,482,75,5,172
+ftomassetti/LangSandbox,0,2,0,2,870,3,708,69,4,172
+sdeleuze/spring-kotlin-functional,0,0,1,1,486,0,430,86,3,171
+ernestoyaquello/DragDropSwipeRecyclerview,0,28,10,38,40,0,2629,58,1,171
+rakshakhegde/LastPagerAdapter,0,1,1,2,662,2,247,85,2,171
+MrBIMC/SELinuxModeChanger,0,0,1,1,1308,3,329,16,4,170
+Kotlin/kotlinx-io,3,336,36,375,417,13,19823,447,6,169
+bufferapp/CounterView,0,0,1,1,223,0,156,26,2,169
+maannajjar/lattekit,0,26,14,40,972,12,5004,495,1,169
+xuehuayous/DelegationAdapter,0,8,5,13,222,0,1034,120,3,168
+uber/artist,1,9,2,12,382,2,1763,57,5,168
+nsk-mironov/kotlin-jetpack,0,6,0,6,1154,6,823,114,1,168
+ditclear/PaoNet,0,15,26,41,449,0,4238,57,2,168
+willowtreeapps/assertk,0,11,1,12,591,20,4792,221,18,167
+JLLeitschuh/ktlint-gradle,0,5,2,7,629,17,1624,382,17,167
+BijoySingh/Scarlet-Notes,6,24,51,81,935,45,11659,422,8,166
+wajahatkarim3/EasyValidation,1,269,1,271,209,3,11097,110,6,166
+0xFireball/Enlightened,2,2,10,14,804,21,1391,100,3,166
+yoavst/androidKotlin,0,3,0,3,1362,0,912,23,3,166
+Beepiz/BleGattCoroutines,0,0,2,2,334,11,1031,136,1,165
+ligi/gobandroid,0,12,25,37,3264,59,8419,2108,16,164
+tungdx/android-media-picker,0,7,9,16,1267,17,2841,27,3,164
+holgerbrandl/krangl,0,43,6,49,923,12,4624,333,8,163
+rarnu/wechat_no_revoke,0,4,1,5,683,6,314,10,1,163
+marlonlom/timeago,0,14,0,14,736,5,1176,91,11,163
+skateboard1991/NumberRain,0,0,1,1,216,1,239,8,4,162
+r21nomi/GLRippleView,0,4,3,7,549,2,462,25,2,162
+openrndr/openrndr,0,229,55,284,278,3,17789,458,13,162
+zhangzhao4444/Maxim,0,3,1,4,319,12,751,54,3,161
+gojuno/swarmer,0,4,0,4,599,6,788,26,5,161
+yusufcakmak/ExoPlayerSample,0,0,1,1,745,8,251,58,5,161
+data2viz/data2viz,1,157,60,218,579,46,35700,1424,7,161
+mozilla-mobile/fenix,0,0,2,2,248,34,406,78,4,161
+SimpleMobileTools/Simple-Notes,0,5,7,12,1016,20,2192,867,42,160
+Werb/MoreType,0,8,7,15,511,0,2501,189,3,160
+denofevil/import-cost,0,3,1,4,458,10,200,33,6,160
+hzsweers/palettehelper,0,6,3,9,1379,1,1297,145,2,158
+Will-Ls/WeiYueKotlin,0,25,25,50,340,2,6315,9,3,158
+CoinbaseWallet/toshi-android-client,1,78,112,191,724,12,24715,2804,15,158
+Fondesa/RecyclerViewDivider,0,2,1,3,957,1,1152,188,3,158
+MichaelRocks/paranoid,1,7,3,11,905,1,59966,138,1,157
+googlesamples/android-dynamic-features,0,0,1,1,203,7,380,16,5,157
+hhariri/oreilly-kotlin-course,0,4,0,4,780,1,1000,17,4,157
+nex3z/NotificationBadge,0,0,0,0,718,0,127,37,3,157
+kymjs/KotlinPrimer,0,0,0,0,173,2,1844,9,2,155
+felipecsl/ktnes,0,13,11,24,86,5,4111,126,2,155
+DanluTeam/ColdStart,0,0,0,0,205,0,106,7,2,155
+vanniktech/gradle-maven-publish-plugin,1,1,0,2,184,2,483,34,6,155
+jasync-sql/jasync-sql,39,27,17,83,94,2,12737,777,49,154
+dodyg/Kotlin101,0,1,0,1,2362,0,735,77,2,153
+ihsg/PatternLocker,0,7,9,16,432,1,1487,37,2,152
+wheat7/NationalGeographic,1,3,3,7,425,0,1391,15,3,152
+ahmedrizwan/SeekBarCompat,0,0,1,1,1244,4,440,76,6,151
+volodymyrprokopyuk/kotlin-sdp,0,6,0,6,424,0,1429,76,2,151
+cmelchior/realmfieldnameshelper,0,1,1,2,850,7,292,40,3,151
+mrmike/DiffUtil-sample,0,0,0,0,829,0,123,29,1,150
+PicnicSupermarket/FingerPaintView,0,0,2,2,310,1,306,10,4,150
+skydoves/GithubFollows,0,8,8,16,309,1,2607,97,5,150
+Bridouille/android-beacon-scanner,0,1,11,12,788,3,2097,76,4,150
+yhaolpz/Smile,0,7,5,12,441,4,1482,13,2,149
+fwcd/KotlinLanguageServer,0,20,12,32,181,30,4857,382,10,149
+Waboodoo/HTTP-Shortcuts,2,26,23,51,1311,29,9886,607,7,148
+jaychang0917/SimpleApiClient,2,7,1,10,421,6,973,106,3,148
+juanchosaravia/Keddit,0,0,1,1,1038,1,680,33,4,148
+jshvarts/ConductorMVP,0,1,7,8,377,1,1355,73,1,148
+yole/jitwatch-intellij,0,11,9,20,869,6,1476,57,2,147
+JakeWharton/PxJava,0,0,1,1,747,0,546,1,1,147
+npryce/konfig,0,5,2,7,1090,7,1398,107,4,147
+kotlin-graphics/imgui,0,304,29,333,916,13,21893,3312,102,146
+mythz/kotlin-linq-examples,0,0,6,6,1080,0,1034,26,3,146
+hugocastelani/waterfall-toolbar,0,0,1,1,429,1,408,52,5,146
+marukami/RxKotlin-Android-Samples,2,1,9,12,1058,2,2163,34,2,145
+premnirmal/StockTicker,1,21,25,47,1434,10,6188,447,4,145
+LRH1993/SuiYue,0,6,9,15,289,0,3648,63,2,145
+Litote/kmongo,29,111,23,163,923,5,24472,452,7,144
+mochixuan/AirPurgeView,0,2,3,5,381,1,715,7,2,144
+ibhavikmakwana/Constraint-Layout-Animations,0,2,0,2,270,1,556,32,2,144
+x2bool/kuery,0,3,6,9,904,5,2101,54,3,144
+traversals/kapsule,0,2,1,3,620,0,1322,63,2,144
+bendikv/simple-range-view,0,10,2,12,713,10,1193,22,2,144
+Vuksa/RuntimePermissionsExtended,0,9,3,12,548,2,436,27,2,144
+jahirfiquitiva/Blueprint,0,0,1,1,561,4,158,363,6,144
+phauer/blog-related,0,6,1,7,1063,1,3419,197,2,143
+beworker/autoplay,0,4,0,4,133,0,731,71,2,143
+ehsunshine/colored-time-selector,0,6,11,17,328,1,1747,31,3,143
+gregsh/Clojure-Kit,0,53,38,91,846,5,8548,237,4,142
+XhstormR/GetBilibili,0,1,1,2,799,0,375,93,1,141
+ktorio/ktor-samples,2,16,5,23,306,5,5898,201,12,141
+winterbe/expekt,0,0,6,6,1022,10,1946,57,4,141
+orangy/squash,0,22,8,30,920,9,4487,154,5,141
+ragunathjawahar/kaffeine,0,21,2,23,1396,2,1459,92,2,141
+m7mdra/HtmlRecycler,0,0,1,1,90,0,1186,44,4,140
+algolia/voice-overlay-android,0,2,6,8,142,0,652,152,3,140
+Hexworks/mixite,5,8,9,22,1998,5,2912,176,12,139
+Takhion/android-extras-delegates,0,142,0,142,658,3,1652,23,2,139
+fractalwrench/json-2-kotlin,0,14,2,16,312,1,2157,143,2,139
+bravoborja/SimpleRatingBar,0,1,1,2,631,0,307,15,1,139
+pixiteapps/billingx,0,1,5,6,259,3,1324,27,4,139
+MehdiK/Humanizer.jvm,0,4,3,7,1684,3,2317,83,9,139
+standardnotes/android-classic,0,7,7,14,696,29,2370,241,11,138
+savvyapps/ToggleButtonLayout,0,0,1,1,382,3,366,13,3,138
+eddywm/KTFLITE,0,1,2,3,204,0,225,15,2,138
+bogerchan/Nier-Visualizer,0,0,10,10,339,3,1815,47,2,138
+omar753sahl/Flopsy,0,1,1,2,165,0,275,12,1,138
+coder-pig/WechatHelper,0,0,1,1,235,0,428,15,2,138
+googlesamples/android-media-controller,0,7,3,10,521,0,2820,72,7,137
+SimpleMobileTools/Simple-Calculator,0,4,5,9,1067,16,1067,419,35,137
+nitrico/FontBinder,0,0,1,1,879,0,76,63,2,137
+ligee/kotlin-jupyter,0,3,0,3,867,7,661,55,6,136
+steelkiwi/Getting-started-with-Kotlin,0,0,1,1,740,1,399,22,1,135
+githubhaohao/DoubanBook,0,14,8,22,519,1,2373,51,3,135
+Commit451/Easel,0,1,0,1,1216,2,493,46,5,135
+goyourfly/MultiSelectAdapter,0,2,10,12,535,0,1566,35,2,134
+ajalt/timberkt,0,0,0,0,879,1,301,44,2,134
+sirlantis/rubocop-for-rubymine,0,7,3,10,1475,18,698,61,4,134
+Kotlin/kotlinx.atomicfu,0,12,18,30,475,15,3506,215,10,133
+JetBrains/inspection-plugin,0,30,9,39,478,7,3881,460,4,133
+YvesCheung/TouchEventBus,0,4,4,8,243,4,1249,64,2,133
+lisawray/physics-playground,0,7,3,10,460,0,1124,3,1,133
+Mr-XiaoLiang/RecyclerViewBanner,0,1,3,4,199,2,754,15,2,133
+thomasnield/RxKotlinFX,0,0,0,0,1014,2,784,147,1,133
+antoxa2584x/PinCodeView,0,0,2,2,536,3,458,20,5,132
+transferwise/sequence-layout,0,0,3,3,251,5,555,30,1,132
+TheKhaeng/material-design-guideline,0,2,1,3,599,0,2272,55,3,132
+consoleau/kotlin-jpa-specification-dsl,0,0,0,0,801,5,375,32,6,132
+JetBrains/kotlin-eclipse,64,126,55,245,2093,3,21636,2904,31,132
+steelkiwi/SlidingSquareLoaderView,0,5,4,9,528,1,546,6,1,131
+MycroftAI/Mycroft-Android,0,1,5,6,888,16,1693,171,16,130
+Hamadakram/AlertView,0,0,0,0,256,5,319,23,2,130
+anupcowkur/statelin,0,0,0,0,302,0,93,27,3,130
+mladenrakonjac/ModernAndroidApp,0,0,0,0,471,0,331,77,1,130
+Streetwalrus/android_usb_msd,0,2,1,3,687,12,275,50,6,129
+wangzailfm/GenerateFindViewById,0,8,3,11,733,10,2728,53,4,129
+ImangazalievM/Notelin,0,2,7,9,947,0,643,25,4,129
+galex/name-that-color-intellij-plugin,0,1,2,3,295,4,2251,25,1,129
+Blankeer/WechatBotXposed,0,0,0,0,200,9,213,2,1,129
+burakeregar/KotlinMvpArchitecture,0,1,2,3,551,0,650,33,1,129
+360Conferences/chicago-roboto,0,6,4,10,641,13,2292,130,10,128
+measuresforjustice/textricator,0,25,8,33,194,2,4027,42,2,128
+ttymsd/coordinator-behaviors,0,2,4,6,690,3,1706,81,2,128
+mannodermaus/RxBonjour,0,3,5,8,1298,7,1585,120,5,128
+vickychijwani/kotlin-koans-android,0,10,7,17,534,2,2933,97,1,127
+adisonhuang/buildJar,0,0,0,0,821,4,135,4,1,127
+thesurix/gesture-recycler,0,1,4,5,991,0,990,37,3,127
+StephenVinouze/AdvancedRecyclerView,0,3,4,7,943,0,1084,113,4,127
+Ruben-Sten/TeXiFy-IDEA,27,27,26,80,877,36,13080,1038,10,127
+gurleensethi/kotlin-weather,0,1,1,2,513,2,570,17,2,126
+binaryroot/AndroidArchitecture,0,7,5,12,555,1,1394,37,2,126
+sannies/isoviewer,0,0,0,0,1770,3,424,187,8,126
+Trendyol/medusa,1,1,5,7,17,3,659,61,5,126
+moyheen/face-detector,0,2,1,3,776,3,115,41,4,125
+MenosGrante/Rekado,0,4,5,9,146,2,1509,88,7,125
+Fondesa/KPermissions,13,1,6,20,324,0,2837,78,2,125
+yodle/android-kotlin-demo,0,1,1,2,905,0,699,105,3,125
+abhinav272/NewsApp,0,6,1,7,391,0,932,89,1,125
+MarcinMoskala/PreferenceHolder,1,8,5,14,622,5,989,128,4,124
+Kotlin/kotlinx.cli,0,32,2,34,431,5,975,34,5,124
+massivedisaster/ArcToolbarView,0,0,0,0,413,1,217,48,4,124
+Leeeyou/RsKotlin,0,0,3,3,929,1,677,83,3,123
+yole/kxdate,0,0,0,0,830,0,96,5,2,123
+sellmair/disposer,0,0,2,2,57,1,489,25,1,123
+kunny/RxFirebase,0,4,0,4,794,4,3774,234,3,123
+infotech-group/android-drawable-dsl,0,3,0,3,597,1,356,72,4,123
+kotlinsg/modular,0,1,0,1,233,2,482,4,1,123
+thoughtbot/tropos-android,0,7,11,18,684,3,3322,97,5,123
+SimpleMobileTools/Simple-Contacts,0,11,20,31,350,41,7784,1135,30,122
+square/misk,14,83,45,142,356,81,29721,1014,32,122
+qingmei2/MVVM-Rhine,0,18,5,23,407,1,2641,151,3,122
+VolodymyrLykhonis/kotlinAndroidLib,0,18,0,18,2377,3,479,100,2,121
+the-dagger/Pokidex,0,1,2,3,116,0,722,51,2,120
+JetBrains/kotlin-web-demo,88,84,28,200,2459,1,15484,1805,33,120
+charbgr/AuthManager,0,1,5,6,718,0,803,2,2,119
+shalupov/idea-cloudformation,17,11,5,33,1791,34,4391,507,3,119
+pbyrne84/DynamicReturnTypePlugin,4,20,8,32,2012,21,2248,293,7,119
+DSteve595/Put.io,3,9,17,29,2267,11,4711,397,13,119
+feelfreelinux/WykopMobilny,11,93,94,198,500,22,19072,538,22,118
+AsynkronIT/protoactor-kotlin,2,21,6,29,504,8,3973,326,6,118
+dmitry-zhuravlev/hotswap-agent-intellij-plugin,5,5,2,12,625,4,712,32,3,118
+kohesive/kovert,2,18,1,21,1191,8,3147,240,3,118
+yongjhih/kotlin-extensions,0,1,0,1,1093,3,822,60,5,117
+heremaps/oss-review-toolkit,3,53,24,80,402,52,20781,2581,14,117
+tazjin/kubernetes-letsencrypt,0,4,3,7,799,12,1345,174,6,117
+marcoRS/nested-fragments,0,0,0,0,2201,1,244,23,4,116
+VladRassokhin/intellij-hcl,31,52,19,102,1281,38,13620,972,5,115
+LPirro/ConstraintLayoutAnimations,0,0,0,0,293,0,74,4,2,115
+Polidea/Cockpit,3,15,18,36,229,2,3993,295,9,115
+PSPDFKit-labs/QuickDemo,0,4,1,5,741,3,558,18,6,115
+githubwing/DroidSword,0,0,0,0,393,0,301,26,3,115
+antoniolg/clean-architecture,1,0,0,1,57,0,168,5,1,115
+SimpleMobileTools/Simple-Draw,0,4,4,8,1015,14,1241,526,37,115
+rock3r/uplift,1,1,3,5,396,0,998,97,2,115
+AndroidDeveloperLB/RootHelper,0,0,0,0,755,0,208,33,1,114
+yole/jkid,0,2,2,4,933,0,992,84,6,114
+huzenan/EasyPullLayout,0,1,2,3,454,3,1198,9,2,114
+Camerash/ToggleEditTextView,0,0,2,2,213,0,270,31,2,114
+jeancsanchez/JcPlayer,0,2,6,8,845,10,1453,308,8,114
+sergiocasero/votlin-app,0,1,10,11,45,0,1573,184,4,114
+shiweibsw/EasyHttp,0,6,1,7,579,0,403,20,2,113
+MojRoid/memes,1,3,3,7,330,1,1212,25,4,113
+vanita5/twittnuker,56,467,184,707,1814,16,83474,3092,9,113
+kohesive/klutter,0,180,26,206,1207,1,9416,308,4,113
+hitherejoe/GithubTrending,0,0,0,0,330,7,300,59,1,113
+Nimrodda/dagger-androidinjector,0,0,0,0,609,1,409,38,1,112
+VerbalExpressions/KotlinVerbalExpressions,0,1,1,2,544,0,721,33,3,112
+markormesher/android-fab,0,3,4,7,976,5,959,346,3,112
+Yubico/yubioath-android,0,11,8,19,1909,9,3137,358,9,112
+SpazeDog/rootfw,0,14,6,20,2137,0,2160,251,2,111
+VerachadW/kraph,1,6,3,10,794,5,1187,44,5,111
+QuickPermissions/QuickPermissions-Kotlin,0,4,1,5,147,2,482,26,4,111
+clwater/BezierCurve,0,1,2,3,312,1,427,11,2,110
+springboot-angular2-tutorial/boot-app,1,5,8,14,1109,2,3102,238,3,110
+cdimascio/kotlin-swagger-spring-functional-template,0,0,0,0,360,0,174,132,3,110
+geminiwen/tudounotepad,0,0,1,1,1243,0,427,52,3,110
+gahfy/MVVMPosts,0,0,1,1,154,4,376,15,3,110
+ovy9086/android-mvvm-rx,0,0,0,0,479,0,269,10,2,109
+spring-petclinic/spring-petclinic-kotlin,0,4,2,6,450,3,1822,653,44,109
+korlibs/korio,1,187,63,251,700,3,18825,601,3,109
+Zellius/RxLocationManager,0,6,3,9,1016,5,1264,172,4,109
+yoyiyi/bilisoleil-kotlin,1,6,56,63,500,2,14659,132,1,108
+bazelbuild/rules_kotlin,2,10,5,17,298,35,3004,165,12,108
+googlesamples/android-RuntimePermissionsBasic,0,2,0,2,1277,3,359,15,1,108
+dmdevgo/RxPM,5,4,16,25,492,4,3987,267,4,108
+sreich/ore-infinium,1,60,23,84,1427,14,13534,1067,4,108
+zzhoujay/WallpaperStore,0,3,4,7,1001,1,1052,20,1,108
+abdularis/ParallaxImageView,2,3,0,5,231,0,291,18,2,108
+czyzby/gdx-setup,0,8,13,21,935,4,8744,194,5,107
+Yalantis/Koloda-Android,0,13,5,18,276,5,945,17,5,107
+ticketmaster/actions-on-google-kotlin,0,3,11,14,505,6,9576,279,4,107
+googlesamples/android-SliceViewer,0,1,0,1,201,3,764,22,7,107
+edvin/tornadofx-samples,0,1,1,2,941,2,1139,86,9,107
+kittinunf/Fuse,0,14,1,15,944,4,775,31,2,107
+ivnvrmn/CryptoMoon,0,16,35,51,482,2,4107,154,6,107
+pavelpoley/AdvancedRecycleView,0,0,0,0,148,0,178,14,2,107
+vert-x3/vertx-lang-kotlin,0,338,5,343,755,24,28873,263,15,107
+xmartlabs/fountain,32,13,7,52,178,0,4457,51,2,106
+ohmerhe/Kolley,0,259,4,263,958,7,2958,42,3,106
+sriharshaarangi/BatteryChargeLimit,0,2,4,6,617,36,1421,219,17,106
+sembozdemir/PermissionsKt,0,1,1,2,265,2,251,6,1,106
+sagar-viradiya/AndroidPhysicsAnimation,0,0,0,0,477,0,308,22,2,106
+MarcinMoskala/KotlinAndroidViewBindings,0,1,1,2,584,0,801,41,5,106
+hexagonkt/hexagon,0,54,12,66,956,22,6141,1715,9,106
+artem-zinnatullin/droidcon-nyc-2017-puzzlers,0,0,0,0,426,0,263,6,2,106
+arawn/kotlin-spring-example,0,5,2,7,1005,0,489,7,2,106
+spring-guides/tut-spring-boot-kotlin,0,0,0,0,212,4,307,33,7,106
+omjoonkim/SkeletonLoadingView,0,0,0,0,529,0,224,18,4,105
+minibugdev/DrawableBadge,0,0,1,1,408,4,287,55,7,105
+leon2017/GankJetpack,0,2,5,7,174,2,1110,12,3,105
+unbroken-dome/gradle-testsets-plugin,1,3,4,8,1369,5,1177,110,15,104
+fkorotkov/k8s-kotlin-dsl,1,4,0,5,621,0,7319,99,5,104
+yinjinyj/SuperCalendar,0,15,1,16,298,0,1826,62,3,104
+howshea/GeekNews,0,8,8,16,20,0,3453,132,1,104
+klazuka/intellij-elm,13,49,19,81,428,27,15235,243,3,104
+general-mobile/kotlin-architecture-components-notes-demo,0,0,2,2,549,0,306,15,3,103
+konform-kt/konform,0,1,2,3,263,3,948,32,1,103
+WeRockStar/Dagger2,0,0,2,2,890,0,920,387,2,103
+q876625596/GenjiDialogV2,0,7,5,12,132,1,1868,37,3,102
+Commit451/YouTubeExtractor,0,1,1,2,979,2,517,52,5,102
+general-mobile/kotlin-android-mvvm-starter,0,0,3,3,158,0,514,73,10,102
+yuvraj24/LiveSmashBar,0,0,6,6,203,0,1832,57,1,102
+yiyuanliu/Currency,0,1,3,4,778,0,823,18,2,102
+s4kibs4mi/BelleORM,0,7,4,11,781,8,1568,157,4,101
+JetBrains/ruby-type-inference,4,13,8,25,619,10,3763,533,9,101
+JcMinarro/RoundKornerLayouts,0,2,0,2,523,6,336,26,3,101
+codestation/henkaku-android,0,0,1,1,838,0,189,15,1,100
+hakobast/DropdownTextView,0,3,2,5,287,1,492,16,2,100
+whalemare/sheetmenu,0,1,3,4,545,5,333,52,2,100
+hummatli/AndroidAppUpdater,0,6,2,8,866,8,805,237,6,100
+Zhuinden/espresso-helper,0,1,0,1,210,6,1238,11,3,100
+ashdavies/data-binding,0,2,0,2,1273,0,346,51,3,99
+nhaarman/AsyncAwait-Android,0,5,2,7,764,1,847,27,1,99
+Kyash/rx-keyboard-detector,0,0,0,0,234,1,103,8,2,99
+dpreussler/kotlin-testrunner,3,0,1,4,875,10,396,41,5,99
+lice-lang/lice,0,13,11,24,646,0,3123,466,5,98
+SimpleMobileTools/Simple-Flashlight,0,1,5,6,1054,10,892,350,29,98
+OpenConference/OpenConference-android,20,8,24,52,914,11,6056,72,3,98
+florent37/Motion-ShapeOfView,0,0,0,0,6,0,46,17,2,97
+fede87/StatusBarAlert,0,3,2,5,191,1,441,31,2,97
+vicboma1/Kotlin-Koans,2,12,1,15,1115,0,2183,61,2,97
+adibfara/Lives,0,1,0,1,234,3,1308,49,3,96
+yshrsmz/monotweety,1,6,15,22,792,6,5375,643,4,96
+WindSekirun/RichUtilsKt,0,57,12,69,544,4,7159,451,6,95
+cdimascio/java-dotenv,0,0,0,0,365,1,420,242,3,95
+sdeleuze/spring-kotlin-fullstack,0,0,0,0,410,0,51,12,3,95
+russhwolf/multiplatform-settings,0,0,4,4,200,5,1458,63,1,95
+heimashi/debug_view_kotlin,0,0,7,7,337,1,1076,17,2,94
+bufferapp/ReactivePlayBilling,0,1,1,2,324,2,274,21,3,94
+bjzhou/Coolapk-kotlin,0,2,5,7,1560,1,2459,46,3,94
+hypeapps/episodie,8,20,54,82,820,6,11151,535,4,94
+Yalantis/ColorMatchTabsAndroid,1,4,4,9,500,1,1127,58,4,94
+mtcn/MotionLayoutExamples,0,1,0,1,80,0,291,20,1,93
+BenoitDuffez/AndroidCupsPrint,3,38,10,51,1269,17,5487,276,13,93
+YeungKC/Gank.io-for-Kotlin-Android,0,12,13,25,999,0,2737,58,1,93
+googlesamples/android-VideoPlayer,0,0,3,3,242,0,397,4,2,93
+LateNightProductions/CardKeeper,0,0,3,3,820,0,1021,61,2,93
+hendraanggrian/socialview,0,5,3,8,720,20,1367,144,2,92
+line/clay,0,12,4,16,437,3,2753,15,1,92
+seratch/kotliquery,1,3,2,6,1094,6,1255,72,12,91
+AllanWang/KAU,0,72,24,96,533,9,9756,340,3,91
+msink/kotlin-libui,0,39,7,46,197,5,4507,374,5,91
+kropp/intellij-makefile,10,0,10,20,714,15,1249,225,3,91
+jitsi/jibri,0,14,5,19,1019,20,5764,523,16,91
+fccaikai/Gan_Kotlin,0,2,6,8,543,0,1051,21,3,91
+elpassion/mainframer-intellij-plugin,14,13,3,30,672,11,2841,929,14,91
+hidroh/tldroid,0,9,5,14,1062,1,1421,154,1,91
+MarcinMoskala/KotlinDiscreteMathToolkit,0,0,0,0,599,1,632,150,5,91
+Petrulak/android-kotlin-mvp-clean-architecture,0,9,12,21,427,0,2129,50,1,91
+youxin11544/NumberPicker,0,0,0,0,423,0,223,16,2,90
+MichaelJokAr/ZhihuDaily,1,9,22,32,529,4,6117,62,1,90
+denisidoro/krouter,0,1,2,3,798,1,570,24,2,90
+MaiJiantian/blockchain-kotlin,0,6,3,9,112,0,1548,1,1,89
+ice1000/julia-intellij,0,24,17,41,306,24,6617,1281,10,89
+kohesive/solr-undertow,1,0,3,4,1534,7,1472,330,6,89
+EzraLopez/nearbychat,0,1,2,3,205,6,613,20,1,89
+edsilfer/sticky-index,0,5,6,11,1269,3,1247,60,3,89
+cloudoptlab/cloudopt-next,0,30,10,40,318,2,7133,88,3,89
+JesperQv/Listn,5,11,15,31,279,0,4356,48,2,89
+pandulapeter/campfire-android,7,34,44,85,365,0,10368,1201,2,89
+mvysny/vaadin-on-kotlin,0,24,15,39,956,7,8493,1161,1,88
+sephiroth74/AndroidUIGestureRecognizer,2,4,9,15,737,1,3258,195,3,88
+the-dagger/MLKitAndroid,0,0,2,2,196,0,697,52,3,88
+RobotPajamas/Blueteeth,0,10,4,14,1358,11,965,149,3,88
+zsmb13/VillageDSL,0,2,0,2,443,0,760,22,1,88
+antonicg/cryptodata,0,1,4,5,331,1,888,40,2,88
+wuseal/Kotlin-Reflect-Tools-For-Android,0,6,0,6,375,0,661,21,2,87
+kotomisak/security-showcase-android,1,20,10,31,684,2,2625,361,4,87
+dkandalov/pomodoro-tm,0,2,3,5,3103,8,1048,185,3,86
+stepango/Archetype,0,25,9,34,616,10,2374,36,5,86
+MrBIMC/RunInBackgroundPermissionSetter,0,1,2,3,497,6,264,42,6,86
+michaelkourlas/voipms-sms-client,8,32,19,59,1527,22,10076,334,2,86
+AndreaCioccarelli/CryptoPrefs,0,0,2,2,181,1,389,68,3,86
+program-in-chinese/overview,0,0,0,0,487,41,25,92,3,85
+dvoiss/android-geocities-theme,0,1,4,5,357,0,574,32,1,85
+JetBrains/ideolog,6,12,11,29,537,18,2730,78,7,85
+7449/BannerLayout,0,6,6,12,761,0,2136,68,2,85
+pdvrieze/android-coroutines,3,26,8,37,360,0,2606,173,3,85
+nosix/vue-kotlin,0,8,1,9,485,2,1798,85,1,85
+touchlab/knarch.db,1,104,25,130,192,36,13322,122,2,85
+pszklarska/LiveDataBinding,0,0,0,0,335,2,54,11,3,85
+zekapp/Android-ProgressViews,0,0,3,3,1028,0,427,28,4,85
+florent37/EnhancedNavigationView,0,0,1,1,118,0,138,10,2,85
+pardom-zz/CleanNews,0,9,11,20,984,4,2401,150,3,84
+pablisco/ramBuild,0,0,0,0,1313,0,46,14,3,84
+mukeshsolanki/liquidrefreshlayout,0,1,2,3,219,0,780,11,1,84
+jiangkang/KTools,0,4,11,15,446,0,3821,167,2,84
+westoncb/HNDesktop,0,1,1,2,455,9,566,42,2,84
+jkwiecien/Switcher,0,0,2,2,1350,1,264,91,4,84
+kwebio/core,0,18,8,26,686,19,3595,340,7,84
+gildor/kotlin-coroutines-okhttp,0,0,0,0,559,2,88,4,1,84
+Jetictors/KotlinLearn,0,3,0,3,452,0,2344,23,1,84
+humazed/RoomAsset,0,2,0,2,492,5,214,63,4,83
+wasabeef/kotlin-mvvm,0,2,2,4,251,0,1052,5,2,83
+viniciussoares/ribot-android-boilerplate-kotlin,0,0,1,1,794,0,1069,59,1,83
+Dimezis/RxBus,0,0,0,0,981,2,113,41,4,83
+itsxtt/pattern-lock,0,2,2,4,193,1,469,27,3,83
+burakeregar/KotlinRxMvpArchitecture,0,2,4,6,362,0,894,14,1,83
+xdrop/night-owl-jetbrains,1,1,1,3,177,2,442,194,5,83
+zhudongya123/WechatChatRoomHelper,0,13,12,25,511,3,4096,465,4,83
+h0tk3y/kotlin-monads,0,0,0,0,725,2,337,27,2,83
+Madrapps/Pikolo,0,0,3,3,541,7,490,46,3,82
+bkase/cyklic,0,4,0,4,973,0,455,11,2,82
+jraska/Console,0,0,6,6,1106,0,723,88,4,82
+afollestad/rxkprefs,0,2,4,6,84,0,615,32,1,82
+ZakTaccardi/deck-of-cards,0,4,7,11,614,0,2207,5,1,82
+Sefford/kor,0,3,9,12,1633,0,4187,160,2,82
+ItsPriyesh/chroma,0,1,0,1,1020,3,342,70,2,81
+SimpleMobileTools/Simple-Clock,1,5,14,20,271,41,3080,356,27,81
+imaNNeoFighT/StepBarView,0,0,2,2,234,0,759,75,6,81
+spacecowboy/Feeder,1,28,16,45,1550,7,9911,1022,13,81
+funkyg/funkytunes,0,4,10,14,635,15,1826,55,7,81
+walleth/kethereum,0,23,1,24,545,16,5916,305,9,81
+youxin11544/KPermissions-kotlin,0,2,0,2,423,0,222,4,2,81
+ftomassetti/kanvas,0,6,0,6,875,0,888,102,2,80
+ch4vi/FlowLayout,0,4,1,5,828,4,720,35,4,80
+porokoro/paperboy,0,2,5,7,1258,1,1242,105,2,80
+hotpodata/redchain,1,1,7,9,1097,1,2722,33,3,80
+StephenVinouze/KontinuousSpeechRecognizer,0,0,3,3,556,1,361,24,2,80
+h0tk3y/better-parse,0,8,3,11,505,9,2015,54,1,79
+AllanWang/Frost-for-Facebook,0,19,28,47,545,46,9890,424,1,79
+sockeqwe/Model-View-Intent-Android,0,0,1,1,996,2,239,3,1,79
+TheJuki/KFormMaster,5,7,10,22,284,3,7676,347,5,79
+siosio/GradleDependenciesHelperPlugin,1,0,0,1,1921,7,223,44,2,79
+JuniperPhoton/FlipperLayout,0,0,1,1,686,0,263,47,3,79
+SimpleMobileTools/Simple-App-Launcher,0,1,5,6,841,4,745,317,23,79
+params-ing/StepViewAndroid,0,3,1,4,106,1,882,50,3,78
+imaNNeoFighT/ArcChartView,0,1,2,3,341,0,830,118,4,78
+StylingAndroid/WeatherStation,0,11,6,17,185,1,2169,34,1,78
+aws/aws-toolkit-jetbrains,25,54,26,105,558,76,16389,470,11,78
+chuross/flinglayout,0,1,1,2,398,0,94,11,1,78
+MarioAriasC/KotlinPrimavera,2,17,1,20,2053,2,2186,26,3,78
+JetBrains/kotlin-mpp-example,0,0,0,0,181,2,121,35,6,78
+TouK/bubble,4,1,2,7,1150,0,871,77,3,78
+shiraji/databinding-support,11,0,1,12,735,4,367,127,4,78
+Commit451/ResourcesPoet,0,3,1,4,835,0,939,47,4,78
+MichaelRocks/lightsaber,1,56,30,87,1330,2,11694,1189,2,78
+kittinunf/ReactiveAndroid,4,12,9,25,1028,5,6663,160,5,77
+VictorChow/kotlin-android-lib,0,11,0,11,464,0,964,64,8,77
+zzhoujay/DailyGank,0,1,4,5,986,0,1203,20,1,77
+adrianbukros/github-multiplatform-example,0,0,0,0,80,1,252,9,3,77
+ajalt/mordant,0,6,2,8,426,0,590,50,2,77
+rs146/NewAndroidArchitecture,0,0,0,0,369,1,223,8,1,76
+trent-dev/Kamera,0,2,3,5,315,1,1653,2,1,76
+apptreesoftware/flutter_webview,0,0,2,2,433,10,243,31,5,76
+IslamBesto/CustomBottoBar,0,0,0,0,25,1,42,8,2,76
+tomoima525/debot,1,2,0,3,1157,3,508,132,4,76
+iOSDevLog/JumpJump,0,4,0,4,331,3,680,19,3,76
+creageek/un-material-tab,0,0,2,2,691,2,603,20,1,76
+code-helix/slatekit,0,431,110,541,958,9,44721,764,4,76
+korlibs/klock,0,11,6,17,397,3,2116,194,5,75
+nomisRev/FasterLayoutsWithAnko,0,1,0,1,756,0,226,7,1,75
+ahmedrizwan/AndroidKotlinComponents,0,0,5,5,442,1,2860,95,2,75
+masterwok/simple-vlc-player,4,11,13,28,178,0,2475,333,1,75
+miquelbeltran/kotlin-node.js,0,0,0,0,620,0,13,21,2,75
+pakoito/Komprehensions,0,96,0,96,818,0,3402,30,2,75
+lizixian18/NicePhoto,0,7,8,15,509,0,2625,23,3,74
+emreeran/LocationLiveData,0,1,0,1,85,0,450,56,1,74
+dkandalov/scratch,0,6,8,14,2993,4,2339,224,6,74
+Lesincs/SimpleRead,0,15,12,27,227,0,3694,14,2,74
+dyguests/FlameBarChart,0,9,1,10,178,0,1108,115,1,74
+uber/crumb,0,21,6,27,522,3,2661,69,6,74
+Yumenokanata/FragmentManager,0,10,4,14,1048,0,1259,93,4,74
+sys1yagi/mastodon4j,0,20,10,30,583,16,3904,218,10,73
+arturogutierrez/Openticator,1,12,23,36,1027,8,4644,203,3,73
+mapzen/eraser-map,1,13,22,36,1327,22,8847,1291,18,73
+project-ubin/ubin-corda,2,30,3,35,377,3,13851,2,1,73
+robfletcher/strikt,0,13,4,17,210,15,6230,626,8,73
+florent37/Kanvas,0,18,4,22,108,0,1754,15,2,73
+brianwernick/PlaylistCore,2,11,10,23,1043,3,2919,146,4,73
+GavinPacini/daysuntil,0,4,3,7,1141,0,783,62,2,73
+Kotlin/kotlinx.reflect.lite,0,11,0,11,1179,3,811,55,5,73
+marcoferrer/kroto-plus,2,5,1,8,261,4,2324,133,2,73
+MindorksOpenSource/Kotlin-Networking,0,5,8,13,574,1,3747,63,3,72
+eugenebrusov/android-cards,0,0,0,0,447,1,161,88,2,72
+shigebeyond/jkmvc,4,73,32,109,556,0,13976,811,2,72
+hazuki0x0/YuzuBrowser,9,114,107,230,626,62,33992,1081,3,72
+gahfy/Feed-Me,0,0,1,1,280,1,436,14,2,72
+arslancharyev31/Anko-ExpandableTextView,0,1,1,2,493,4,574,40,2,72
+zacharee/SystemUITunerRedesign,0,13,21,34,497,11,4960,2238,6,72
+koalanlp/koalanlp,0,9,9,18,1573,0,12113,461,6,72
+Khang-NT/Android-Media-Converter,0,16,22,38,327,13,5158,590,8,71
+surfstudio/SurfAndroidStandard,59,169,105,333,150,0,26941,2284,51,71
+developer--/before_after_slider,0,0,1,1,854,2,251,70,2,71
+hanjoongcho/aaf-easydiary,0,18,13,31,465,12,6008,678,8,71
+retrograde/retrograde-android,0,13,16,29,447,4,6808,140,4,71
+mplacona/BurnerPhones,0,0,0,0,503,0,155,16,2,71
+Takhion/kotlin-metadata,0,9,2,11,490,3,1083,29,3,71
+juanchosaravia/autodsl,0,6,0,6,27,0,1361,40,4,71
+sorra/sage-system,0,61,25,86,608,0,5520,712,6,71
+ECLaboratorio/BubbleShowCase-Android,0,5,5,10,74,5,1194,28,2,70
+ajalt/flexadapter,0,8,3,11,913,1,1556,114,3,70
+kingsollyu/AppEnv-Kotlin,0,3,9,12,358,5,2912,119,5,70
+florent37/KotlinNativeSample,0,1,1,2,25,0,439,13,2,70
+florent37/KotlinAnim,0,3,0,3,261,0,183,8,2,70
+ErikHellman/KotlinAsyncWithCoroutines,0,0,0,0,315,0,137,4,1,70
+CodingDoug/firebase-jetpack,10,1,3,14,129,1,2586,30,1,70
+jaredsburrows/android-gradle-kotlin-app-template,0,0,0,0,993,0,14,38,1,70
+SimpleMobileTools/Simple-Commons,0,54,16,70,715,1,8591,2966,74,70
+whalemare/RxValidator2,0,1,1,2,506,0,462,36,3,70
+kioko/motion-layout-playground,0,0,1,1,81,0,423,71,1,70
+DavidEdwards/GDPRConsent,0,3,3,6,201,1,778,44,2,70
+MarcinMoskala/VideoPlayView,0,0,0,0,412,0,165,23,2,69
+sockeqwe/CoordinatorsAndroid,0,0,1,1,203,0,921,10,1,69
+chahine/pageindicator,0,0,2,2,297,6,658,16,3,69
+afollestad/viewpagerdots,0,1,1,2,42,0,357,9,1,69
+npryce/snodge,1,9,1,11,1711,0,3537,333,1,69
+jeremymailen/kotlinter-gradle,0,5,0,5,565,3,408,73,3,69
+wuseal/Kotlin-Reflect-Tools-For-JVM,0,7,0,7,391,0,740,25,3,69
+goyourfly/MultiPictureView,0,2,2,4,519,3,470,17,2,69
+brianmadden/krawler,0,5,1,6,762,2,2276,207,3,69
+agilie/VolumeControlView,0,6,3,9,535,3,714,55,5,69
+kitek/android-rv-swipe-delete,0,1,0,1,518,5,129,4,1,69
+andreabresolin/KotlinCoroutinesExamples,1,8,8,17,375,0,2619,53,1,68
+fengzhizi715/SAF-Kotlin-log,0,0,0,0,686,1,836,169,2,68
+JetBrains/teamcity-dotnet-plugin,20,49,7,76,1047,10,12084,404,7,68
+pedromassango/IBackdrop,0,0,1,1,142,1,255,59,3,68
+slamdon/kotlin-playground,0,0,6,6,371,0,4086,79,1,68
+darshanparajuli/LogcatReader,1,9,16,26,370,9,4945,557,5,68
+concretesolutions/kappuccino,0,12,6,18,610,9,1818,280,7,68
+panpanini/MokuMokuNotes_Android,0,1,2,3,295,1,320,18,2,68
+kroegerama/retrofit-kaiteki,0,2,3,5,201,1,839,35,2,68
+jstuyts/kotlin-multiplatform-recipes,10,0,0,10,542,4,416,69,1,68
+ankitsharma6466/AndroidKotlinBoilerplate,0,0,1,1,318,3,410,21,1,67
+divyanshub024/ColorSeekBar,0,1,1,2,99,3,164,20,3,67
+robstoll/atrium,376,839,21,1236,686,23,52478,1332,5,67
+bitvale/DroidMotion,0,0,2,2,104,0,593,4,1,67
+2dxgujun/Kpan,0,3,1,4,333,5,552,20,1,67
+fengzhizi715/SAF-Kotlin-Utils,0,11,0,11,677,0,1431,144,2,67
+voyages-sncf-technologies/tock,71,334,50,455,625,9,63265,1248,21,67
+Cognifide/gradle-aem-plugin,0,41,18,59,569,35,6591,1053,18,66
+JetBrains/kotlin-netbeans,31,75,29,135,1170,21,12538,912,11,66
+vanniktech/lint-rules,34,7,1,42,699,1,6887,246,4,66
+zyyoona7/KExtensions,0,45,0,45,458,0,3136,57,1,66
+pvasa/EasyCrypt,0,23,4,27,513,0,3686,109,2,66
+fython/Kotlinyan,0,1,2,3,542,0,1975,62,3,66
+mayabot/fastText4j,0,26,5,31,158,3,2694,36,3,66
+cpjit/swagger,0,8,5,13,787,1,3000,79,6,66
+bigmanLau/CardviewFix,0,7,4,11,138,4,878,25,2,66
+kevalpatel2106/green-build,0,38,29,67,224,5,12576,90,3,66
+burntcookie90/KotMeh,0,0,0,0,1327,3,459,30,2,66
+binaryfoo/emv-bertlv,13,40,5,58,1523,2,3001,256,6,65
+chrislo27/RhythmHeavenRemixEditor,0,50,51,101,764,1,22789,3266,10,65
+Jire/Abendigo,0,26,2,28,1088,34,1828,289,6,65
+wuhenzhizao/kotlin-adapter,5,27,12,44,431,0,3953,111,2,65
+kotlin-graphics/kotlin-unsigned,0,2,4,6,765,4,1299,139,9,65
+BlueBoxWare/LibGDXPlugin,32,54,37,123,854,1,22281,244,1,65
+MlxChange/BestGithub,0,1,4,5,82,0,874,31,2,65
+dcampogiani/UnderlinePageIndicator,0,0,1,1,139,0,227,8,1,65
+KonradSzewczuk/WeatherApp,0,1,3,4,318,1,1181,26,3,65
+cn-ljb/mvp-kotlin,0,8,27,35,500,0,4506,75,4,64
