@@ -28,9 +28,6 @@ def user_spec_sample(sample_size):
         print("Please use 100, 200, 300, 400, 500 or 1000 as a sample size. Test case (sample size = 5) will be executed now.")
         return test_case()
 
-input_java_repo = []
-input_kotlin_repo = []
-
 def getLifespanInDays(givenDate):
     datetime_now = getDateFormat(datetime.datetime.today().strftime('%Y-%m-%d'))    
     delta = datetime_now-givenDate
@@ -41,6 +38,18 @@ def getDateFormat(givenDate):
     month = int(givenDate[5:7])
     day = int(givenDate[8:10])
     return (date(year, month, day))
+
+def write_data_to_file(programming_language, input_type):    
+    with open(programming_language+'_repository_names', 'a') as text_file:
+        for page_number in range(len(input_type)):
+            for repo in input_type[page_number]['items']:
+                date_repo = repo['created_at'][:-10]            
+                lifespan = getLifespanInDays(getDateFormat(date_repo))         
+                text_file.write(repo['full_name']+', '+str(lifespan)+', '+str(repo['open_issues'])+', '+str(repo['stargazers_count']))
+                text_file.write('\n')
+
+input_java_repo = []
+input_kotlin_repo = []
 
 try:
     user_argument = (int(sys.argv[1]))
@@ -62,18 +71,5 @@ for page_number in range(number_of_pages):
     input_kotlin_repo.append(json.loads(r_kotlin.text))
     time.sleep(10)
 
-with open('java_repository_names', 'a') as text_file:
-    for page_number in range(len(input_java_repo)):
-        for repo in input_java_repo[page_number]['items']:
-            date_repo = repo['created_at'][:-10]            
-            lifespan = getLifespanInDays(getDateFormat(date_repo))         
-            text_file.write(repo['full_name']+', '+str(lifespan)+', '+str(repo['open_issues'])+', '+str(repo['stargazers_count']))
-            text_file.write('\n')
-
-with open('kotlin_repository_names', 'a') as text_file:
-    for page_number in range(len(input_kotlin_repo)):
-        for repo in input_kotlin_repo[page_number]['items']:            
-            date_repo = repo['created_at'][:-10]
-            lifespan = getLifespanInDays(getDateFormat(date_repo)) 
-            text_file.write(repo['full_name']+', '+str(lifespan)+', '+str(repo['open_issues'])+', '+str(repo['stargazers_count']))
-            text_file.write('\n')
+write_data_to_file('java', input_java_repo)
+write_data_to_file('kotlin', input_kotlin_repo)
