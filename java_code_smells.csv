@@ -1,4 +1,4 @@
-Project, LF (t=30), LPL(t=2), TMM(t=5), Total, Lifespan, Issues, LOC, Commits, Contributors, Stargazers
+Project, LF, LPL, TMM, Total, Lifespan, Issues, LOC, Commits, Contributors, Stargazers
 iluwatar/java-design-patterns,8,97,30,135,1569,180,64318,2743,196,41682
 ReactiveX/RxJava,103,1130,670,1903,2147,29,343496,6524,324,36456
 elastic/elasticsearch,847,10577,3068,14492,3212,1829,1490246,73023,1404,36282
@@ -988,5 +988,3 @@ coobird/thumbnailator,4,47,29,80,1219,57,35001,522,1,1814
 Netflix/archaius,28,75,17,120,2389,81,13778,1172,59,1814
 hyb1996/Auto.js,8,532,135,675,667,40,49092,747,5,1813
 java8/Java8InAction,0,22,6,28,1854,14,3858,61,9,1812
-l123456789jy/Lazy,0,158,19,177,1067,0,18770,75,6,1812
-alibaba/jvm-sandbox,4,162,27,193,479,10,16346,118,18,1810

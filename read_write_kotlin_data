@@ -36,16 +36,4 @@ while read -r line; do
 
 	total=$(($filename_length_counter+$excessiveParameterListSmellCount+$tooManyMethodsSmellCount))
 	echo $rep_name, $filename_length_counter, $excessiveParameterListSmellCount, $tooManyMethodsSmellCount, $total, $lifespan, $issues, $loc, $commits, $contributors, $stargazers_count  >> $csv_file
-done < "$rep_names"    
-
-
-
-
-
-
-
-
-
-
-	
-	
+done < "$rep_names"
