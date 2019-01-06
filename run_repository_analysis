@@ -2,7 +2,7 @@
 
 rm java_repository_names kotlin_repository_names # Removes the existing repositories names
 
-# The following loads reposoitory names via GitHub API and saves them in files
+# The following Python program loads reposoitory names via the GitHub API and saves them in text files
 # Use arguments to indicate the sample size you prefer: 100, 200, 300, 400, 500, 1000
 # Example: #python3 load_repository_names.py 300
 # When no argument is given, the default (5) sample size will be used
