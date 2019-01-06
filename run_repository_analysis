@@ -1,21 +1,21 @@
 #!/usr/bin/bash
 
-rm java_repository_names kotlin_repository_names # removes the existing repositories names
+rm java_repository_names kotlin_repository_names # Removes the existing repositories names
 
-# the following loads reposoitory names via github api and saves them in files
-# use arguments to indicate the sample size you prefer: 100, 200, 300, 400, 500, 1000
-# example(1): #python3 load_repository_names.py 300
-# when no argument is provided, the default (5) will be used
+# The following loads reposoitory names via GitHub API and saves them in files
+# Use arguments to indicate the sample size you prefer: 100, 200, 300, 400, 500, 1000
+# Example: #python3 load_repository_names.py 300
+# When no argument is given, the default (5) sample size will be used
 python3 load_repository_names.py 
 
-# by using the following commands kotlin projects will be downloaded and analysed
+# By using the following commands, Kotlin projects will be downloaded and analysed
 
-bash load_kotlin_repos # clones repositories by reading the files
-bash check_kotlin_smells # uses detekt to analyse the kotlin repositories and saves the logs
-bash read_write_kotlin_data # checks the logs and sums up the code smells
+bash load_kotlin_repos # Clones repositories by reading the files
+bash check_kotlin_smells # Uses Detekt to analyse the Kotlin repositories and saves the logs
+bash read_write_kotlin_data # Checks the logs and sums up the code smells
 
-# by using the following commands java projects will be downloaded and analysed
+# By using the following commands Java projects will be downloaded and analysed
 
-bash load_java_repos # clones repositories by reading the files
-bash check_java_smells # uses pmd to analyse the java repositories and saves the logs
-bash read_write_java_data # checks the logs and sums up the code smells
+bash load_java_repos # Clones repositories by reading the files
+bash check_java_smells # Uses PMD to analyse the Java repositories and saves the logs
+bash read_write_java_data # Checks the logs and sums up the code smells
