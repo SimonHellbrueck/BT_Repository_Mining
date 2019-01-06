@@ -2,7 +2,7 @@
 csv_file=kotlin_code_smells.csv
 rm $csv_file
 rep_names="kotlin_repository_names"
-echo Project, LF '(t=30)', LC '(t=100)', LM'(t=20)', LPL'(t=2)', TMM'(t=5)', Total, Lifespan, Issues, LOC, Commits, Contributors, Stargazers >> $csv_file
+echo Project, LF '(t=30)', LPL'(t=2)', TMM'(t=5)', Total, Lifespan, Issues, LOC, Commits, Contributors, Stargazers >> $csv_file
 while read -r line; do
 	complete_line="$line"
 	rep_name="$( cut -d ',' -f 1 <<< "$complete_line" )"
